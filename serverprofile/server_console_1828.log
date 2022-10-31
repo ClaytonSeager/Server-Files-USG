@@ -1,0 +1,67 @@
+﻿14:53:05 BattlEye Server: Initialized (v1.217)
+14:53:05 Game Port: 2302, Steam Query Port: 2303
+14:53:05 Warning: Current Steam AppId:  doesn't match expected value: 107410
+14:53:05 Mission UrbanSky.kelleysisland read from bank.
+14:53:08 Host identity created.
+14:53:08 Roles assigned.
+14:53:08 Reading mission ...
+14:53:09 BattlEye Server: RCon admin #0 (127.0.0.1:55459) logged in
+14:54:08 BattlEye Server: RCon admin #1 (127.0.0.1:61600) logged in
+14:54:15 Mission read.
+14:54:15 Axel Jones uses modified data file
+14:54:15 Game started.
+14:54:15 BattlEye Server: Player #0 Axel Jones (149.152.23.140:49143) connected
+14:54:15 Player Axel Jones connecting.
+14:54:15 BattlEye Server: Connected to BE Master
+14:54:18 BattlEye Server: Player #0 Axel Jones - BE GUID: 7491baabe0f0bd29f7f51d28794bda13
+14:54:19 Player Axel Jones connected (id=76561198091943121).
+14:54:19 BattlEye Server: Verified GUID (7491baabe0f0bd29f7f51d28794bda13) of player #0 Axel Jones
+14:54:19 Successfull attempt to execute serverCommand '#exec users' by server.
+14:54:52 Wyclef uses modified data file
+14:54:52 BattlEye Server: Player #1 Wyclef (184.54.255.68:2304) connected
+14:54:52 Player Wyclef connecting.
+14:54:54 BattlEye Server: Player #1 Wyclef - BE GUID: f0371387b7fca9ed93f6370adce2e67e
+14:54:57 Player Wyclef connected (id=76561198038112694).
+14:54:57 BattlEye Server: Verified GUID (f0371387b7fca9ed93f6370adce2e67e) of player #1 Wyclef
+14:55:30 William Romano uses modified data file
+14:55:30 BattlEye Server: Player #2 William Romano (74.105.195.99:2304) connected
+14:55:30 Player William Romano connecting.
+14:55:33 Player William Romano disconnected.
+14:55:33 BattlEye Server: Player #2 William Romano disconnected
+14:55:46 Ivan Pershketov uses modified data file
+14:55:46 BattlEye Server: Player #2 Ivan Pershketov (162.213.242.232:2304) connected
+14:55:46 Player Ivan Pershketov connecting.
+14:55:49 BattlEye Server: Player #2 Ivan Pershketov - BE GUID: baeaf37751c8cb5ba1e1a73c33957203
+14:55:50 Player Ivan Pershketov connected (id=76561198105940600).
+14:55:50 BattlEye Server: Verified GUID (baeaf37751c8cb5ba1e1a73c33957203) of player #2 Ivan Pershketov
+14:55:56 Giovanni Di Angelo uses modified data file
+14:55:56 BattlEye Server: Player #3 Giovanni Di Angelo (35.142.206.2:2304) connected
+14:55:56 Player Giovanni Di Angelo connecting.
+14:56:22 Player Axel Jones disconnected.
+14:56:22 BattlEye Server: Player #0 Axel Jones disconnected
+14:59:05 Axel Jones uses modified data file
+14:59:05 BattlEye Server: Player #4 Axel Jones (149.152.23.140:13645) connected
+14:59:05 Player Axel Jones connecting.
+14:59:08 BattlEye Server: Player #4 Axel Jones - BE GUID: 7491baabe0f0bd29f7f51d28794bda13
+14:59:08 Player Axel Jones connected (id=76561198091943121).
+14:59:08 BattlEye Server: Verified GUID (7491baabe0f0bd29f7f51d28794bda13) of player #4 Axel Jones
+15:00:08 William Romano uses modified data file
+15:00:08 BattlEye Server: Player #5 William Romano (74.105.195.99:2304) connected
+15:00:08 Player William Romano connecting.
+15:00:11 Player William Romano disconnected.
+15:00:11 BattlEye Server: Player #5 William Romano disconnected
+15:00:16 Low_Poly_Man uses modified data file
+15:00:16 BattlEye Server: Player #5 Low_Poly_Man (74.128.80.15:2304) connected
+15:00:16 Player Low_Poly_Man connecting.
+15:00:20 BattlEye Server: Player #5 Low_Poly_Man - BE GUID: d250b62ef6125275e039c9badd884760
+15:00:22 Player Low_Poly_Man connected (id=76561198137223112).
+15:00:22 BattlEye Server: Verified GUID (d250b62ef6125275e039c9badd884760) of player #5 Low_Poly_Man
+15:00:46 luke uses modified data file
+15:00:46 BattlEye Server: Player #6 luke (47.135.166.94:2304) connected
+15:00:46 Player luke connecting.
+15:00:48 BattlEye Server: Player #6 luke - BE GUID: 1b3b942c0ee67b426e685870cfe6b312
+15:00:49 Player luke connected (id=76561198264871362).
+15:00:49 BattlEye Server: Verified GUID (1b3b942c0ee67b426e685870cfe6b312) of player #6 luke
+15:00:53 Donnie Turbo uses modified data file
+15:00:53 BattlEye Server: Player #7 Donnie Turbo (192.81.45.131:2304) connected
+15:00:53 Player Donnie Turbo conne

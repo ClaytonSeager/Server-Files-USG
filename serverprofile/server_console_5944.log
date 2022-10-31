@@ -1,0 +1,64 @@
+﻿ 5:16:52 BattlEye Server: Initialized (v1.217)
+ 5:16:53 Game Port: 2302, Steam Query Port: 2303
+ 5:16:53 Mission UrbanSky.kelleysisland read from bank.
+ 5:16:54 Host identity created.
+ 5:16:54 Roles assigned.
+ 5:16:54 Reading mission ...
+ 5:16:55 BattlEye Server: RCon admin #0 (127.0.0.1:56011) logged in
+ 5:19:10 BattlEye Server: RCon admin #1 (127.0.0.1:54280) logged in
+ 5:19:13 BattlEye Server: RCon admin #2 (127.0.0.1:54283) logged in
+ 5:19:22 Mission read.
+ 5:19:22 HoyoBani uses modified data file
+ 5:19:22 Game started.
+ 5:19:22 BattlEye Server: Player #0 HoyoBani (162.213.242.232:2304) connected
+ 5:19:22 Player HoyoBani connecting.
+ 5:19:22 BattlEye Server: Connected to BE Master
+ 5:19:25 BattlEye Server: Player #0 HoyoBani - BE GUID: baeaf37751c8cb5ba1e1a73c33957203
+ 5:19:26 Player HoyoBani connected (id=76561198105940600).
+ 5:19:26 BattlEye Server: Verified GUID (baeaf37751c8cb5ba1e1a73c33957203) of player #0 HoyoBani
+ 5:19:26 Successfull attempt to execute serverCommand '#exec users' by server.
+ 5:23:46 AL "BIG AL" GAMBINO uses modified data file
+ 5:23:46 BattlEye Server: Player #1 AL "BIG AL" GAMBINO (74.193.135.12:2304) connected
+ 5:23:46 Player AL "BIG AL" GAMBINO connecting.
+ 5:23:49 BattlEye Server: Player #1 AL "BIG AL" GAMBINO - BE GUID: 7df6da575da348d57bcde5b09ebf536a
+ 5:23:49 Player AL "BIG AL" GAMBINO connected (id=76561198361509989).
+ 5:23:49 BattlEye Server: Verified GUID (7df6da575da348d57bcde5b09ebf536a) of player #1 AL "BIG AL" GAMBINO
+ 5:23:49 Wyclef uses modified data file
+ 5:23:50 BattlEye Server: Player #2 Wyclef (184.54.255.68:2304) connected
+ 5:23:50 Player Wyclef connecting.
+ 5:23:52 BattlEye Server: Player #2 Wyclef - BE GUID: f0371387b7fca9ed93f6370adce2e67e
+ 5:23:52 Player Wyclef connected (id=76561198038112694).
+ 5:23:52 BattlEye Server: Verified GUID (f0371387b7fca9ed93f6370adce2e67e) of player #2 Wyclef
+ 5:23:57 John Anderson uses modified data file
+ 5:23:57 BattlEye Server: Player #3 John Anderson (76.6.145.223:2304) connected
+ 5:23:57 Player John Anderson connecting.
+ 5:24:01 BattlEye Server: Player #3 John Anderson - BE GUID: 1a817c92339e6b8e805de60b179df342
+ 5:24:01 Player John Anderson connected (id=76561198180893505).
+ 5:24:01 BattlEye Server: Verified GUID (1a817c92339e6b8e805de60b179df342) of player #3 John Anderson
+ 5:24:05 Player AL "BIG AL" GAMBINO disconnected.
+ 5:24:05 BattlEye Server: Player #1 AL "BIG AL" GAMBINO disconnected
+ 5:25:18 AL "BIG AL" GAMBINO uses modified data file
+ 5:25:18 BattlEye Server: Player #4 AL "BIG AL" GAMBINO (74.193.135.12:2304) connected
+ 5:25:18 Player AL "BIG AL" GAMBINO connecting.
+ 5:25:21 BattlEye Server: Player #4 AL "BIG AL" GAMBINO - BE GUID: 7df6da575da348d57bcde5b09ebf536a
+ 5:25:21 Player AL "BIG AL" GAMBINO connected (id=76561198361509989).
+ 5:25:21 BattlEye Server: Verified GUID (7df6da575da348d57bcde5b09ebf536a) of player #4 AL "BIG AL" GAMBINO
+ 5:31:28 Nino Marino uses modified data file
+ 5:31:28 BattlEye Server: Player #5 Nino Marino (71.214.112.161:2304) connected
+ 5:31:28 Player Nino Marino connecting.
+ 5:31:31 BattlEye Server: Player #5 Nino Marino - BE GUID: f39290998763ee67898235ee2ea502e7
+ 5:31:31 Player Nino Marino connected (id=76561198206026112).
+ 5:31:31 BattlEye Server: Verified GUID (f39290998763ee67898235ee2ea502e7) of player #5 Nino Marino
+ 5:32:23 BattlEye Server: RCon admin #0 (127.0.0.1:51264) logged in
+ 5:34:33 BattlEye Server: RCon admin #1 (127.0.0.1:50205) logged in
+ 5:40:08 BattlEye Server: RCon admin #0 (127.0.0.1:60318) logged in
+ 5:42:36 Joe Montana uses modified data file
+ 5:42:36 BattlEye Server: Player #6 Joe Montana (76.185.91.51:2304) connected
+ 5:42:36 Player Joe Montana connecting.
+ 5:42:41 BattlEye Server: Player #6 Joe Montana - BE GUID: 8d6f9bb67fd0cc205c899d4cdd21011c
+ 5:42:41 Player Joe Montana connected (id=76561198368248470).
+ 5:42:41 BattlEye Server: Verified GUID (8d6f9bb67fd0cc205c899d4cdd21011c) of player #6 Joe Montana
+ 5:47:12 Player HoyoBani is losing connection
+ 5:47:14 Player Wyclef is losing connection
+ 5:47:17 Player HoyoBani disconnected.
+ 5:47:17 BattlEye Server: Player #0 Ho

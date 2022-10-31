@@ -1,0 +1,29 @@
+
+extDB3: https://bitbucket.org/torndeco/extdb3/wiki/Home
+extDB3: Version: 1.031
+extDB3: Windows Version
+Message: All development for extDB3 is done on a Linux Dedicated Server
+Message: If you would like to Donate to extDB3 Development
+Message: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2SUEFTGABTAM2
+Message: Also leave a message if there is any particular feature you would like to see added.
+Message: Thanks for all the people that have donated.
+Message: Torndeco: 18/05/15
+
+
+extDB3: Found extdb3-conf.ini
+extDB3: Detected 8 Cores, Setting up 6 Worker Threads
+extDB3: ...
+extDB3: ...
+extDB3: ...
+extDB3: ...
+extDB3: ...
+extDB3: ...
+
+
+[12:02:01:265915 -06:00] [Thread 6868] extDB3: SQL: Initialized: Add Quotes around TEXT Datatypes mode: 2
+[12:02:01:265970 -06:00] [Thread 6868] extDB3: SQL: Initialized: NULL = ""
+[12:02:01:265983 -06:00] [Thread 6868] extDB3: Locked
+[19:59:48:805411 -06:00] [Thread 972] extDB3: SQL: Error MariaDBQueryException: Unknown column 'playerid' in 'where clause'
+[19:59:48:805434 -06:00] [Thread 972] extDB3: SQL: Error MariaDBQueryException: Input: UPDATE players SET jail_time='18' WHERE playerid='76561198272370927'
+[21:16:05:726385 -06:00] [Thread 1632] extDB3: SQL: Error MariaDBQueryException: Data too long for column 'damage' at row 1
+[21:16:05:726403 -06:00] [Thread 1632] extDB3: SQL: Error MariaDBQueryException: Input: UPDATE vehicles SET active='0', inventory='"[[],0]"', gear='"[]"', fuel='0.964728', damage='"[0.0590551,0.275591,0.153543,0.744094,0.102362,0.015748,0,0,0,0,0,0,0,0,0,0,0,0,0,0.271654,0,0,0,0,0,0,0.0275591,0.0354331,0.0433071,0.0472441,0.0511811,0.0708661,0.129921,0.129921,0.129921,0.129921,0.129921,0.129921,0,0,0,0,0.0393701,0.0511811,0.0708661,0.0866142]"', entreprise_id='0' WHERE pid='76561198108391247' AND plate='668733'

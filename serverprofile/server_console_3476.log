@@ -1,0 +1,1441 @@
+﻿10:01:40 BattlEye Server: Initialized (v1.217)
+10:01:40 Game Port: 2302, Steam Query Port: 2303
+10:01:40 Mission UrbanSky.kelleysisland read from bank.
+10:01:41 Host identity created.
+10:01:41 Roles assigned.
+10:01:41 Reading mission ...
+10:01:42 BattlEye Server: RCon admin #0 (127.0.0.1:58965) logged in
+10:02:37 BattlEye Server: RCon admin #1 (127.0.0.1:60308) logged in
+10:02:43 Mission read.
+10:02:43 Radzig Kobyla uses modified data file
+10:02:43 Game started.
+10:02:43 BattlEye Server: Player #0 Radzig Kobyla (75.129.113.251:2304) connected
+10:02:43 Player Radzig Kobyla connecting.
+10:02:43 BattlEye Server: Connected to BE Master
+10:02:46 BattlEye Server: Player #0 Radzig Kobyla - BE GUID: 2171a69b0a8e7bb55eac768fb58f4833
+10:02:47 Player Radzig Kobyla connected (id=76561198089960350).
+10:02:47 BattlEye Server: Verified GUID (2171a69b0a8e7bb55eac768fb58f4833) of player #0 Radzig Kobyla
+10:02:47 Successfull attempt to execute serverCommand '#exec users' by server.
+10:02:48 John Anderson uses modified data file
+10:02:48 BattlEye Server: Player #1 John Anderson (76.6.147.168:2304) connected
+10:02:48 Player John Anderson connecting.
+10:02:51 BattlEye Server: Player #1 John Anderson - BE GUID: 1a817c92339e6b8e805de60b179df342
+10:02:51 Player John Anderson connected (id=76561198180893505).
+10:02:52 BattlEye Server: Verified GUID (1a817c92339e6b8e805de60b179df342) of player #1 John Anderson
+10:08:08 Nino Marino uses modified data file
+10:08:08 BattlEye Server: Player #2 Nino Marino (71.214.112.161:2304) connected
+10:08:08 Player Nino Marino connecting.
+10:08:11 BattlEye Server: Player #2 Nino Marino - BE GUID: f39290998763ee67898235ee2ea502e7
+10:08:12 Player Nino Marino connected (id=76561198206026112).
+10:08:12 BattlEye Server: Verified GUID (f39290998763ee67898235ee2ea502e7) of player #2 Nino Marino
+10:35:22 BattlEye Server: RCon admin #0 (127.0.0.1:51156) logged in
+10:42:01 Player Radzig Kobyla disconnected.
+10:42:01 BattlEye Server: Player #0 Radzig Kobyla disconnected
+11:23:53 Player Nino Marino disconnected.
+11:23:53 BattlEye Server: Player #2 Nino Marino disconnected
+11:26:53 Player John Anderson disconnected.
+11:26:53 BattlEye Server: Player #1 John Anderson disconnected
+11:36:48 BattlEye Server: RCon admin #1 (127.0.0.1:55440) logged in
+11:38:58 BattlEye Server: RCon admin #0 (127.0.0.1:59989) logged in
+11:51:18 BattlEye Server: RCon admin #1 (127.0.0.1:63000) logged in
+12:12:08 BattlEye Server: RCon admin #0 (127.0.0.1:51014) logged in
+12:26:08 BattlEye Server: RCon admin #1 (127.0.0.1:61824) logged in
+12:47:03 BattlEye Server: RCon admin #0 (127.0.0.1:63498) logged in
+12:50:58 BattlEye Server: RCon admin #1 (127.0.0.1:58070) logged in
+14:56:34 BattlEye Server: RCon admin #0 (127.0.0.1:52843) logged in
+15:12:15 BattlEye Server: RCon admin #1 (127.0.0.1:50085) logged in
+15:24:35 BattlEye Server: RCon admin #0 (127.0.0.1:51079) logged in
+17:31:31 BattlEye Server: RCon admin #1 (127.0.0.1:51030) logged in
+18:15:29 Nino Marino uses modified data file
+18:15:29 BattlEye Server: Player #0 Nino Marino (71.214.112.161:2304) connected
+18:15:29 Player Nino Marino connecting.
+18:15:33 BattlEye Server: Player #0 Nino Marino - BE GUID: f39290998763ee67898235ee2ea502e7
+18:15:33 Player Nino Marino connected (id=76561198206026112).
+18:15:33 BattlEye Server: Verified GUID (f39290998763ee67898235ee2ea502e7) of player #0 Nino Marino
+18:15:49 Player Nino Marino disconnected.
+18:15:49 BattlEye Server: Player #0 Nino Marino disconnected
+18:16:18 Jbo Marino[201] uses modified data file
+18:16:18 BattlEye Server: Player #0 Jbo Marino[201] (71.214.112.161:2304) connected
+18:16:18 Player Jbo Marino[201] connecting.
+18:16:21 BattlEye Server: Player #0 Jbo Marino[201] - BE GUID: f39290998763ee67898235ee2ea502e7
+18:16:21 Player Jbo Marino[201] connected (id=76561198206026112).
+18:16:21 BattlEye Server: Verified GUID (f39290998763ee67898235ee2ea502e7) of player #0 Jbo Marino[201]
+18:26:42 luke uses modified data file
+18:26:42 BattlEye Server: Player #1 luke (47.135.166.94:2304) connected
+18:26:42 Player luke connecting.
+18:26:45 BattlEye Server: Player #1 luke - BE GUID: 1b3b942c0ee67b426e685870cfe6b312
+18:26:45 Player luke connected (id=76561198264871362).
+18:26:45 BattlEye Server: Verified GUID (1b3b942c0ee67b426e685870cfe6b312) of player #1 luke
+19:03:38 Thomas Woods uses modified data file
+19:03:38 BattlEye Server: Player #2 Thomas Woods (213.233.155.138:2304) connected
+19:03:38 Player Thomas Woods connecting.
+19:03:42 BattlEye Server: Player #2 Thomas Woods - BE GUID: 5056701f98ec95c72a3a45ef7e890f7c
+19:03:42 Player Thomas Woods connected (id=76561198174871239).
+19:03:42 BattlEye Server: Verified GUID (5056701f98ec95c72a3a45ef7e890f7c) of player #2 Thomas Woods
+19:04:38 Player Thomas Woods disconnected.
+19:04:38 BattlEye Server: Player #2 Thomas Woods disconnected
+19:21:10 Player Jbo Marino[201] disconnected.
+19:21:10 BattlEye Server: Player #0 Jbo Marino[201] disconnected
+19:23:51 Nino Marino uses modified data file
+19:23:51 BattlEye Server: Player #2 Nino Marino (71.214.112.161:2304) connected
+19:23:51 Player Nino Marino connecting.
+19:23:54 BattlEye Server: Player #2 Nino Marino - BE GUID: f39290998763ee67898235ee2ea502e7
+19:23:54 Player Nino Marino connected (id=76561198206026112).
+19:23:54 BattlEye Server: Verified GUID (f39290998763ee67898235ee2ea502e7) of player #2 Nino Marino
+19:25:17 BattlEye Server: RCon admin #0 (127.0.0.1:54354) logged in
+20:14:08 Player luke disconnected.
+20:14:08 BattlEye Server: Player #1 luke disconnected
+21:09:49 luke uses modified data file
+21:09:49 BattlEye Server: Player #3 luke (47.135.166.94:2304) connected
+21:09:49 Player luke connecting.
+21:09:52 BattlEye Server: Player #3 luke - BE GUID: 1b3b942c0ee67b426e685870cfe6b312
+21:09:52 Player luke connected (id=76561198264871362).
+21:09:52 BattlEye Server: Verified GUID (1b3b942c0ee67b426e685870cfe6b312) of player #3 luke
+21:23:28 BattlEye Server: RCon admin #1 (127.0.0.1:64057) logged in
+21:24:39 Donnie Turbo uses modified data file
+21:24:39 BattlEye Server: Player #4 Donnie Turbo (192.81.45.131:2304) connected
+21:24:39 Player Donnie Turbo connecting.
+21:24:42 BattlEye Server: Player #4 Donnie Turbo - BE GUID: a0a46137167d70778acc68329618c7e6
+21:24:43 Player Donnie Turbo connected (id=76561198041233395).
+21:24:43 BattlEye Server: Verified GUID (a0a46137167d70778acc68329618c7e6) of player #4 Donnie Turbo
+21:30:01 Player Donnie Turbo is losing connection
+21:30:06 Player Donnie Turbo disconnected.
+21:30:06 BattlEye Server: Player #4 Donnie Turbo disconnected
+21:31:53 Donnie Turbo uses modified data file
+21:31:53 BattlEye Server: Player #4 Donnie Turbo (192.81.45.131:2304) connected
+21:31:53 Player Donnie Turbo connecting.
+21:31:56 BattlEye Server: Player #4 Donnie Turbo - BE GUID: a0a46137167d70778acc68329618c7e6
+21:31:56 Player Donnie Turbo connected (id=76561198041233395).
+21:31:56 BattlEye Server: Verified GUID (a0a46137167d70778acc68329618c7e6) of player #4 Donnie Turbo
+21:32:14 Melvin Bush uses modified data file
+21:32:14 BattlEye Server: Player #5 Melvin Bush (76.120.21.218:2304) connected
+21:32:14 Player Melvin Bush connecting.
+21:32:17 BattlEye Server: Player #5 Melvin Bush - BE GUID: ee82c3729d5372257d58141db06c50ca
+21:32:17 Player Melvin Bush connected (id=76561198083728776).
+21:32:17 BattlEye Server: Verified GUID (ee82c3729d5372257d58141db06c50ca) of player #5 Melvin Bush
+21:32:56 Low_Poly_Man uses modified data file
+21:32:56 BattlEye Server: Player #6 Low_Poly_Man (74.128.80.15:2304) connected
+21:32:56 Player Low_Poly_Man connecting.
+21:33:00 BattlEye Server: Player #6 Low_Poly_Man - BE GUID: d250b62ef6125275e039c9badd884760
+21:33:29 Player Low_Poly_Man connected (id=76561198137223112).
+21:33:29 BattlEye Server: Verified GUID (d250b62ef6125275e039c9badd884760) of player #6 Low_Poly_Man
+21:38:38 Player Low_Poly_Man disconnected.
+21:38:38 BattlEye Server: Player #6 Low_Poly_Man disconnected
+21:40:42 Simon uses modified data file
+21:40:42 BattlEye Server: Player #6 Simon (74.128.80.226:2304) connected
+21:40:42 Player Simon connecting.
+21:40:45 BattlEye Server: Player #6 Simon - BE GUID: 05c0f2db925132c81ec1d6244c3f6b8e
+21:40:45 Player Simon connected (id=76561198139661569).
+21:40:45 BattlEye Server: Verified GUID (05c0f2db925132c81ec1d6244c3f6b8e) of player #6 Simon
+21:41:39 Player Simon disconnected.
+21:41:39 BattlEye Server: Player #6 Simon disconnected
+21:43:02 Player Donnie Turbo is losing connection
+21:44:19 Simon uses modified data file
+21:44:19 BattlEye Server: Player #6 Simon (74.128.80.226:2304) connected
+21:44:19 Player Simon connecting.
+21:44:22 BattlEye Server: Player #6 Simon - BE GUID: 05c0f2db925132c81ec1d6244c3f6b8e
+21:44:22 Player Simon connected (id=76561198139661569).
+21:44:22 BattlEye Server: Verified GUID (05c0f2db925132c81ec1d6244c3f6b8e) of player #6 Simon
+21:44:45 Low_Poly_Man uses modified data file
+21:44:45 BattlEye Server: Player #7 Low_Poly_Man (74.128.80.15:2304) connected
+21:44:45 Player Low_Poly_Man connecting.
+21:44:49 BattlEye Server: Player #7 Low_Poly_Man - BE GUID: d250b62ef6125275e039c9badd884760
+21:44:51 Player Low_Poly_Man connected (id=76561198137223112).
+21:44:51 BattlEye Server: Verified GUID (d250b62ef6125275e039c9badd884760) of player #7 Low_Poly_Man
+21:48:49 Player Simon disconnected.
+21:48:49 BattlEye Server: Player #6 Simon disconnected
+21:51:57 Player Donnie Turbo disconnected.
+21:51:57 BattlEye Server: Player #4 Donnie Turbo disconnected
+21:54:39 Simon uses modified data file
+21:54:39 BattlEye Server: Player #8 Simon (74.128.80.226:2304) connected
+21:54:39 Player Simon connecting.
+21:54:42 BattlEye Server: Player #8 Simon - BE GUID: 05c0f2db925132c81ec1d6244c3f6b8e
+21:54:42 Player Simon connected (id=76561198139661569).
+21:54:42 BattlEye Server: Verified GUID (05c0f2db925132c81ec1d6244c3f6b8e) of player #8 Simon
+21:57:06 Player Simon disconnected.
+21:57:06 BattlEye Server: Player #8 Simon disconnected
+21:59:52 Donnie Turbo uses modified data file
+21:59:52 BattlEye Server: Player #8 Donnie Turbo (192.81.45.131:2304) connected
+21:59:52 Player Donnie Turbo connecting.
+21:59:55 BattlEye Server: Player #8 Donnie Turbo - BE GUID: a0a46137167d70778acc68329618c7e6
+21:59:56 Player Donnie Turbo connected (id=76561198041233395).
+21:59:56 BattlEye Server: Verified GUID (a0a46137167d70778acc68329618c7e6) of player #8 Donnie Turbo
+22:00:55 Player Low_Poly_Man disconnected.
+22:00:55 BattlEye Server: Player #7 Low_Poly_Man disconnected
+22:01:46 Simon uses modified data file
+22:01:46 BattlEye Server: Player #9 Simon (74.128.80.226:2304) connected
+22:01:46 Player Simon connecting.
+22:01:49 BattlEye Server: Player #9 Simon - BE GUID: 05c0f2db925132c81ec1d6244c3f6b8e
+22:01:49 Player Simon connected (id=76561198139661569).
+22:01:49 BattlEye Server: Verified GUID (05c0f2db925132c81ec1d6244c3f6b8e) of player #9 Simon
+22:02:14 Player Simon disconnected.
+22:02:14 BattlEye Server: Player #9 Simon disconnected
+22:04:24 Simon uses modified data file
+22:04:24 BattlEye Server: Player #9 Simon (74.128.80.226:2304) connected
+22:04:24 Player Simon connecting.
+22:04:27 BattlEye Server: Player #9 Simon - BE GUID: 05c0f2db925132c81ec1d6244c3f6b8e
+22:04:30 Player Simon connected (id=76561198139661569).
+22:04:30 BattlEye Server: Verified GUID (05c0f2db925132c81ec1d6244c3f6b8e) of player #9 Simon
+22:04:50 mcgre uses modified data file
+22:04:50 BattlEye Server: Player #10 mcgre (173.238.153.168:2304) connected
+22:04:50 Player mcgre connecting.
+22:04:53 BattlEye Server: Player #10 mcgre - BE GUID: 5eb6a378973b9d2f9841312533261057
+22:04:53 Player mcgre connected (id=76561198088626704).
+22:04:54 BattlEye Server: Verified GUID (5eb6a378973b9d2f9841312533261057) of player #10 mcgre
+22:05:24 Player mcgre disconnected.
+22:05:24 BattlEye Server: Player #10 mcgre disconnected
+22:08:30 Player Donnie Turbo is losing connection
+22:08:56 Low_Poly_Man uses modified data file
+22:08:56 BattlEye Server: Player #10 Low_Poly_Man (74.128.80.15:2304) connected
+22:08:56 Player Low_Poly_Man connecting.
+22:08:59 BattlEye Server: Player #10 Low_Poly_Man - BE GUID: d250b62ef6125275e039c9badd884760
+22:09:00 Player Low_Poly_Man connected (id=76561198137223112).
+22:09:00 BattlEye Server: Verified GUID (d250b62ef6125275e039c9badd884760) of player #10 Low_Poly_Man
+22:11:55 BattlEye Server: (Direct) Nino Marino: hello
+22:12:11 BattlEye Server: (Direct) Simon: hi
+22:12:20 BattlEye Server: (Direct) Nino Marino: you need to be on teamspeak to be on this server
+22:12:55 BattlEye Server: (Direct) Nino Marino: 144.217.253.115
+22:12:57 BattlEye Server: (Direct) Simon: my TS doesnt want to connect
+22:21:01 Player Donnie Turbo is losing connection
+22:21:06 Player Donnie Turbo disconnected.
+22:21:06 BattlEye Server: Player #8 Donnie Turbo disconnected
+22:22:53 Donnie Turbo uses modified data file
+22:22:53 BattlEye Server: Player #11 Donnie Turbo (192.81.45.131:2304) connected
+22:22:54 Player Donnie Turbo connecting.
+22:22:56 BattlEye Server: Player #11 Donnie Turbo - BE GUID: a0a46137167d70778acc68329618c7e6
+22:22:57 Player Donnie Turbo connected (id=76561198041233395).
+22:22:57 BattlEye Server: Verified GUID (a0a46137167d70778acc68329618c7e6) of player #11 Donnie Turbo
+22:40:00 HoyoBani uses modified data file
+22:40:00 BattlEye Server: Player #12 HoyoBani (162.213.242.232:2304) connected
+22:40:00 Player HoyoBani connecting.
+22:40:03 BattlEye Server: Player #12 HoyoBani - BE GUID: baeaf37751c8cb5ba1e1a73c33957203
+22:40:03 Player HoyoBani connected (id=76561198105940600).
+22:40:03 BattlEye Server: Verified GUID (baeaf37751c8cb5ba1e1a73c33957203) of player #12 HoyoBani
+22:40:15 Player HoyoBani disconnected.
+22:40:15 BattlEye Server: Player #12 HoyoBani disconnected
+22:40:17 HoyoBani uses modified data file
+22:40:17 BattlEye Server: Player #12 HoyoBani (162.213.242.232:2304) connected
+22:40:17 Player HoyoBani connecting.
+22:40:20 BattlEye Server: Player #12 HoyoBani - BE GUID: baeaf37751c8cb5ba1e1a73c33957203
+22:40:20 Player HoyoBani connected (id=76561198105940600).
+22:40:20 BattlEye Server: Verified GUID (baeaf37751c8cb5ba1e1a73c33957203) of player #12 HoyoBani
+22:43:52 BattlEye Server: (Unknown) Low_Poly_Man: what is the use action
+22:44:09 BattlEye Server: (Unknown) Melvin Bush: windows or scroll wheel, depends on the action
+22:44:17 BattlEye Server: (Unknown) Low_Poly_Man: thansk
+22:50:14 WarFire uses modified data file
+22:50:14 BattlEye Server: Player #13 WarFire (47.36.145.145:2304) connected
+22:50:14 Player WarFire connecting.
+22:50:19 BattlEye Server: Player #13 WarFire - BE GUID: 49bfef9dbc9e449692cd9311980923ab
+22:50:20 Player WarFire connected (id=76561198150464364).
+22:50:21 BattlEye Server: Verified GUID (49bfef9dbc9e449692cd9311980923ab) of player #13 WarFire
+22:55:33 Player Melvin Bush disconnected.
+22:55:33 BattlEye Server: Player #5 Melvin Bush disconnected
+22:55:51 Robert Kennedy uses modified data file
+22:55:52 BattlEye Server: Player #14 Robert Kennedy (76.120.21.218:2304) connected
+22:55:52 Player Robert Kennedy connecting.
+22:55:54 BattlEye Server: Player #14 Robert Kennedy - BE GUID: ee82c3729d5372257d58141db06c50ca
+22:55:54 Player Robert Kennedy connected (id=76561198083728776).
+22:55:54 BattlEye Server: Verified GUID (ee82c3729d5372257d58141db06c50ca) of player #14 Robert Kennedy
+22:59:12 BattlEye Server: (Unknown) Low_Poly_Man: is the dodge charger and durango the only dodges in the game
+23:19:57 Player Donnie Turbo is losing connection
+23:20:02 Player Donnie Turbo disconnected.
+23:20:02 BattlEye Server: Player #11 Donnie Turbo disconnected
+23:21:50 Donnie Turbo uses modified data file
+23:21:50 BattlEye Server: Player #15 Donnie Turbo (192.81.45.131:2304) connected
+23:21:50 Player Donnie Turbo connecting.
+23:21:55 BattlEye Server: Player #15 Donnie Turbo - BE GUID: a0a46137167d70778acc68329618c7e6
+23:21:55 Player Donnie Turbo connected (id=76561198041233395).
+23:21:55 BattlEye Server: Verified GUID (a0a46137167d70778acc68329618c7e6) of player #15 Donnie Turbo
+23:25:45 michael uses modified data file
+23:25:45 BattlEye Server: Player #16 michael (67.243.83.213:2304) connected
+23:25:45 Player michael connecting.
+23:25:48 BattlEye Server: Player #16 michael - BE GUID: ffe2130da753d1385e1a96411bccfec4
+23:25:49 Player michael connected (id=76561198346954167).
+23:25:49 BattlEye Server: Verified GUID (ffe2130da753d1385e1a96411bccfec4) of player #16 michael
+23:25:54 S.Kingston uses modified data file
+23:25:54 BattlEye Server: Player #17 S.Kingston (82.43.214.42:2304) connected
+23:25:54 Player S.Kingston connecting.
+23:25:58 BattlEye Server: Player #17 S.Kingston - BE GUID: 25be6e9ae307bb439755ea968f9d36d8
+23:25:58 Player michael disconnected.
+23:25:59 BattlEye Server: Player #16 michael disconnected
+23:26:38 Player S.Kingston connected (id=76561198046640450).
+23:26:38 BattlEye Server: Verified GUID (25be6e9ae307bb439755ea968f9d36d8) of player #17 S.Kingston
+23:39:32 Radzig Kobyla uses modified data file
+23:39:32 BattlEye Server: Player #18 Radzig Kobyla (75.129.113.251:2304) connected
+23:39:32 Player Radzig Kobyla connecting.
+23:39:35 BattlEye Server: Player #18 Radzig Kobyla - BE GUID: 2171a69b0a8e7bb55eac768fb58f4833
+23:39:35 Player Radzig Kobyla connected (id=76561198089960350).
+23:39:35 BattlEye Server: Verified GUID (2171a69b0a8e7bb55eac768fb58f4833) of player #18 Radzig Kobyla
+23:41:39 BattlEye Server: (Direct) Low_Poly_Man: thanks?
+23:41:43 BattlEye Server: (Direct) Simon: THANKS
+23:41:45 BattlEye Server: (Direct) HoyoBani: can you guys hear me?
+23:41:47 BattlEye Server: (Direct) Low_Poly_Man: can you hear me in direct?
+23:41:52 BattlEye Server: (Direct) HoyoBani: we use TFR
+23:41:58 BattlEye Server: (Direct) Low_Poly_Man: shit is that why we need teamspeack
+23:42:00 BattlEye Server: (Direct) HoyoBani: teamspeak
+23:42:02 BattlEye Server: (Direct) HoyoBani: lol yeah
+23:42:05 BattlEye Server: (Direct) HoyoBani: have to
+23:42:11 BattlEye Server: (Direct) Low_Poly_Man: how do i join that stuff
+23:42:22 BattlEye Server: (Direct) HoyoBani: 144.217.253.115
+23:42:23 BattlEye Server: (Direct) HoyoBani: ts ip
+23:42:42 BattlEye Server: (Direct) HoyoBani: u guys have mods loaded, right? lol
+23:42:50 BattlEye Server: (Direct) Low_Poly_Man: thanks downloading now
+23:43:03 BattlEye Server: (Direct) HoyoBani: main people are in union btw
+23:43:18 BattlEye Server: (Direct) Low_Poly_Man: ok
+23:43:20 BattlEye Server: (Direct) HoyoBani: need a ride back?
+23:43:25 BattlEye Server: (Direct) HoyoBani: i can bring your car with us
+23:43:37 BattlEye Server: (Direct) Simon: nah we will be fine
+23:43:42 BattlEye Server: (Direct) HoyoBani: lol ok
+23:43:55 BattlEye Server: (Direct) Simon: thanks for the assist tho
+23:44:03 BattlEye Server: (Direct) HoyoBani: alright well just let us know if you need help once you join the teamspeakl
+23:44:13 BattlEye Server: (Direct) HoyoBani: you need the teamspeak plugin also
+23:44:42 BattlEye Server: (Direct) Low_Poly_Man: ok
+23:44:58 BattlEye Server: (Direct) HoyoBani: cya guys
+23:45:19 BattlEye Server: RCon admin #0 (127.0.0.1:54209) logged in
+23:47:36 BattlEye Server: (Unknown) Low_Poly_Man: how do join the task force radio thing
+23:47:54 BattlEye Server: (Unknown) luke: ask tj
+23:48:08 BattlEye Server: (Unknown) Radzig Kobyla: Join the Teamspeak and we can assist you in setting it up
+23:48:13 BattlEye Server: (Unknown) Low_Poly_Man: i did
+23:48:14 BattlEye Server: (Unknown) Radzig Kobyla: Ask for Jbo in the TS
+23:48:46 BattlEye Server: (Unknown) Low_Poly_Man: how tho
+23:49:57 BattlEye Server: (Direct) Nino Marino: i need ya number hunnie pie
+23:50:06 BattlEye Server: (Direct) HoyoBani: 81 big boy
+23:50:32 Gatsby uses modified data file
+23:50:32 BattlEye Server: Player #19 Gatsby (184.54.255.68:2304) connected
+23:50:32 Player Gatsby connecting.
+23:50:35 BattlEye Server: Player #19 Gatsby - BE GUID: f0371387b7fca9ed93f6370adce2e67e
+23:50:36 Player Gatsby connected (id=76561198038112694).
+23:50:36 BattlEye Server: Verified GUID (f0371387b7fca9ed93f6370adce2e67e) of player #19 Gatsby
+23:59:29 BattlEye Server: (Direct) S.Kingston: Ill brb gotta deal with something
+23:59:56 Player S.Kingston disconnected.
+23:59:56 BattlEye Server: Player #17 S.Kingston disconnected
+ 0:03:48 Rogue Tjay uses modified data file
+ 0:03:48 BattlEye Server: Player #20 Rogue Tjay (99.232.144.252:2304) connected
+ 0:03:48 Player Rogue Tjay connecting.
+ 0:03:53 BattlEye Server: Player #20 Rogue Tjay - BE GUID: 1775b6bbb9f6757ed1e4f0f7592af3e5
+ 0:03:53 Player Rogue Tjay connected (id=76561198883479728).
+ 0:03:54 BattlEye Server: Verified GUID (1775b6bbb9f6757ed1e4f0f7592af3e5) of player #20 Rogue Tjay
+ 0:04:13 Player Rogue Tjay disconnected.
+ 0:04:13 BattlEye Server: Player #20 Rogue Tjay disconnected
+ 0:04:35 [1K-33] R. Tjay uses modified data file
+ 0:04:35 BattlEye Server: Player #20 [1K-33] R. Tjay (99.232.144.252:2304) connected
+ 0:04:36 Player [1K-33] R. Tjay connecting.
+ 0:04:38 BattlEye Server: Player #20 [1K-33] R. Tjay - BE GUID: 1775b6bbb9f6757ed1e4f0f7592af3e5
+ 0:04:39 Player [1K-33] R. Tjay connected (id=76561198883479728).
+ 0:04:39 BattlEye Server: Verified GUID (1775b6bbb9f6757ed1e4f0f7592af3e5) of player #20 [1K-33] R. Tjay
+ 0:05:28 Player HoyoBani disconnected.
+ 0:05:28 BattlEye Server: Player #12 HoyoBani disconnected
+ 0:11:09 BattlEye Server: RCon admin #1 (127.0.0.1:62526) logged in
+ 0:13:29 [1k-12] J. Shepard uses modified data file
+ 0:13:29 BattlEye Server: Player #21 [1k-12] J. Shepard (75.58.49.192:2304) connected
+ 0:13:29 Player [1k-12] J. Shepard connecting.
+ 0:13:32 BattlEye Server: Player #21 [1k-12] J. Shepard - BE GUID: bd4578e615422cb0ed98810eedfeb668
+ 0:13:32 Player [1k-12] J. Shepard connected (id=76561198043298972).
+ 0:13:32 BattlEye Server: Verified GUID (bd4578e615422cb0ed98810eedfeb668) of player #21 [1k-12] J. Shepard
+ 0:14:25 John Anderson uses modified data file
+ 0:14:25 BattlEye Server: Player #22 John Anderson (76.6.147.168:2304) connected
+ 0:14:25 Player John Anderson connecting.
+ 0:14:29 BattlEye Server: Player #22 John Anderson - BE GUID: 1a817c92339e6b8e805de60b179df342
+ 0:14:29 Player John Anderson connected (id=76561198180893505).
+ 0:14:29 BattlEye Server: Verified GUID (1a817c92339e6b8e805de60b179df342) of player #22 John Anderson
+ 0:15:05 Player John Anderson disconnected.
+ 0:15:05 BattlEye Server: Player #22 John Anderson disconnected
+ 0:16:28 Zander Marino uses modified data file
+ 0:16:28 BattlEye Server: Player #22 Zander Marino (76.6.147.168:2304) connected
+ 0:16:28 Player Zander Marino connecting.
+ 0:16:31 BattlEye Server: Player #22 Zander Marino - BE GUID: 1a817c92339e6b8e805de60b179df342
+ 0:16:31 Player Zander Marino connected (id=76561198180893505).
+ 0:16:31 BattlEye Server: Verified GUID (1a817c92339e6b8e805de60b179df342) of player #22 Zander Marino
+ 0:16:54 BattlEye Server: (Unknown) Robert Kennedy: back on 91.1
+ 0:28:37 [i] WVTROOPER uses modified data file
+ 0:28:37 BattlEye Server: Player #23 [i] WVTROOPER (184.170.115.144:2304) connected
+ 0:28:37 Player [i] WVTROOPER connecting.
+ 0:28:40 BattlEye Server: Player #23 [i] WVTROOPER - BE GUID: d5d113622105ceaf2e5c67b37f70cb6b
+ 0:28:40 Player [i] WVTROOPER connected (id=76561198215934571).
+ 0:28:40 BattlEye Server: Verified GUID (d5d113622105ceaf2e5c67b37f70cb6b) of player #23 [i] WVTROOPER
+ 0:28:49 Player [i] WVTROOPER disconnected.
+ 0:28:49 BattlEye Server: Player #23 [i] WVTROOPER disconnected
+ 0:31:54 BattlEye Server: RCon admin #0 (127.0.0.1:64687) logged in
+ 0:34:04 BattlEye Server: RCon admin #1 (127.0.0.1:64840) logged in
+ 0:37:08 Player Radzig Kobyla disconnected.
+ 0:37:08 BattlEye Server: Player #18 Radzig Kobyla disconnected
+ 0:46:19 BattlEye Server: RCon admin #0 (127.0.0.1:60506) logged in
+ 0:58:34 BattlEye Server: RCon admin #1 (127.0.0.1:55170) logged in
+ 1:07:32 Warren Blades uses modified data file
+ 1:07:32 BattlEye Server: Player #23 Warren Blades (147.194.123.91:2304) connected
+ 1:07:32 Player Warren Blades connecting.
+ 1:07:35 BattlEye Server: Player #23 Warren Blades - BE GUID: b939cfb45479e489feaf89532f4420dc
+ 1:07:35 Player Warren Blades connected (id=76561198281290777).
+ 1:07:35 BattlEye Server: Verified GUID (b939cfb45479e489feaf89532f4420dc) of player #23 Warren Blades
+ 1:07:41 S.Kingston uses modified data file
+ 1:07:41 BattlEye Server: Player #24 S.Kingston (82.43.214.42:2304) connected
+ 1:07:41 Player S.Kingston connecting.
+ 1:07:44 BattlEye Server: Player #24 S.Kingston - BE GUID: 25be6e9ae307bb439755ea968f9d36d8
+ 1:07:59 Player S.Kingston connected (id=76561198046640450).
+ 1:07:59 BattlEye Server: Verified GUID (25be6e9ae307bb439755ea968f9d36d8) of player #24 S.Kingston
+ 1:11:33 CHLOE uses modified data file
+ 1:11:33 BattlEye Server: Player #25 CHLOE (75.169.139.56:2304) connected
+ 1:11:34 Player CHLOE connecting.
+ 1:11:36 BattlEye Server: Player #25 CHLOE - BE GUID: ab9b497da01894a5401ed8585e262e42
+ 1:11:59 Player CHLOE connected (id=76561198049027894).
+ 1:11:59 BattlEye Server: Verified GUID (ab9b497da01894a5401ed8585e262e42) of player #25 CHLOE
+ 1:12:13 Player CHLOE disconnected.
+ 1:12:13 BattlEye Server: Player #25 CHLOE disconnected
+ 1:12:33 CHLOE uses modified data file
+ 1:12:33 BattlEye Server: Player #25 CHLOE (75.169.139.56:2304) connected
+ 1:12:33 Player CHLOE connecting.
+ 1:12:36 BattlEye Server: Player #25 CHLOE - BE GUID: ab9b497da01894a5401ed8585e262e42
+ 1:12:37 Player CHLOE connected (id=76561198049027894).
+ 1:12:37 BattlEye Server: Verified GUID (ab9b497da01894a5401ed8585e262e42) of player #25 CHLOE
+ 1:12:49 [TAC]Bronzey uses modified data file
+ 1:12:49 BattlEye Server: Player #26 [TAC]Bronzey (174.119.11.93:2304) connected
+ 1:12:49 Player [TAC]Bronzey connecting.
+ 1:12:51 BattlEye Server: Player #26 [TAC]Bronzey - BE GUID: 211ccb63b5a013a6296dee7c2cfe312a
+ 1:12:52 Player [TAC]Bronzey connected (id=76561198141100495).
+ 1:12:52 BattlEye Server: Verified GUID (211ccb63b5a013a6296dee7c2cfe312a) of player #26 [TAC]Bronzey
+ 1:12:53 Player CHLOE disconnected.
+ 1:12:53 BattlEye Server: Player #25 CHLOE disconnected
+ 1:13:02 Player [TAC]Bronzey disconnected.
+ 1:13:02 BattlEye Server: Player #26 [TAC]Bronzey disconnected
+ 1:13:11 Player luke is losing connection
+ 1:13:16 Player luke disconnected.
+ 1:13:16 BattlEye Server: Player #3 luke disconnected
+ 1:15:23 luke uses modified data file
+ 1:15:23 BattlEye Server: Player #25 luke (47.135.166.94:2304) connected
+ 1:15:23 Player luke connecting.
+ 1:15:26 BattlEye Server: Player #25 luke - BE GUID: 1b3b942c0ee67b426e685870cfe6b312
+ 1:15:26 Player luke connected (id=76561198264871362).
+ 1:15:26 BattlEye Server: Verified GUID (1b3b942c0ee67b426e685870cfe6b312) of player #25 luke
+ 1:17:50 pilot uses modified data file
+ 1:17:50 BattlEye Server: Player #26 pilot (174.60.168.194:2304) connected
+ 1:17:50 Player pilot connecting.
+ 1:17:53 BattlEye Server: Player #26 pilot - BE GUID: 8cbcb681439f82b5552a5af754cac628
+ 1:17:54 Player pilot connected (id=76561198059594963).
+ 1:17:54 BattlEye Server: Verified GUID (8cbcb681439f82b5552a5af754cac628) of player #26 pilot
+ 1:18:12 Player pilot disconnected.
+ 1:18:12 BattlEye Server: Player #26 pilot disconnected
+ 1:39:45 BattlEye Server: (Unknown) Low_Poly_Man: can someone help with the ts again
+ 1:39:54 BattlEye Server: (Unknown) Low_Poly_Man: it is me and war in the entrance thing
+ 1:40:08 BattlEye Server: (Unknown) Low_Poly_Man: well civ chat room 1
+ 1:56:41 BattlEye Server: (Direct) WarFire: go reload 
+ 2:05:09 BattlEye Server: (Group) Simon: OOPS
+ 2:05:48 BattlEye Server: (Group) Low_Poly_Man: is there any medics on?
+ 2:07:29 Player Simon disconnected.
+ 2:07:29 BattlEye Server: Player #9 Simon disconnected
+ 2:19:38 Simon uses modified data file
+ 2:19:38 BattlEye Server: Player #26 Simon (74.128.80.226:2314) connected
+ 2:19:38 Player Simon connecting.
+ 2:19:41 BattlEye Server: Player #26 Simon - BE GUID: 05c0f2db925132c81ec1d6244c3f6b8e
+ 2:19:42 Player Simon connected (id=76561198139661569).
+ 2:19:42 BattlEye Server: Verified GUID (05c0f2db925132c81ec1d6244c3f6b8e) of player #26 Simon
+ 2:20:00 Player Simon disconnected.
+ 2:20:00 BattlEye Server: Player #26 Simon disconnected
+ 2:22:14 BattlEye Server: (Direct) WarFire: no on the phone with my mom
+ 2:22:35 BattlEye Server: (Direct) Low_Poly_Man: we can move on to the stuff if you want
+ 2:24:11 Simon uses modified data file
+ 2:24:11 BattlEye Server: Player #26 Simon (74.128.80.226:2304) connected
+ 2:24:11 Player Simon connecting.
+ 2:24:14 BattlEye Server: Player #26 Simon - BE GUID: 05c0f2db925132c81ec1d6244c3f6b8e
+ 2:24:15 Player Simon connected (id=76561198139661569).
+ 2:24:15 BattlEye Server: Verified GUID (05c0f2db925132c81ec1d6244c3f6b8e) of player #26 Simon
+ 2:25:12 Player Simon disconnected.
+ 2:25:12 BattlEye Server: Player #26 Simon disconnected
+ 2:27:10 Simon uses modified data file
+ 2:27:10 BattlEye Server: Player #26 Simon (74.128.80.226:2304) connected
+ 2:27:11 Player Simon connecting.
+ 2:27:13 BattlEye Server: Player #26 Simon - BE GUID: 05c0f2db925132c81ec1d6244c3f6b8e
+ 2:27:15 Player Simon connected (id=76561198139661569).
+ 2:27:15 BattlEye Server: Verified GUID (05c0f2db925132c81ec1d6244c3f6b8e) of player #26 Simon
+ 2:30:25 BattlEye Server: RCon admin #0 (127.0.0.1:51980) logged in
+ 2:33:23 Player Donnie Turbo is losing connection
+ 2:35:31 BattlEye Server: (Unknown) Simon: can i get some roadside assistance?
+ 2:39:27 Kyatt Demon uses modified data file
+ 2:39:27 BattlEye Server: Player #27 Kyatt Demon (74.136.1.94:2304) connected
+ 2:39:27 Player Kyatt Demon connecting.
+ 2:39:30 BattlEye Server: Player #27 Kyatt Demon - BE GUID: 926f88f40ee0fb14fd8017c86e10b8c4
+ 2:39:50 Player Kyatt Demon connected (id=76561198159595292).
+ 2:39:50 BattlEye Server: Verified GUID (926f88f40ee0fb14fd8017c86e10b8c4) of player #27 Kyatt Demon
+ 2:40:06 Player Kyatt Demon disconnected.
+ 2:40:06 BattlEye Server: Player #27 Kyatt Demon disconnected
+ 2:43:13 Kyatt Demon uses modified data file
+ 2:43:13 BattlEye Server: Player #27 Kyatt Demon (74.136.1.94:2304) connected
+ 2:43:13 Player Kyatt Demon connecting.
+ 2:43:16 BattlEye Server: Player #27 Kyatt Demon - BE GUID: 926f88f40ee0fb14fd8017c86e10b8c4
+ 2:43:17 Player Kyatt Demon connected (id=76561198159595292).
+ 2:43:17 BattlEye Server: Verified GUID (926f88f40ee0fb14fd8017c86e10b8c4) of player #27 Kyatt Demon
+ 2:43:37 Player Kyatt Demon disconnected.
+ 2:43:37 BattlEye Server: Player #27 Kyatt Demon disconnected
+ 2:46:13 BattlEye Server: (Group) Simon: GETTING SOME OTHER STUFF
+ 2:58:42 Kyatt Demon uses modified data file
+ 2:58:42 BattlEye Server: Player #27 Kyatt Demon (74.136.1.94:2304) connected
+ 2:58:42 Player Kyatt Demon connecting.
+ 2:58:45 BattlEye Server: Player #27 Kyatt Demon - BE GUID: 926f88f40ee0fb14fd8017c86e10b8c4
+ 2:58:47 Player Kyatt Demon connected (id=76561198159595292).
+ 2:58:47 BattlEye Server: Verified GUID (926f88f40ee0fb14fd8017c86e10b8c4) of player #27 Kyatt Demon
+ 3:01:29 BattlEye Server: RCon admin #1 (127.0.0.1:49912) logged in
+ 3:02:12 Player Kyatt Demon disconnected.
+ 3:02:12 BattlEye Server: Player #27 Kyatt Demon disconnected
+ 3:03:13 Kyatt Demon uses modified data file
+ 3:03:13 BattlEye Server: Player #27 Kyatt Demon (74.136.1.94:2304) connected
+ 3:03:13 Player Kyatt Demon connecting.
+ 3:03:15 BattlEye Server: Player #27 Kyatt Demon - BE GUID: 926f88f40ee0fb14fd8017c86e10b8c4
+ 3:03:17 Player Kyatt Demon connected (id=76561198159595292).
+ 3:03:17 BattlEye Server: Verified GUID (926f88f40ee0fb14fd8017c86e10b8c4) of player #27 Kyatt Demon
+ 3:04:52 Jackz uses modified data file
+ 3:04:53 BattlEye Server: Player #28 Jackz (12.71.191.130:2304) connected
+ 3:04:53 Player Jackz connecting.
+ 3:04:56 BattlEye Server: Player #28 Jackz - BE GUID: 83c72691f3991bb894e79e64936bb08a
+ 3:04:57 Player Jackz connected (id=76561198391774624).
+ 3:04:57 BattlEye Server: Verified GUID (83c72691f3991bb894e79e64936bb08a) of player #28 Jackz
+ 3:10:03 Player Jackz disconnected.
+ 3:10:03 BattlEye Server: Player #28 Jackz disconnected
+ 3:10:30 Jackz uses modified data file
+ 3:10:30 BattlEye Server: Player #28 Jackz (12.71.191.130:2304) connected
+ 3:10:30 Player Jackz connecting.
+ 3:10:34 BattlEye Server: Player #28 Jackz - BE GUID: 83c72691f3991bb894e79e64936bb08a
+ 3:10:34 Player Jackz connected (id=76561198391774624).
+ 3:10:34 BattlEye Server: Verified GUID (83c72691f3991bb894e79e64936bb08a) of player #28 Jackz
+ 3:12:27 Player Donnie Turbo is losing connection
+ 3:12:51 CHLOE uses modified data file
+ 3:12:51 BattlEye Server: Player #29 CHLOE (75.169.139.56:2304) connected
+ 3:12:51 Player CHLOE connecting.
+ 3:12:54 BattlEye Server: Player #29 CHLOE - BE GUID: ab9b497da01894a5401ed8585e262e42
+ 3:13:09 Player CHLOE connected (id=76561198049027894).
+ 3:13:09 BattlEye Server: Verified GUID (ab9b497da01894a5401ed8585e262e42) of player #29 CHLOE
+ 3:13:12 Player CHLOE disconnected.
+ 3:13:12 BattlEye Server: Player #29 CHLOE disconnected
+ 3:14:09 Player Jackz disconnected.
+ 3:14:09 BattlEye Server: Player #28 Jackz disconnected
+ 3:16:33 Jackz uses modified data file
+ 3:16:33 BattlEye Server: Player #28 Jackz (12.71.191.130:2304) connected
+ 3:16:33 Player Jackz connecting.
+ 3:16:36 BattlEye Server: Player #28 Jackz - BE GUID: 83c72691f3991bb894e79e64936bb08a
+ 3:16:36 Player Jackz connected (id=76561198391774624).
+ 3:16:36 BattlEye Server: Verified GUID (83c72691f3991bb894e79e64936bb08a) of player #28 Jackz
+ 3:16:59 BattlEye Server: (Group) Low_Poly_Man: SIMON YOU GOT A RADIO?
+ 3:28:43 Player [1K-33] R. Tjay disconnected.
+ 3:28:43 BattlEye Server: Player #20 [1K-33] R. Tjay disconnected
+ 3:32:20 BattlEye Server: (Direct) Jackz: pussy
+ 3:32:21 BattlEye Server: (Direct) Jackz: do it
+ 3:32:24 BattlEye Server: (Direct) Jackz: let me out
+ 3:33:19 BattlEye Server: (Group) Jackz: PUSSY
+ 3:33:27 BattlEye Server: (Group) Jackz: lets go do launch site
+ 3:33:31 BattlEye Server: (Group) Jackz: I mean fed
+ 3:33:33 BattlEye Server: (Group) Jackz: whatever it is
+ 3:33:44 BattlEye Server: (Group) Jackz: thats it?
+ 3:33:52 BattlEye Server: (Group) Jackz: MY BITCH
+ 3:34:00 BattlEye Server: (Group) Jackz: there is 2 seats in the back
+ 3:34:35 BattlEye Server: (Group) Jackz: LMAO
+ 3:34:56 BattlEye Server: (Direct) Jackz: *psst* do u have a gat
+ 3:35:05 BattlEye Server: (Vehicle) Jackz: ahahaha
+ 3:35:08 BattlEye Server: (Vehicle) Jackz: lets go gat people
+ 3:35:16 BattlEye Server: (Vehicle) Jackz: FUCK THE COPS
+ 3:35:18 BattlEye Server: (Vehicle) Jackz: IM HERE
+ 3:35:25 BattlEye Server: (Vehicle) Jackz: ill fuck em
+ 3:35:26 BattlEye Server: (Vehicle) Jackz: yes
+ 3:35:28 BattlEye Server: (Vehicle) Jackz: I always win
+ 3:35:33 BattlEye Server: (Vehicle) Jackz: never lost a gun fight in my life
+ 3:35:33 Player Donnie Turbo is losing connection
+ 3:35:38 Player Donnie Turbo disconnected.
+ 3:35:38 BattlEye Server: Player #15 Donnie Turbo disconnected
+ 3:35:51 BattlEye Server: (Direct) Jackz: PUSSY
+ 3:36:04 BattlEye Server: (Direct) Jackz: *pss* i need to get a gat
+ 3:36:20 BattlEye Server: (Group) Jackz: we needa buy me a gat gat 
+ 3:36:30 BattlEye Server: (Group) Jackz: then we will kill everyone
+ 3:36:59 BattlEye Server: (Group) Jackz: ez
+ 3:37:05 BattlEye Server: (Group) Jackz: I can kill everyone with five seven
+ 3:37:18 Donnie Turbo uses modified data file
+ 3:37:18 BattlEye Server: Player #29 Donnie Turbo (192.81.45.131:2304) connected
+ 3:37:18 Player Donnie Turbo connecting.
+ 3:37:21 BattlEye Server: Player #29 Donnie Turbo - BE GUID: a0a46137167d70778acc68329618c7e6
+ 3:37:22 Player Donnie Turbo connected (id=76561198041233395).
+ 3:37:22 BattlEye Server: Verified GUID (a0a46137167d70778acc68329618c7e6) of player #29 Donnie Turbo
+ 3:37:49 BattlEye Server: (Group) Jackz: I go buy me a car
+ 3:37:55 BattlEye Server: (Group) Jackz: LMAO
+ 3:38:13 Prescott Bush  uses modified data file
+ 3:38:13 BattlEye Server: Player #30 Prescott Bush  (206.255.128.79:2304) connected
+ 3:38:13 Player Prescott Bush  connecting.
+ 3:38:17 BattlEye Server: Player #30 Prescott Bush  - BE GUID: df1f5160cd5d424cdfa5e623564a5824
+ 3:38:17 Player Prescott Bush  connected (id=76561198860031547).
+ 3:38:17 BattlEye Server: Verified GUID (df1f5160cd5d424cdfa5e623564a5824) of player #30 Prescott Bush 
+ 3:38:35 Player Prescott Bush  disconnected.
+ 3:38:35 BattlEye Server: Player #30 Prescott Bush  disconnected
+ 3:39:45 Player Jackz disconnected.
+ 3:39:45 BattlEye Server: Player #28 Jackz disconnected
+ 3:52:48 ncg uses modified data file
+ 3:52:48 BattlEye Server: Player #30 ncg (70.181.187.191:2304) connected
+ 3:52:48 Player ncg connecting.
+ 3:52:51 BattlEye Server: Player #30 ncg - BE GUID: 677d69dc8530e9f4ec917f7d71ac604c
+ 3:52:52 Player ncg connected (id=76561198133782143).
+ 3:52:52 BattlEye Server: Verified GUID (677d69dc8530e9f4ec917f7d71ac604c) of player #30 ncg
+ 3:53:04 Player ncg disconnected.
+ 3:53:04 BattlEye Server: Player #30 ncg disconnected
+ 3:54:37 Player Simon disconnected.
+ 3:54:37 BattlEye Server: Player #26 Simon disconnected
+ 4:01:03 Player [1k-12] J. Shepard disconnected.
+ 4:01:03 BattlEye Server: Player #21 [1k-12] J. Shepard disconnected
+ 4:02:56 Player Low_Poly_Man disconnected.
+ 4:02:56 BattlEye Server: Player #10 Low_Poly_Man disconnected
+ 4:02:57 Rick Cheney uses modified data file
+ 4:02:57 BattlEye Server: Player #30 Rick Cheney (206.255.128.79:2304) connected
+ 4:02:57 Player Rick Cheney connecting.
+ 4:03:00 BattlEye Server: Player #30 Rick Cheney - BE GUID: df1f5160cd5d424cdfa5e623564a5824
+ 4:03:01 Player Rick Cheney connected (id=76561198860031547).
+ 4:03:01 BattlEye Server: Verified GUID (df1f5160cd5d424cdfa5e623564a5824) of player #30 Rick Cheney
+ 4:05:08 Player WarFire disconnected.
+ 4:05:08 BattlEye Server: Player #13 WarFire disconnected
+ 4:06:08 Player Gatsby disconnected.
+ 4:06:08 BattlEye Server: Player #19 Gatsby disconnected
+ 4:08:57 Player Warren Blades disconnected.
+ 4:08:57 BattlEye Server: Player #23 Warren Blades disconnected
+ 4:10:09 Player S.Kingston disconnected.
+ 4:10:09 BattlEye Server: Player #24 S.Kingston disconnected
+ 4:11:29 Player Donnie Turbo disconnected.
+ 4:11:29 BattlEye Server: Player #29 Donnie Turbo disconnected
+ 4:13:37 Player luke disconnected.
+ 4:13:37 BattlEye Server: Player #25 luke disconnected
+ 4:14:21 Player Robert Kennedy disconnected.
+ 4:14:21 BattlEye Server: Player #14 Robert Kennedy disconnected
+ 4:14:44 Player Rick Cheney disconnected.
+ 4:14:44 BattlEye Server: Player #30 Rick Cheney disconnected
+ 4:23:50 Player Zander Marino disconnected.
+ 4:23:50 BattlEye Server: Player #22 Zander Marino disconnected
+ 4:24:15 John Anderson uses modified data file
+ 4:24:15 BattlEye Server: Player #28 John Anderson (76.6.147.168:2304) connected
+ 4:24:15 Player John Anderson connecting.
+ 4:24:19 BattlEye Server: Player #28 John Anderson - BE GUID: 1a817c92339e6b8e805de60b179df342
+ 4:24:19 Player John Anderson connected (id=76561198180893505).
+ 4:24:19 BattlEye Server: Verified GUID (1a817c92339e6b8e805de60b179df342) of player #28 John Anderson
+ 5:18:15 Héctor "Lil Loco" Arturo uses modified data file
+ 5:18:15 BattlEye Server: Player #29 Héctor "Lil Loco" Arturo (174.115.199.248:2304) connected
+ 5:18:15 Player Héctor "Lil Loco" Arturo connecting.
+ 5:18:21 BattlEye Server: Player #29 Héctor "Lil Loco" Arturo - BE GUID: aba8543eb9f1fee2c92981731aa72309
+ 5:18:21 Player Héctor "Lil Loco" Arturo connected (id=76561197999316388).
+ 5:18:21 BattlEye Server: Verified GUID (aba8543eb9f1fee2c92981731aa72309) of player #29 Héctor "Lil Loco" Arturo
+ 5:25:32 Gatsby uses modified data file
+ 5:25:32 BattlEye Server: Player #30 Gatsby (184.54.255.68:2304) connected
+ 5:25:32 Player Gatsby connecting.
+ 5:25:34 BattlEye Server: Player #30 Gatsby - BE GUID: f0371387b7fca9ed93f6370adce2e67e
+ 5:25:35 Player Gatsby connected (id=76561198038112694).
+ 5:25:35 BattlEye Server: Verified GUID (f0371387b7fca9ed93f6370adce2e67e) of player #30 Gatsby
+ 5:30:14 [1k-12] J. Shepard uses modified data file
+ 5:30:14 BattlEye Server: Player #31 [1k-12] J. Shepard (75.58.49.192:2304) connected
+ 5:30:14 Player [1k-12] J. Shepard connecting.
+ 5:30:16 BattlEye Server: Player #31 [1k-12] J. Shepard - BE GUID: bd4578e615422cb0ed98810eedfeb668
+ 5:30:17 Player [1k-12] J. Shepard connected (id=76561198043298972).
+ 5:30:17 BattlEye Server: Verified GUID (bd4578e615422cb0ed98810eedfeb668) of player #31 [1k-12] J. Shepard
+ 5:30:27 Player [1k-12] J. Shepard disconnected.
+ 5:30:27 BattlEye Server: Player #31 [1k-12] J. Shepard disconnected
+ 5:30:40 Mike Hutchinson uses modified data file
+ 5:30:40 BattlEye Server: Player #31 Mike Hutchinson (75.58.49.192:2304) connected
+ 5:30:40 Player Mike Hutchinson connecting.
+ 5:30:43 BattlEye Server: Player #31 Mike Hutchinson - BE GUID: bd4578e615422cb0ed98810eedfeb668
+ 5:30:43 Player Mike Hutchinson connected (id=76561198043298972).
+ 5:30:43 BattlEye Server: Verified GUID (bd4578e615422cb0ed98810eedfeb668) of player #31 Mike Hutchinson
+ 5:43:54 Player Gatsby is losing connection
+ 5:43:59 Player Gatsby disconnected.
+ 5:43:59 BattlEye Server: Player #30 Gatsby disconnected
+ 5:47:09 Player Héctor "Lil Loco" Arturo is losing connection
+ 5:47:14 Player Héctor "Lil Loco" Arturo disconnected.
+ 5:47:14 BattlEye Server: Player #29 Héctor "Lil Loco" Arturo disconnected
+ 5:49:54 Héctor "Lil Loco" Arturo uses modified data file
+ 5:49:54 BattlEye Server: Player #32 Héctor "Lil Loco" Arturo (174.115.199.248:2304) connected
+ 5:49:54 Player Héctor "Lil Loco" Arturo connecting.
+ 5:49:58 BattlEye Server: Player #32 Héctor "Lil Loco" Arturo - BE GUID: aba8543eb9f1fee2c92981731aa72309
+ 5:49:58 Player Héctor "Lil Loco" Arturo connected (id=76561197999316388).
+ 5:49:59 BattlEye Server: Verified GUID (aba8543eb9f1fee2c92981731aa72309) of player #32 Héctor "Lil Loco" Arturo
+ 6:01:59 HoyoBani uses modified data file
+ 6:01:59 BattlEye Server: Player #33 HoyoBani (162.213.242.232:2304) connected
+ 6:01:59 Player HoyoBani connecting.
+ 6:02:02 BattlEye Server: Player #33 HoyoBani - BE GUID: baeaf37751c8cb5ba1e1a73c33957203
+ 6:02:02 Player HoyoBani connected (id=76561198105940600).
+ 6:02:02 BattlEye Server: Verified GUID (baeaf37751c8cb5ba1e1a73c33957203) of player #33 HoyoBani
+ 6:12:45 Gatsby uses modified data file
+ 6:12:45 BattlEye Server: Player #34 Gatsby (184.54.255.68:2304) connected
+ 6:12:45 Player Gatsby connecting.
+ 6:12:48 BattlEye Server: Player #34 Gatsby - BE GUID: f0371387b7fca9ed93f6370adce2e67e
+ 6:12:48 Player Gatsby connected (id=76561198038112694).
+ 6:12:48 BattlEye Server: Verified GUID (f0371387b7fca9ed93f6370adce2e67e) of player #34 Gatsby
+ 6:29:32 Player John Anderson disconnected.
+ 6:29:32 BattlEye Server: Player #28 John Anderson disconnected
+ 6:29:50 Player Nino Marino disconnected.
+ 6:29:50 BattlEye Server: Player #2 Nino Marino disconnected
+ 6:30:24 Player HoyoBani disconnected.
+ 6:30:24 BattlEye Server: Player #33 HoyoBani disconnected
+ 6:30:34 Player Héctor "Lil Loco" Arturo disconnected.
+ 6:30:34 BattlEye Server: Player #32 Héctor "Lil Loco" Arturo disconnected
+ 6:30:36 Player Gatsby disconnected.
+ 6:30:36 BattlEye Server: Player #34 Gatsby disconnected
+ 7:00:19 Player Mike Hutchinson disconnected.
+ 7:00:19 BattlEye Server: Player #31 Mike Hutchinson disconnected
+ 7:10:36 John Anderson uses modified data file
+ 7:10:36 BattlEye Server: Player #28 John Anderson (76.6.147.168:2304) connected
+ 7:10:36 Player John Anderson connecting.
+ 7:10:41 BattlEye Server: Player #28 John Anderson - BE GUID: 1a817c92339e6b8e805de60b179df342
+ 7:10:41 Player John Anderson connected (id=76561198180893505).
+ 7:10:41 BattlEye Server: Verified GUID (1a817c92339e6b8e805de60b179df342) of player #28 John Anderson
+ 7:12:05 Pvt. P. Valachi uses modified data file
+ 7:12:05 BattlEye Server: Player #29 Pvt. P. Valachi (24.181.56.44:2304) connected
+ 7:12:05 Player Pvt. P. Valachi connecting.
+ 7:12:09 BattlEye Server: Player #29 Pvt. P. Valachi - BE GUID: 5a97bd202e7b3e58fddadfe80aecf3b2
+ 7:12:09 Player Pvt. P. Valachi connected (id=76561198272370927).
+ 7:12:09 BattlEye Server: Verified GUID (5a97bd202e7b3e58fddadfe80aecf3b2) of player #29 Pvt. P. Valachi
+ 7:12:17 Player Pvt. P. Valachi disconnected.
+ 7:12:17 BattlEye Server: Player #29 Pvt. P. Valachi disconnected
+ 7:13:01 Peppe Valachi uses modified data file
+ 7:13:01 BattlEye Server: Player #29 Peppe Valachi (24.181.56.44:2304) connected
+ 7:13:01 Player Peppe Valachi connecting.
+ 7:13:04 BattlEye Server: Player #29 Peppe Valachi - BE GUID: 5a97bd202e7b3e58fddadfe80aecf3b2
+ 7:13:05 Player Peppe Valachi connected (id=76561198272370927).
+ 7:13:05 BattlEye Server: Verified GUID (5a97bd202e7b3e58fddadfe80aecf3b2) of player #29 Peppe Valachi
+ 7:17:25 Player Peppe Valachi disconnected.
+ 7:17:25 BattlEye Server: Player #29 Peppe Valachi disconnected
+ 7:19:44 Peppe Valachi uses modified data file
+ 7:19:44 BattlEye Server: Player #29 Peppe Valachi (24.181.56.44:2304) connected
+ 7:19:44 Player Peppe Valachi connecting.
+ 7:19:47 BattlEye Server: Player #29 Peppe Valachi - BE GUID: 5a97bd202e7b3e58fddadfe80aecf3b2
+ 7:19:48 Player Peppe Valachi connected (id=76561198272370927).
+ 7:19:48 BattlEye Server: Verified GUID (5a97bd202e7b3e58fddadfe80aecf3b2) of player #29 Peppe Valachi
+ 8:10:50 Nino Marino uses modified data file
+ 8:10:50 BattlEye Server: Player #30 Nino Marino (71.214.112.161:2304) connected
+ 8:10:50 Player Nino Marino connecting.
+ 8:10:54 BattlEye Server: Player #30 Nino Marino - BE GUID: f39290998763ee67898235ee2ea502e7
+ 8:10:54 Player Nino Marino connected (id=76561198206026112).
+ 8:10:54 BattlEye Server: Verified GUID (f39290998763ee67898235ee2ea502e7) of player #30 Nino Marino
+ 8:25:50 Successfull attempt to execute serverCommand '#kick 76561198159595292' by server.
+ 8:25:50 Player Kyatt Demon disconnected.
+ 8:25:50 BattlEye Server: Player #27 Kyatt Demon disconnected
+ 9:09:30 Player Nino Marino disconnected.
+ 9:09:31 BattlEye Server: Player #30 Nino Marino disconnected
+ 9:17:41 Player John Anderson disconnected.
+ 9:17:41 BattlEye Server: Player #28 John Anderson disconnected
+ 9:19:46 Player Peppe Valachi disconnected.
+ 9:19:46 BattlEye Server: Player #29 Peppe Valachi disconnected
+15:53:12 WarFire uses modified data file
+15:53:12 BattlEye Server: Player #0 WarFire (47.36.145.145:2304) connected
+15:53:12 Player WarFire connecting.
+15:53:16 BattlEye Server: Player #0 WarFire - BE GUID: 49bfef9dbc9e449692cd9311980923ab
+15:53:19 Player WarFire connected (id=76561198150464364).
+15:53:19 BattlEye Server: Verified GUID (49bfef9dbc9e449692cd9311980923ab) of player #0 WarFire
+16:50:13 Simon uses modified data file
+16:50:13 BattlEye Server: Player #1 Simon (74.128.80.226:2304) connected
+16:50:13 Player Simon connecting.
+16:50:15 BattlEye Server: Player #1 Simon - BE GUID: 05c0f2db925132c81ec1d6244c3f6b8e
+16:50:17 Player Simon connected (id=76561198139661569).
+16:50:17 BattlEye Server: Verified GUID (05c0f2db925132c81ec1d6244c3f6b8e) of player #1 Simon
+16:50:56 Player Simon disconnected.
+16:50:56 BattlEye Server: Player #1 Simon disconnected
+16:53:07 Simon uses modified data file
+16:53:07 BattlEye Server: Player #1 Simon (74.128.80.226:2304) connected
+16:53:07 Player Simon connecting.
+16:53:10 BattlEye Server: Player #1 Simon - BE GUID: 05c0f2db925132c81ec1d6244c3f6b8e
+16:53:11 Player Simon connected (id=76561198139661569).
+16:53:11 BattlEye Server: Verified GUID (05c0f2db925132c81ec1d6244c3f6b8e) of player #1 Simon
+16:58:44 Jackz uses modified data file
+16:58:44 BattlEye Server: Player #2 Jackz (12.71.191.130:2304) connected
+16:58:44 Player Jackz connecting.
+16:58:47 BattlEye Server: Player #2 Jackz - BE GUID: 83c72691f3991bb894e79e64936bb08a
+16:58:47 Player Jackz connected (id=76561198391774624).
+16:58:47 BattlEye Server: Verified GUID (83c72691f3991bb894e79e64936bb08a) of player #2 Jackz
+17:18:47 BattlEye Server: (Vehicle) Jackz: ight
+17:19:05 BattlEye Server: (Vehicle) Jackz: simon just poked me
+17:19:08 BattlEye Server: (Vehicle) Jackz: asking for a repair kit 
+17:19:15 BattlEye Server: (Vehicle) Jackz: yeah
+17:19:25 BattlEye Server: (Vehicle) Jackz: im just gonna ignore him lmao
+17:19:45 BattlEye Server: (Vehicle) Jackz: kmao
+17:19:46 BattlEye Server: (Vehicle) Jackz: lmao
+17:19:50 BattlEye Server: (Vehicle) Jackz: also I have soundpacks off
+17:19:53 BattlEye Server: (Vehicle) Jackz: so I cant hear it
+17:22:48 BattlEye Server: (Group) Jackz: alright
+17:22:49 BattlEye Server: (Group) Jackz: yeah
+17:23:12 BattlEye Server: (Vehicle) Jackz: ooo camaro 
+17:23:18 BattlEye Server: (Vehicle) Jackz: yeah
+17:23:24 BattlEye Server: (Group) Simon: thanks
+17:23:52 BattlEye Server: (Group) Simon: i have important stuff in the trunk
+17:24:14 BattlEye Server: (Group) WarFire: I have a truck full of heroin
+17:24:24 BattlEye Server: (Group) Simon: coke
+17:24:42 BattlEye Server: (Group) WarFire: heroin is worth more
+17:25:01 BattlEye Server: (Group) Simon: noted
+17:25:06 BattlEye Server: (Direct) Jackz: ye
+17:25:14 BattlEye Server: (Direct) Jackz: 65
+17:25:31 BattlEye Server: (Group) Jackz: 65,571
+17:25:40 BattlEye Server: (Group) Jackz: 500 was me tho 
+17:26:02 BattlEye Server: (Group) Simon: jackz are you on the way with that repair kit?
+17:26:16 BattlEye Server: (Group) Jackz: my internet is fucked right now I cant drive
+17:26:25 BattlEye Server: (Group) Simon: war?
+17:26:28 BattlEye Server: (Vehicle) Jackz: no
+17:26:29 BattlEye Server: (Vehicle) Jackz: cap
+17:26:42 BattlEye Server: (Group) WarFire: still dealing with drugs
+17:26:49 BattlEye Server: (Group) Simon: k ill wait
+17:26:52 BattlEye Server: (Group) WarFire: just lock your car are run 
+17:27:00 BattlEye Server: (Vehicle) Jackz: this retard
+17:27:03 BattlEye Server: (Vehicle) Jackz: he isnt far from the town
+17:27:14 BattlEye Server: (Group) WarFire: im not aaa 
+17:27:30 BattlEye Server: (Vehicle) Jackz: mhm
+17:27:42 BattlEye Server: (Direct) Jackz: alright
+17:27:45 BattlEye Server: (Direct) Jackz: ooo
+17:27:46 BattlEye Server: (Direct) Jackz: ooo
+17:27:51 BattlEye Server: (Direct) Jackz: MMMM
+17:27:52 BattlEye Server: (Direct) Jackz: SEXY
+17:27:55 BattlEye Server: (Direct) Jackz: DAMN
+17:27:56 BattlEye Server: (Direct) Jackz: YES
+17:28:04 BattlEye Server: (Direct) Jackz: OOP
+17:28:06 BattlEye Server: (Vehicle) Jackz: I LIKE
+17:28:14 BattlEye Server: (Vehicle) Jackz: i just need this irl
+17:28:23 BattlEye Server: (Vehicle) Jackz: lmaoooooo
+17:28:28 BattlEye Server: (Vehicle) Jackz: yesss
+17:28:54 BattlEye Server: (Vehicle) Jackz: so nice
+17:29:04 BattlEye Server: (Vehicle) Jackz: what
+17:29:09 BattlEye Server: (Vehicle) Jackz: DAMN
+17:30:03 BattlEye Server: (Vehicle) Jackz: lmfao
+17:31:17 BattlEye Server: (Direct) Jackz: he still hasnt started running
+17:32:07 BattlEye Server: (Direct) Jackz: damn
+17:34:41 BattlEye Server: (Direct) Jackz: LMAO
+17:34:42 BattlEye Server: (Direct) Jackz: nice
+17:35:07 BattlEye Server: (Group) Jackz: I can store it here?
+17:35:44 BattlEye Server: (Group) Jackz: sexy
+17:35:47 BattlEye Server: (Direct) Jackz: yes
+17:35:59 BattlEye Server: (Direct) Jackz: uhm
+17:36:10 BattlEye Server: (Direct) Jackz: yeah lmao
+17:36:27 BattlEye Server: (Direct) Jackz: yess
+17:37:23 BattlEye Server: (Direct) Jackz: for who
+17:37:35 BattlEye Server: (Vehicle) Jackz: o lmao
+17:37:38 BattlEye Server: (Vehicle) Jackz: oh
+17:37:39 BattlEye Server: (Vehicle) Jackz: fermanti
+17:37:41 BattlEye Server: (Vehicle) Jackz: what ever
+17:37:48 BattlEye Server: (Vehicle) Jackz: o
+17:37:57 BattlEye Server: (Vehicle) Jackz: its fermanti in asl
+17:38:00 BattlEye Server: (Vehicle) Jackz: ahahahahaha
+17:38:04 BattlEye Server: (Vehicle) Jackz: NIGGA ASL IS AMERICAN U FUCKER
+17:38:13 BattlEye Server: (Vehicle) Jackz: dw dw
+17:38:23 BattlEye Server: (Vehicle) Jackz: nothin
+17:38:36 BattlEye Server: (Direct) Jackz: NIGGA
+17:38:38 BattlEye Server: (Direct) Jackz: U HAD ONE JOB
+17:38:42 BattlEye Server: (Direct) Jackz: lmao
+17:38:45 BattlEye Server: (Direct) Jackz: oh yeah
+17:38:58 BattlEye Server: (Direct) Jackz: lmfao
+17:39:27 BattlEye Server: (Direct) Jackz: lmfao
+17:39:40 BattlEye Server: (Vehicle) Jackz: ight
+17:40:07 BattlEye Server: (Group) Jackz: u know i didnt bring cash right
+17:40:20 BattlEye Server: (Group) Jackz: is there a atm
+17:43:07 BattlEye Server: (Group) Jackz: ok
+17:43:25 BattlEye Server: (Direct) Jackz: LMAO
+17:43:27 BattlEye Server: (Direct) Jackz: lmao
+17:43:31 BattlEye Server: (Direct) Jackz: yes
+17:43:32 BattlEye Server: (Group) Jackz: ye
+17:44:55 BattlEye Server: (Group) Simon: can i please get a repait?
+17:45:07 BattlEye Server: (Group) Jackz: we doing heroin homie
+17:45:12 BattlEye Server: (Group) Jackz: your not far from the town at all
+17:45:41 BattlEye Server: (Direct) Jackz: HE HAS A GAT AHH
+17:45:55 BattlEye Server: (Direct) Jackz: did it
+17:45:56 BattlEye Server: (Direct) Jackz: i think
+17:46:03 BattlEye Server: (Direct) Jackz: give
+17:46:17 BattlEye Server: (Direct) Jackz: I didn tclick the car lmao
+17:46:27 BattlEye Server: (Direct) Jackz: yeah
+17:46:35 BattlEye Server: (Direct) Jackz: lmao
+17:46:39 BattlEye Server: (Group) Simon: when are we buying a gouse
+17:46:41 BattlEye Server: (Direct) Jackz: I swear simon is stupid
+17:46:48 BattlEye Server: (Direct) Jackz: now he is running
+17:47:05 BattlEye Server: (Direct) Jackz: finally
+17:47:28 BattlEye Server: (Direct) Jackz: ight
+17:47:54 BattlEye Server: (Direct) Jackz: o k
+17:48:06 BattlEye Server: (Direct) Jackz: LMFAO
+17:48:54 BattlEye Server: (Direct) Jackz: yeah
+17:49:03 BattlEye Server: (Direct) Jackz: he could of been done running like 30minutes ago
+17:49:11 BattlEye Server: (Direct) Jackz: yeah
+17:49:38 BattlEye Server: (Direct) Jackz: yeah
+17:50:02 BattlEye Server: (Direct) Jackz: how come i have the golden teamspeak logo on my name
+17:50:10 BattlEye Server: (Direct) Jackz: this is bullshit
+17:50:42 BattlEye Server: (Direct) Jackz: oh yess
+17:52:09 BattlEye Server: (Group) WarFire: vote for day
+17:53:15 BattlEye Server: (Group) WarFire: stop talking in group
+17:54:24 BattlEye Server: (Group) Jackz: ight
+17:56:40 BattlEye Server: (Direct) Jackz: idfk
+17:56:56 BattlEye Server: (Direct) Jackz: oh yeah he is very noob
+17:56:58 BattlEye Server: (Direct) Jackz: we are very pro
+17:57:00 BattlEye Server: (Direct) Jackz: 2-3 years
+17:57:25 BattlEye Server: (Direct) Jackz: ttp tanoa
+17:57:31 BattlEye Server: (Direct) Jackz: i was on geogia pool
+17:57:34 BattlEye Server: (Direct) Jackz: idk how to spell it
+17:57:36 BattlEye Server: (Direct) Jackz: on a roof
+17:57:38 BattlEye Server: (Direct) Jackz: and I bet poly
+17:57:41 BattlEye Server: (Direct) Jackz: I have the picture actually
+17:58:08 BattlEye Server: (Direct) Jackz: lmao
+17:58:14 BattlEye Server: (Direct) Jackz: i was nervous af when I first met u as well
+17:58:27 BattlEye Server: (Direct) Jackz: lmfao 
+17:58:37 BattlEye Server: (Direct) Jackz: I think there was other people in the channel as well
+17:58:56 BattlEye Server: (Direct) Jackz: uh
+17:58:58 BattlEye Server: (Direct) Jackz: what was his name
+17:59:00 BattlEye Server: (Direct) Jackz: I forgot
+17:59:02 BattlEye Server: (Direct) Jackz: like 
+17:59:04 BattlEye Server: (Direct) Jackz: uhm
+17:59:07 BattlEye Server: (Direct) Jackz: FUCK WAHT IS IT
+17:59:16 BattlEye Server: (Direct) Jackz: we had that old member
+17:59:21 BattlEye Server: (Direct) Jackz: I think his name started with p
+17:59:26 BattlEye Server: (Direct) Jackz: I dont remember his name
+17:59:27 BattlEye Server: (Direct) Jackz: 1 sec
+17:59:43 BattlEye Server: (Direct) Jackz: PHILIP
+17:59:56 BattlEye Server: (Direct) Jackz: oh yess
+18:00:00 BattlEye Server: (Direct) Jackz: ye
+18:00:04 BattlEye Server: (Direct) Jackz: yeah lmao
+18:00:10 BattlEye Server: (Direct) Jackz: lmfao
+18:00:14 Kyatt Demon uses modified data file
+18:00:14 BattlEye Server: Player #3 Kyatt Demon (74.136.1.94:2304) connected
+18:00:14 Player Kyatt Demon connecting.
+18:00:25 BattlEye Server: (Direct) Jackz: .good
+18:00:25 BattlEye Server: Player #3 Kyatt Demon - BE GUID: 926f88f40ee0fb14fd8017c86e10b8c4
+18:00:28 Player Kyatt Demon connected (id=76561198159595292).
+18:00:28 BattlEye Server: Verified GUID (926f88f40ee0fb14fd8017c86e10b8c4) of player #3 Kyatt Demon
+18:01:16 BattlEye Server: (Direct) Jackz: lmfao
+18:01:34 BattlEye Server: (Direct) Jackz: oh yes
+18:01:36 BattlEye Server: (Direct) Jackz: xD
+18:01:39 BattlEye Server: (Direct) Jackz: ahahahah
+18:01:43 BattlEye Server: (Direct) Jackz: my camaro and ur lambo
+18:01:49 BattlEye Server: (Direct) Jackz: xD
+18:01:57 Player Kyatt Demon disconnected.
+18:01:57 BattlEye Server: Player #3 Kyatt Demon disconnected
+18:02:01 BattlEye Server: (Direct) Jackz: yeah ima customize it if I can
+18:02:20 BattlEye Server: (Direct) Jackz: ight
+18:03:02 BattlEye Server: (Direct) Jackz: 1 sec
+18:03:12 BattlEye Server: (Direct) Jackz: I have 93 in this
+18:03:14 BattlEye Server: (Direct) Jackz: no I was healing
+18:03:25 BattlEye Server: (Direct) Jackz: e
+18:03:26 BattlEye Server: (Direct) Jackz: ye
+18:05:11 BattlEye Server: (Group) Simon: IM OFFICIALLY A DUMBASS
+18:05:25 BattlEye Server: (Group) Jackz: lmao
+18:05:27 BattlEye Server: (Group) Jackz: why
+18:05:49 BattlEye Server: (Group) Simon: i went to mariujana processing instead of heroine
+18:05:57 BattlEye Server: (Group) Jackz: tuff
+18:06:16 BattlEye Server: (Group) WarFire: big smort
+18:10:53 BattlEye Server: (Direct) Jackz: uh
+18:10:55 BattlEye Server: (Direct) Jackz: what app
+18:11:14 BattlEye Server: (Direct) Jackz: got it
+18:13:02 BattlEye Server: (Direct) Jackz: oo\
+18:13:05 BattlEye Server: (Direct) Jackz: lmfao
+18:13:17 BattlEye Server: (Group) Jackz: nioe
+18:13:19 BattlEye Server: (Group) Jackz: nope
+18:15:38 BattlEye Server: (Group) Jackz: huh
+18:15:47 BattlEye Server: (Group) Jackz: lmao
+18:16:06 BattlEye Server: (Group) Simon: Ill meet you guys when you get here
+18:16:06 BattlEye Server: (Group) Jackz: we gonna go customize em ? or nah
+18:16:56 BattlEye Server: (Direct) Jackz: LMAO
+18:17:00 BattlEye Server: (Direct) Jackz: ahahahahahhahaa
+18:17:02 BattlEye Server: (Direct) Jackz: GREAT
+18:17:53 BattlEye Server: (Direct) Jackz: It syas I cant tune this vehicle
+18:18:04 BattlEye Server: (Direct) Jackz: ye
+18:18:27 BattlEye Server: (Group) Jackz: let me go depo money
+18:19:16 BattlEye Server: (Group) Jackz: I got a camaro 0_0
+18:22:25 BattlEye Server: (Direct) Jackz: lmao
+18:23:08 BattlEye Server: (Direct) Jackz: broke
+18:23:40 BattlEye Server: (Direct) Jackz: ITS SO FAST
+18:23:42 BattlEye Server: (Direct) Jackz: unlock it
+18:24:52 BattlEye Server: (Direct) Jackz: no
+18:24:54 BattlEye Server: (Direct) Jackz: it takes ages
+18:24:55 BattlEye Server: (Direct) Jackz: im faster
+18:28:19 BattlEye Server: (Group) Jackz: me
+18:28:58 BattlEye Server: (Group) Jackz: u didnt see shit
+18:30:02 BattlEye Server: (Group) Jackz: truck shop?
+18:32:25 BattlEye Server: (Group) Jackz: brb
+18:33:25 [1K-33] R. Tjay uses modified data file
+18:33:25 BattlEye Server: Player #3 [1K-33] R. Tjay (99.232.144.252:2304) connected
+18:33:25 Player [1K-33] R. Tjay connecting.
+18:33:28 BattlEye Server: Player #3 [1K-33] R. Tjay - BE GUID: 1775b6bbb9f6757ed1e4f0f7592af3e5
+18:33:28 Player [1K-33] R. Tjay connected (id=76561198883479728).
+18:33:28 BattlEye Server: Verified GUID (1775b6bbb9f6757ed1e4f0f7592af3e5) of player #3 [1K-33] R. Tjay
+18:38:24 BattlEye Server: (Group) Jackz: im back
+18:38:43 BattlEye Server: (Group) Jackz: awweesome
+18:40:02 BattlEye Server: (Group) Jackz: lmao
+18:40:17 BattlEye Server: (Group) Jackz: lets go look
+18:40:44 BattlEye Server: (Group) Jackz: move
+18:42:55 BattlEye Server: (Group) Jackz: oh wow
+18:43:03 BattlEye Server: (Group) Jackz: this house is much better
+18:43:35 BattlEye Server: (Group) Jackz: why
+18:43:45 BattlEye Server: (Group) Jackz: im looking at this big house
+18:44:00 BattlEye Server: (Group) Jackz: I dont have a hoemr owners license come look at it
+18:44:30 BattlEye Server: (Group) Jackz: yes
+18:44:31 BattlEye Server: (Group) Jackz: so nice
+18:44:45 BattlEye Server: (Group) Jackz: 5mil
+18:44:56 BattlEye Server: (Group) Jackz: damn
+18:45:18 BattlEye Server: (Group) Jackz: lmao
+18:47:00 BattlEye Server: (Group) Jackz: i hate them
+18:47:03 BattlEye Server: (Group) Jackz: they suck
+18:47:26 BattlEye Server: (Group) Jackz: do you uys have 4.5mil by chance?
+18:47:33 BattlEye Server: (Group) Jackz: shit
+18:47:56 BattlEye Server: (Group) Jackz: ez
+18:52:18 BattlEye Server: (Group) Jackz: KILL EM
+18:55:31 BattlEye Server: (Group) Jackz: ight
+18:55:45 BattlEye Server: (Group) Jackz: y
+18:55:49 BattlEye Server: (Group) Jackz: ok
+18:56:16 BattlEye Server: (Group) Jackz: ok
+18:56:32 BattlEye Server: (Group) Jackz: he not close enough yet
+18:56:39 BattlEye Server: (Group) Jackz: yes....
+18:58:09 BattlEye Server: (Group) Jackz: full
+18:58:39 BattlEye Server: (Group) Jackz: ima heal first
+18:58:58 BattlEye Server: (Group) Jackz: I have 14
+18:59:16 BattlEye Server: (Group) Jackz: I have 15 no w 
+18:59:20 BattlEye Server: (Group) Jackz: ye
+19:02:49 BattlEye Server: (Group) Jackz: lmao
+19:03:30 BattlEye Server: (Group) Jackz: lmao
+19:03:53 BattlEye Server: (Group) Jackz: xD
+19:04:15 BattlEye Server: (Group) Jackz: u
+19:04:20 BattlEye Server: (Group) Jackz: lmfao
+19:04:27 BattlEye Server: (Group) Jackz: idk where to go
+19:06:38 BattlEye Server: (Group) Jackz: yay
+19:06:45 BattlEye Server: (Group) Jackz: lmfao
+19:07:11 BattlEye Server: (Group) Jackz: mclaren
+19:07:20 BattlEye Server: (Group) Jackz: yesss
+19:07:39 BattlEye Server: (Group) Jackz: LMAO
+19:07:55 BattlEye Server: (Group) Jackz: MONEY
+19:09:25 BattlEye Server: (Group) Jackz: porn magazines
+19:09:37 BattlEye Server: (Group) Jackz: lmfao
+19:11:18 BattlEye Server: (Group) Jackz: LOL
+19:11:21 BattlEye Server: (Group) Jackz: GOTTEM
+19:11:25 BattlEye Server: (Group) Jackz: ye tbh
+19:11:41 BattlEye Server: (Group) Jackz: yeah wasnt me
+19:13:52 BattlEye Server: (Group) Jackz: look at the lambo and he gats ur ass
+19:14:03 BattlEye Server: (Group) Jackz: xD
+19:14:12 BattlEye Server: (Group) Jackz: LMFAOs
+19:14:23 BattlEye Server: (Group) Jackz: that was funny tho ngl
+19:14:25 BattlEye Server: (Group) Jackz: yeah
+19:14:35 BattlEye Server: (Group) Jackz: LMAO
+19:14:45 BattlEye Server: (Group) Jackz: /that was nice tho ngk
+19:15:10 BattlEye Server: (Group) Jackz: LALALLA
+19:15:11 BattlEye Server: (Group) Jackz: YESS
+19:15:19 BattlEye Server: (Group) Jackz: LMFAOOOOOOOOOOOOOO
+19:15:37 BattlEye Server: (Group) Jackz: almost went into the ocean by accident
+19:16:38 BattlEye Server: (Group) Jackz: lmao
+19:16:57 BattlEye Server: (Group) Jackz: how the fuck did u manage to drive into the ocean anyways
+19:17:14 BattlEye Server: (Group) Jackz: lmfao
+19:17:31 BattlEye Server: (Group) Jackz: war can we buy a plane
+19:17:37 BattlEye Server: (Group) Jackz: rip
+19:19:42 BattlEye Server: (Group) Jackz: LMAO
+19:19:50 BattlEye Server: (Direct) Jackz: damnnn
+19:21:21 BattlEye Server: (Direct) Jackz: how much do I send him
+19:24:00 BattlEye Server: (Direct) Jackz: brb
+19:24:03 BattlEye Server: (Group) Jackz: brb
+19:29:26 BattlEye Server: (Group) Jackz: im back
+19:30:03 BattlEye Server: (Group) Jackz: ok
+19:32:08 BattlEye Server: (Group) Jackz: ye
+19:37:08 BattlEye Server: (Group) Jackz: i took heroin
+19:37:15 BattlEye Server: (Group) Jackz: yes
+19:37:17 BattlEye Server: (Group) Jackz: lile
+19:37:18 BattlEye Server: (Group) Jackz: good
+19:37:22 BattlEye Server: (Group) Jackz: my screen got all colorfull
+19:37:29 BattlEye Server: (Group) Jackz: YES
+19:37:34 BattlEye Server: (Group) Jackz: it doesnt take too long'
+19:37:35 BattlEye Server: (Group) Jackz: ye
+19:37:45 BattlEye Server: (Group) Jackz: I stole the 3 lmao
+19:37:55 BattlEye Server: (Group) Jackz: I took the 3 took 1 and threw 2
+19:38:02 BattlEye Server: (Group) Jackz: so we could fill the truck
+19:39:47 BattlEye Server: (Group) Jackz: yes
+19:39:52 BattlEye Server: (Group) Jackz: mhm
+19:40:40 BattlEye Server: (Group) Jackz: I CANT STOP
+19:40:47 BattlEye Server: (Group) Jackz: yes
+19:40:49 BattlEye Server: (Group) Jackz: lmao
+19:41:00 BattlEye Server: (Group) Jackz: lmfao
+19:41:04 BattlEye Server: (Group) Jackz: NOO
+19:41:05 BattlEye Server: (Group) Jackz: NOT AGAIN
+19:41:37 BattlEye Server: (Group) Jackz: oh
+19:41:46 BattlEye Server: (Group) Jackz: lmao
+19:41:58 BattlEye Server: (Group) Jackz: give space between eachother
+19:42:02 BattlEye Server: (Group) Jackz: cause of dsync
+19:43:26 BattlEye Server: (Group) Jackz: PUSSY
+19:43:31 BattlEye Server: (Group) Jackz: lmao
+19:43:56 BattlEye Server: (Group) Jackz: im gud
+19:45:14 BattlEye Server: (Group) Jackz: idk
+19:45:15 BattlEye Server: (Group) Jackz: lmao
+19:45:27 BattlEye Server: (Group) Jackz: thats me just now tho
+19:47:12 BattlEye Server: (Group) Jackz: UHM
+19:47:14 BattlEye Server: (Group) Jackz: 60k
+19:47:16 BattlEye Server: (Group) Jackz: oh lmao
+19:47:20 BattlEye Server: (Group) Jackz: ur camaro yes
+19:48:06 BattlEye Server: (Group) Jackz: ur on facetime with her right>
+19:48:17 BattlEye Server: (Group) Jackz: LMAO
+19:48:18 BattlEye Server: (Group) Jackz: YES
+19:48:26 BattlEye Server: (Group) Jackz: I thought u were just saying that cause she could hear u lmfao
+19:48:38 BattlEye Server: (Group) Jackz: mhm
+19:48:45 BattlEye Server: (Group) Jackz: she better
+19:48:55 BattlEye Server: (Group) Jackz: mhm
+19:49:14 BattlEye Server: (Group) Jackz: I dont like when peopel respond to me fast while im gaming lmao
+19:49:18 BattlEye Server: (Group) Jackz: idk
+19:49:30 BattlEye Server: (Group) Jackz: I dont want to talk to them lmao im tryna game
+19:51:00 Player [1K-33] R. Tjay disconnected.
+19:51:00 BattlEye Server: Player #3 [1K-33] R. Tjay disconnected
+19:51:05 BattlEye Server: (Group) Jackz: LMAO
+19:51:13 BattlEye Server: (Group) Jackz: why is simon not talkin
+19:52:15 BattlEye Server: (Direct) Simon: /VOYE DAY
+19:54:38 BattlEye Server: (Group) Jackz: how rich r u guys
+19:54:40 BattlEye Server: (Group) Jackz: I have 93k
+19:54:48 BattlEye Server: (Group) Jackz: cuz ur lambo lmao
+19:54:59 BattlEye Server: (Group) Jackz: ok now simon just needs to fill his truck
+19:55:53 BattlEye Server: (Group) Jackz: same lmao
+19:56:13 BattlEye Server: (Group) Jackz: ive woried about gas a handfuk
+19:56:18 BattlEye Server: (Group) Jackz: in my entire arma career
+19:56:25 BattlEye Server: (Group) Jackz: handfull
+19:56:36 BattlEye Server: (Group) Jackz: ah I fucked my wheels
+19:56:38 BattlEye Server: (Group) Jackz: sorta
+19:56:43 BattlEye Server: (Group) Jackz: ye
+19:58:55 BattlEye Server: (Group) Jackz: damn
+19:59:22 BattlEye Server: (Group) Simon: MOTHER FUCKER
+19:59:34 BattlEye Server: (Group) Jackz: ur truck is still ok I think
+19:59:45 BattlEye Server: (Group) Simon: i know
+20:00:53 BattlEye Server: (Group) Jackz: sure
+20:01:19 BattlEye Server: (Group) Jackz: oh uhm
+20:01:23 BattlEye Server: (Group) Jackz: my truck is in the way
+20:01:51 BattlEye Server: (Group) Jackz: yrah
+20:02:27 BattlEye Server: (Group) Jackz: yrah
+20:02:49 BattlEye Server: (Group) Jackz: 81,400
+20:03:11 BattlEye Server: (Group) Jackz: gonna repair rq
+20:03:20 BattlEye Server: (Group) Jackz: and gotta doa  100 point turn
+20:03:29 BattlEye Server: (Group) Jackz: alright
+20:04:00 BattlEye Server: (Group) Jackz: lmfao
+20:04:45 BattlEye Server: (Group) Jackz: huh
+20:04:50 BattlEye Server: (Group) Jackz: maybe
+20:04:57 BattlEye Server: (Group) Jackz: 176k
+20:05:17 BattlEye Server: (Group) Jackz: uhm
+20:05:21 BattlEye Server: (Group) Jackz: lets go to lakeside
+20:05:29 BattlEye Server: (Group) Jackz: ye and the luxury ds
+20:05:31 BattlEye Server: (Group) Jackz: k
+20:06:13 BattlEye Server: (Vehicle) Jackz: alright
+20:07:38 BattlEye Server: (Vehicle) Jackz: idkkkk
+20:08:04 BattlEye Server: (Group) Simon: do you remember where i died?
+20:08:24 BattlEye Server: (Vehicle) Jackz: i
+20:08:26 BattlEye Server: (Group) Jackz: i marked the area
+20:08:34 BattlEye Server: (Group) Jackz: LMAO
+20:08:35 BattlEye Server: (Group) Jackz: yes
+20:08:45 BattlEye Server: (Group) Jackz: xD
+20:09:50 BattlEye Server: (Group) Jackz: lmao
+20:09:57 BattlEye Server: (Group) Simon: I QUIT
+20:10:03 Player Simon disconnected.
+20:10:03 BattlEye Server: Player #1 Simon disconnected
+20:10:29 BattlEye Server: (Group) Jackz: ima buy a toy rq
+20:10:34 BattlEye Server: (Group) Jackz: yeah ill do that
+20:10:45 BattlEye Server: (Group) Jackz: idk yet
+20:10:48 BattlEye Server: (Group) Jackz: I have an idea of waht
+20:11:19 BattlEye Server: (Group) Jackz: lmao
+20:11:53 BattlEye Server: (Group) Jackz: lmao
+20:11:53 BattlEye Server: (Group) Jackz: look
+20:12:06 BattlEye Server: (Group) Jackz: xdddd
+20:12:11 BattlEye Server: (Group) Jackz: BMW Ac28
+20:12:14 BattlEye Server: (Group) Jackz: s8&
+20:12:18 BattlEye Server: (Group) Jackz: acs8*
+20:12:25 BattlEye Server: (Group) Jackz: idc it looks cool lmao
+20:13:00 BattlEye Server: (Group) Jackz: im tryna see how fast it is rq
+20:13:14 BattlEye Server: (Group) Jackz: xD
+20:13:43 BattlEye Server: (Group) Jackz: max 300
+20:13:51 BattlEye Server: (Group) Jackz: fast boi
+20:14:21 BattlEye Server: (Group) Jackz: lets race
+20:14:30 BattlEye Server: (Group) Jackz: lambo
+20:16:05 BattlEye Server: (Group) Jackz: ok
+20:16:44 BattlEye Server: (Group) Jackz: AAHAHAHhAha
+20:16:45 BattlEye Server: (Group) Jackz: LMAOOO
+20:16:54 BattlEye Server: (Group) Jackz: THAT WAS FUN
+20:17:01 BattlEye Server: (Group) Jackz: how tf u so fast
+20:17:21 BattlEye Server: (Group) Jackz: I thought it would be close lmao
+20:17:45 BattlEye Server: (Group) Jackz: toxic
+20:17:48 BattlEye Server: (Group) Jackz: lamo
+20:17:55 BattlEye Server: (Group) Jackz: I cant get in it
+20:18:07 BattlEye Server: (Group) Jackz: noope
+20:18:19 BattlEye Server: (Group) Jackz: drive it back
+20:18:21 BattlEye Server: (Group) Jackz: and I drive ur lambo
+20:18:30 BattlEye Server: (Group) Jackz: wtf
+20:19:19 BattlEye Server: (Group) Jackz: im here
+20:21:30 BattlEye Server: (Group) Jackz: wtf
+20:21:32 BattlEye Server: (Group) Jackz: is it fast
+20:21:40 BattlEye Server: (Group) Jackz: xd
+20:21:56 BattlEye Server: (Group) Jackz: ok
+20:23:22 BattlEye Server: (Group) Jackz: RICH
+20:23:25 BattlEye Server: (Group) Jackz: 100k
+20:23:28 BattlEye Server: (Group) Jackz: no
+20:23:30 BattlEye Server: (Group) Jackz: 4.8k
+20:24:01 BattlEye Server: (Group) Jackz: no
+20:24:07 BattlEye Server: (Group) Jackz: yeah lmao
+20:24:11 BattlEye Server: (Group) Jackz: he did have 9 heroin on him
+20:24:45 BattlEye Server: (Group) Jackz: im faster
+20:26:24 BattlEye Server: (Group) Jackz: u said what
+20:26:39 BattlEye Server: (Group) Jackz: toxic
+20:26:50 BattlEye Server: (Group) Jackz: no one is on lmao
+20:27:00 BattlEye Server: (Group) Jackz: u locked me
+20:27:01 BattlEye Server: (Group) Jackz: in it
+20:27:32 BattlEye Server: (Group) Jackz: 44
+20:27:34 BattlEye Server: (Group) Jackz: million
+20:27:56 BattlEye Server: (Group) Jackz: cap
+20:28:14 BattlEye Server: (Group) Jackz: ur so white
+20:28:17 BattlEye Server: (Group) Jackz: OH SHIT
+20:28:20 BattlEye Server: (Group) Jackz: LMAO
+20:28:31 BattlEye Server: (Group) Jackz: XDDD
+20:28:42 BattlEye Server: (Group) Jackz: I mean cap as in lie btw
+20:28:45 BattlEye Server: (Group) Jackz: lmfao
+20:28:48 BattlEye Server: (Group) Jackz: I thought we were gonna die
+20:29:18 BattlEye Server: (Group) Jackz: we needa go to the hospital lmao
+20:29:28 BattlEye Server: (Group) Jackz: 46 xD
+20:29:45 BattlEye Server: (Group) Jackz: I cant even drift lmao
+20:30:01 BattlEye Server: (Group) Jackz: oh thats pretty good
+20:30:13 BattlEye Server: (Group) Jackz: Idk how to drift in any car XD
+20:30:22 BattlEye Server: (Group) Jackz: oh ok
+20:30:46 BattlEye Server: (Group) Jackz: lmao
+20:31:02 BattlEye Server: (Group) Jackz: he is terrible
+20:31:13 BattlEye Server: (Group) Jackz: xD
+20:32:15 BattlEye Server: (Group) Jackz: ye
+20:34:01 BattlEye Server: (Group) Jackz: u will see
+20:34:33 BattlEye Server: (Group) Jackz: YES POLY
+20:35:13 BattlEye Server: (Group) Jackz: nvm im too broke
+20:35:25 BattlEye Server: (Group) Jackz: 80k
+20:35:28 BattlEye Server: (Group) Jackz: I have 70
+20:35:32 BattlEye Server: (Group) Jackz: m4 liberty
+20:35:55 BattlEye Server: (Group) Jackz: yes
+20:36:25 BattlEye Server: (Group) Jackz: lmfao
+20:36:41 BattlEye Server: (Group) Jackz: xD
+20:37:23 BattlEye Server: (Group) Jackz: 750 horsepower
+20:37:27 BattlEye Server: (Group) Jackz: ez clap
+20:37:41 BattlEye Server: (Group) Jackz: 0-0
+20:38:00 BattlEye Server: (Group) Jackz: mmmmmmmmmm
+20:38:07 BattlEye Server: (Group) Jackz: lets see how fast it goes
+20:38:10 BattlEye Server: (Group) Jackz: not too fast 
+20:38:11 BattlEye Server: (Group) Jackz: but
+20:38:22 BattlEye Server: (Group) Jackz: 750 hp still niceee
+20:38:58 BattlEye Server: (Group) Jackz: lmfaooooooo
+20:39:00 BattlEye Server: (Group) Jackz: honestly
+20:39:07 BattlEye Server: (Group) Jackz: his little shitbox was perfect for him
+20:39:20 BattlEye Server: (Group) Jackz: XDDDD
+20:39:23 BattlEye Server: (Group) Jackz: that was funny af
+20:39:28 Low_Poly_Man uses modified data file
+20:39:28 BattlEye Server: Player #3 Low_Poly_Man (74.128.80.15:2304) connected
+20:39:28 Player Low_Poly_Man connecting.
+20:39:33 BattlEye Server: Player #3 Low_Poly_Man - BE GUID: d250b62ef6125275e039c9badd884760
+20:39:34 Player Low_Poly_Man connected (id=76561198137223112).
+20:39:34 BattlEye Server: Verified GUID (d250b62ef6125275e039c9badd884760) of player #3 Low_Poly_Man
+20:39:43 BattlEye Server: (Group) Jackz: lets get ready
+20:39:52 Player Low_Poly_Man disconnected.
+20:39:52 BattlEye Server: Player #3 Low_Poly_Man disconnected
+20:40:42 BattlEye Server: (Group) Jackz: oops
+20:40:53 BattlEye Server: (Group) Jackz: hopefully u didnt have money on u
+20:40:58 BattlEye Server: (Group) Jackz: oh nvm
+20:41:08 BattlEye Server: (Group) WarFire: fix my car
+20:41:11 BattlEye Server: (Group) Jackz: i will
+20:41:11 BattlEye Server: (Group) WarFire: s
+20:41:16 BattlEye Server: (Group) Jackz: lmfao
+20:41:45 BattlEye Server: (Group) Jackz: just forget it we still need to showoff to poly
+20:42:05 Low_Poly_Man uses modified data file
+20:42:05 BattlEye Server: Player #3 Low_Poly_Man (74.128.80.15:2304) connected
+20:42:05 Player Low_Poly_Man connecting.
+20:42:09 BattlEye Server: Player #3 Low_Poly_Man - BE GUID: d250b62ef6125275e039c9badd884760
+20:42:10 Player Low_Poly_Man connected (id=76561198137223112).
+20:42:10 BattlEye Server: Verified GUID (d250b62ef6125275e039c9badd884760) of player #3 Low_Poly_Man
+20:42:26 Héctor "Lil Loco" Arturo uses modified data file
+20:42:26 BattlEye Server: Player #4 Héctor "Lil Loco" Arturo (174.115.199.248:2304) connected
+20:42:26 Player Héctor "Lil Loco" Arturo connecting.
+20:42:31 BattlEye Server: Player #4 Héctor "Lil Loco" Arturo - BE GUID: aba8543eb9f1fee2c92981731aa72309
+20:42:31 Player Héctor "Lil Loco" Arturo connected (id=76561197999316388).
+20:42:31 BattlEye Server: Verified GUID (aba8543eb9f1fee2c92981731aa72309) of player #4 Héctor "Lil Loco" Arturo
+20:42:34 BattlEye Server: (Group) Jackz: I got ur gat dw
+20:43:04 BattlEye Server: (Group) WarFire: I still got 2 min
+20:43:10 BattlEye Server: (Group) Jackz: o shit
+20:43:11 BattlEye Server: (Group) Jackz: forgot
+20:43:56 BattlEye Server: (Group) WarFire: are you in my lambo
+20:44:00 BattlEye Server: (Group) Jackz: gonna go park it
+20:44:05 BattlEye Server: (Group) WarFire: ok
+20:44:24 BattlEye Server: (Group) WarFire: now what did you hit 
+20:44:30 BattlEye Server: (Group) WarFire: 1 min
+20:44:33 BattlEye Server: (Group) Jackz: nothing just parking it
+20:44:44 BattlEye Server: (Group) WarFire: do you have keys
+20:44:49 BattlEye Server: (Group) Jackz: no
+20:44:54 BattlEye Server: (Group) Jackz: I have a gun and i an protec ti
+20:44:57 BattlEye Server: (Group) WarFire: stay in it 
+20:45:18 BattlEye Server: (Group) Jackz: hi
+20:45:42 BattlEye Server: (Group) Jackz: tf u sayin
+20:46:26 BattlEye Server: (Group) Jackz: get in
+20:46:34 BattlEye Server: (Group) Jackz: i have ur gat
+20:47:03 BattlEye Server: (Group) Jackz: ill bring u to ur body
+20:47:14 BattlEye Server: (Group) Jackz: its gone
+20:47:24 BattlEye Server: (Group) Jackz: ight
+20:48:00 BattlEye Server: (Direct) Jackz: hey
+20:48:01 BattlEye Server: (Direct) Jackz: poly
+20:48:37 Player Héctor "Lil Loco" Arturo disconnected.
+20:48:38 BattlEye Server: Player #4 Héctor "Lil Loco" Arturo disconnected
+20:50:05 BattlEye Server: (Group) Jackz: TF happened to poly
+20:50:08 BattlEye Server: (Group) Jackz: oh ok
+20:50:58 BattlEye Server: (Group) Jackz: yes
+20:51:24 BattlEye Server: (Group) Jackz: this car
+20:51:29 BattlEye Server: (Group) Jackz: I like dis car
+20:51:43 BattlEye Server: (Group) Jackz: canu give me keys
+20:52:26 BattlEye Server: (Group) Jackz: ty
+20:52:38 BattlEye Server: (Group) Jackz: he is helping his mom
+20:52:47 BattlEye Server: (Group) Jackz: no
+20:52:59 BattlEye Server: (Group) Jackz: how do I add u as a contact
+20:53:08 Héctor "Lil Loco" Arturo uses modified data file
+20:53:08 BattlEye Server: Player #4 Héctor "Lil Loco" Arturo (174.115.199.248:2304) connected
+20:53:08 Player Héctor "Lil Loco" Arturo connecting.
+20:53:12 BattlEye Server: Player #4 Héctor "Lil Loco" Arturo - BE GUID: aba8543eb9f1fee2c92981731aa72309
+20:53:12 Player Héctor "Lil Loco" Arturo connected (id=76561197999316388).
+20:53:12 BattlEye Server: Verified GUID (aba8543eb9f1fee2c92981731aa72309) of player #4 Héctor "Lil Loco" Arturo
+20:53:17 BattlEye Server: (Group) Jackz: idk where it is
+20:53:36 BattlEye Server: (Group) Jackz: 1 sec
+20:54:12 BattlEye Server: (Group) Jackz: I got i t
+20:54:33 BattlEye Server: (Group) Jackz: whats ur number
+20:54:36 BattlEye Server: (Group) Jackz: the phone shop
+20:55:07 BattlEye Server: (Group) Jackz: i guess war went afk
+20:55:09 BattlEye Server: (Group) Jackz: idk
+20:55:15 BattlEye Server: (Group) Jackz: c here
+20:55:30 BattlEye Server: (Group) Jackz: this is my
+20:55:32 BattlEye Server: (Group) Jackz: lambo is his
+20:55:34 BattlEye Server: (Group) Jackz: well
+20:55:42 BattlEye Server: (Group) Jackz: technically my is his but he got it off of me
+20:55:43 BattlEye Server: (Group) Jackz: HEROIN
+20:55:45 BattlEye Server: (Group) Jackz: we do HEROIN
+20:55:47 BattlEye Server: (Group) Jackz: a lot
+20:55:49 BattlEye Server: (Group) Jackz: 80k per truck
+20:55:50 BattlEye Server: (Group) Jackz: we had 3
+20:55:52 BattlEye Server: (Group) Jackz: simon is trash
+20:56:01 BattlEye Server: (Group) Jackz: but we kinda broke
+20:56:04 BattlEye Server: (Group) Jackz: cause the cars
+20:56:11 Player Héctor "Lil Loco" Arturo disconnected.
+20:56:11 BattlEye Server: Player #4 Héctor "Lil Loco" Arturo disconnected
+20:56:17 BattlEye Server: (Group) Jackz: oh
+20:56:20 BattlEye Server: (Group) Jackz: war got u somethin
+20:56:37 BattlEye Server: (Group) Jackz: lmao
+20:56:40 BattlEye Server: (Group) Jackz: simon sucks ass
+20:56:52 BattlEye Server: (Group) Jackz: war bought u won
+20:56:55 BattlEye Server: (Group) Jackz: one*
+20:57:02 BattlEye Server: (Group) Jackz: the charge
+20:58:48 BattlEye Server: (Group) Jackz: BE GRATEFULL SHITHEAD
+20:58:52 BattlEye Server: (Group) Jackz: IT SUCKS ASS AND HE GOT IT FOR U
+20:59:43 BattlEye Server: (Group) Jackz: STORE THIS
+20:59:44 BattlEye Server: (Group) Jackz: cap
+21:00:21 BattlEye Server: (Group) Jackz: fuck no
+21:00:26 BattlEye Server: (Group) Jackz: ok fiune
+21:01:43 BattlEye Server: (Group) Jackz: uhm
+21:01:45 BattlEye Server: (Group) Jackz: lets get poly a truck
+21:01:47 BattlEye Server: (Group) Jackz: oh wait
+21:01:48 BattlEye Server: (Group) Jackz: we have one
+21:01:55 BattlEye Server: (Group) Jackz: at the seller
+21:02:42 BattlEye Server: (Group) Jackz: wait wtf
+21:02:43 BattlEye Server: (Group) Jackz: OH SHIT
+21:02:49 BattlEye Server: (Group) Jackz: THIS COST 40K TO RETRIEVE
+21:02:57 BattlEye Server: (Group) Jackz: the BEEMER
+21:03:05 BattlEye Server: (Group) Jackz: im 40k less rich
+21:03:45 BattlEye Server: (Group) Jackz: we need a house :!
+21:04:48 BattlEye Server: (Group) Jackz: oh maybe I insured it and thats why
+21:08:18 BattlEye Server: (Group) Jackz: oh yeah
+21:08:25 BattlEye Server: (Group) Jackz: we shoudl buy one of these shacks
+21:08:29 BattlEye Server: (Group) Jackz: and put a crate in it
+21:08:34 BattlEye Server: (Group) Jackz: and just farm this shit
+21:08:49 BattlEye Server: (Group) Jackz: yeah lmao
+21:09:10 BattlEye Server: (Group) Jackz: lmfao
+21:09:42 BattlEye Server: (Group) Jackz: f
+21:09:48 BattlEye Server: (Group) Jackz: yes
+21:10:19 BattlEye Server: (Group) Jackz: ye
+21:10:46 BattlEye Server: (Group) Jackz: I mean
+21:10:48 BattlEye Server: (Group) Jackz: sure
+21:11:26 BattlEye Server: (Group) Jackz: yeah
+21:11:33 BattlEye Server: (Group) Jackz: why is poly notalkung
+21:13:57 Donnie Turbo uses modified data file
+21:13:57 BattlEye Server: Player #4 Donnie Turbo (192.81.45.131:2304) connected
+21:13:57 Player Donnie Turbo connecting.
+21:14:00 BattlEye Server: Player #4 Donnie Turbo - BE GUID: a0a46137167d70778acc68329618c7e6
+21:14:01 Player Donnie Turbo connected (id=76561198041233395).
+21:14:01 BattlEye Server: Verified GUID (a0a46137167d70778acc68329618c7e6) of player #4 Donnie Turbo
+21:14:18 BattlEye Server: (Group) Jackz: me either
+21:14:28 BattlEye Server: (Group) Jackz: who is donnie
+21:14:40 BattlEye Server: (Group) Jackz: o ok
+21:15:10 BattlEye Server: (Group) Jackz: uh
+21:15:12 BattlEye Server: (Group) Jackz: my tires
+21:15:16 BattlEye Server: (Group) Jackz: are red but fine
+21:18:25 BattlEye Server: (Direct) Jackz: yeah i saw lmfao
+21:18:38 BattlEye Server: (Direct) Jackz: xD
+21:18:41 BattlEye Server: (Direct) Jackz: he always wanna switch
+21:19:16 BattlEye Server: (Direct) Jackz: yeah
+21:19:54 BattlEye Server: (Direct) Jackz: yeah
+21:20:18 BattlEye Server: (Direct) Jackz: he big dumb
+21:20:56 BattlEye Server: (Direct) Jackz: yeah 
+21:21:24 Player Donnie Turbo disconnected.
+21:21:24 BattlEye Server: Player #4 Donnie Turbo disconnected
+21:21:26 BattlEye Server: (Direct) Jackz: is this the max storage truck u can get?
+21:21:28 BattlEye Server: (Direct) Jackz: 60k
+21:21:34 BattlEye Server: (Direct) Jackz: ye
+21:21:46 BattlEye Server: (Direct) Jackz: ye
+21:22:07 BattlEye Server: (Direct) Jackz: we should prolly do that yeah
+21:22:35 BattlEye Server: (Group) Jackz: ight
+21:22:58 BattlEye Server: (Group) Jackz: mhm
+21:23:29 BattlEye Server: (Group) Jackz: ye
+21:24:01 BattlEye Server: (Group) Jackz: mhm
+21:24:11 BattlEye Server: (Group) Jackz: who doesnt want big gun
+21:24:12 BattlEye Server: (Group) Jackz: yes
+21:24:13 BattlEye Server: (Group) Jackz: BIG GUN
+21:24:17 BattlEye Server: (Group) Jackz: BIG CLOTHES
+21:24:20 BattlEye Server: (Group) Jackz: BIG VEHICLE?
+21:24:33 BattlEye Server: (Group) Jackz: oh yes
+21:24:34 BattlEye Server: (Group) Jackz: worth it
+21:25:49 BattlEye Server: (Group) Jackz: bruh I swear
+21:26:04 BattlEye Server: (Group) Jackz: this bitch takes 0.2 seconds to respond its pissing me off
+21:27:38 BattlEye Server: (Group) Jackz: lets try oil after we do all this
+21:27:51 BattlEye Server: (Group) Jackz: ight
+21:32:37 BattlEye Server: (Group) Jackz: 39 so far
+21:33:24 BattlEye Server: (Group) Jackz: war drove one of them into the ocean lmfao
+21:34:17 BattlEye Server: (Group) Jackz: dont you hate it when your sped clan leader names a clan BlUe WatEr PmC
+21:34:25 BattlEye Server: (Group) Jackz: jk jkj kj kjjkjkj
+21:34:29 BattlEye Server: (Group) Jackz: no
+21:34:30 BattlEye Server: (Group) Jackz: no
+21:34:31 BattlEye Server: (Group) Jackz: fuck no
+21:37:27 BattlEye Server: (Group) Jackz: got it
+21:38:02 BattlEye Server: (Group) Jackz: 127k
+21:38:08 BattlEye Server: (Group) Jackz: no
+21:38:10 BattlEye Server: (Group) Jackz: atm
+21:38:34 BattlEye Server: (Group) Jackz: ok 
+21:39:50 BattlEye Server: (Group) Jackz: ok
+21:40:45 BattlEye Server: (Group) Jackz: thats so fucked
+21:41:05 BattlEye Server: (Group) Jackz: "paul walkered into a tree"
+21:41:19 BattlEye Server: (Group) Jackz: its fucked but yeah lmao
+21:41:31 BattlEye Server: (Group) Jackz: oh 
+21:41:33 BattlEye Server: (Group) Jackz: lmfao
+21:42:06 BattlEye Server: (Group) Jackz: to wha
+21:43:05 BattlEye Server: (Group) Jackz: cant hear u
+21:43:18 BattlEye Server: (Group) WarFire: get 2 storage crates
+21:43:23 BattlEye Server: (Group) Jackz: ye
+21:43:26 BattlEye Server: (Group) Jackz: nice
+21:43:29 BattlEye Server: (Group) Jackz: wiat what
+21:43:35 BattlEye Server: (Group) Jackz: u got them or u want us to get em
+21:44:00 BattlEye Server: (Group) WarFire: get them
+21:44:05 BattlEye Server: (Group) Jackz: lmao
+21:44:19 BattlEye Server: (Group) Jackz: y
+21:44:22 BattlEye Server: (Group) WarFire: I got it
+21:44:25 BattlEye Server: (Group) Jackz: ok
+21:44:28 BattlEye Server: (Group) Jackz: what poly
+21:44:34 BattlEye Server: (Group) Jackz: wait what
+21:44:40 BattlEye Server: (Group) Jackz: is it bad?
+21:44:48 BattlEye Server: (Group) Jackz: lmaooo
+21:44:50 BattlEye Server: (Group) Jackz: any cars?
+21:45:18 BattlEye Server: (Group) Jackz: wtf is going on with poly
+21:45:34 BattlEye Server: (Group) Jackz: war I think rebel is really fucking bad
+21:45:40 BattlEye Server: (Group) Jackz: how bad
+21:45:45 BattlEye Server: (Group) Jackz: how bad dude
+21:45:49 BattlEye Server: (Group) Jackz: mhm
+21:45:57 BattlEye Server: (Group) Jackz: wtf
+21:46:04 BattlEye Server: (Group) WarFire: how bad
+21:46:05 BattlEye Server: (Group) Jackz: so I shouldnt buy it
+21:46:09 BattlEye Server: (Group) Jackz: base game gun shop
+21:46:13 BattlEye Server: (Group) Jackz: is what he said
+21:46:18 BattlEye Server: (Group) Jackz: so shit pistols
+21:47:54 BattlEye Server: (Group) Jackz: lets go
+21:47:55 BattlEye Server: (Group) Jackz: lmao
+21:49:30 BattlEye Server: (Group) Jackz: lmao
+21:49:39 BattlEye Server: (Group) Jackz: damn
+21:49:57 BattlEye Server: (Group) WarFire: 2 700 cap creats in a house
+21:50:22 BattlEye Server: (Group) Jackz: nice
+21:54:32 BattlEye Server: (Group) Jackz: I see it
+21:54:43 BattlEye Server: (Group) Jackz: AH
+21:54:51 BattlEye Server: (Group) Jackz: its fine
+21:55:00 BattlEye Server: (Group) Jackz: ur welcome
+21:55:25 BattlEye Server: (Group) Jackz: lmfao
+21:55:34 BattlEye Server: (Group) Jackz: hands up
+21:56:13 BattlEye Server: (Group) Jackz: softlog
+21:58:59 BattlEye Server: (Group) Jackz: me
+21:59:33 BattlEye Server: (Group) Jackz: dumbasssssss
+22:00:40 BattlEye Server: (Group) Jackz: CRASH
+22:00:52 BattlEye Server: (Group) Jackz: war we need house keys
+22:02:09 BattlEye Server: (Group) Jackz: my tires are fucked
+22:02:19 BattlEye Server: (Group) Jackz: its repairing
+22:02:42 BattlEye Server: (Group) Jackz: that would be yeah
+22:03:17 BattlEye Server: (Group) Jackz: oh ye
+22:03:25 BattlEye Server: (Group) Jackz: gi me eys
+22:04:43 BattlEye Server: (Group) Jackz

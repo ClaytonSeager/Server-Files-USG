@@ -1,0 +1,66 @@
+﻿ 7:07:52 BattlEye Server: Initialized (v1.217)
+ 7:07:52 Game Port: 2302, Steam Query Port: 2303
+ 7:07:53 Mission UrbanSky.kelleysisland read from bank.
+ 7:07:54 Host identity created.
+ 7:07:54 Roles assigned.
+ 7:07:54 Reading mission ...
+ 7:07:56 BattlEye Server: RCon admin #0 (127.0.0.1:55084) logged in
+ 7:08:47 BattlEye Server: RCon admin #1 (127.0.0.1:51098) logged in
+ 7:08:54 Mission read.
+ 7:08:54 HoyoBani uses modified data file
+ 7:08:55 Alexander.Rios uses modified data file
+ 7:08:55 Game started.
+ 7:08:55 BattlEye Server: Player #0 HoyoBani (162.213.242.232:2304) connected
+ 7:08:55 Player HoyoBani connecting.
+ 7:08:55 BattlEye Server: Player #1 Alexander.Rios (70.53.30.125:2304) connected
+ 7:08:55 Player Alexander.Rios connecting.
+ 7:08:55 BattlEye Server: Connected to BE Master
+ 7:08:57 BattlEye Server: Player #1 Alexander.Rios - BE GUID: 26488dfd00ea2da71dbd4c11e142060f
+ 7:08:58 BattlEye Server: Player #0 HoyoBani - BE GUID: baeaf37751c8cb5ba1e1a73c33957203
+ 7:08:58 Player HoyoBani connected (id=76561198105940600).
+ 7:08:59 BattlEye Server: Verified GUID (baeaf37751c8cb5ba1e1a73c33957203) of player #0 HoyoBani
+ 7:08:59 Successfull attempt to execute serverCommand '#exec users' by server.
+ 7:09:00 Player Alexander.Rios connected (id=76561198037915534).
+ 7:09:00 BattlEye Server: Verified GUID (26488dfd00ea2da71dbd4c11e142060f) of player #1 Alexander.Rios
+ 7:09:13 Player Alexander.Rios disconnected.
+ 7:09:13 BattlEye Server: Player #1 Alexander.Rios disconnected
+ 7:09:48 Player HoyoBani disconnected.
+ 7:09:48 BattlEye Server: Player #0 HoyoBani disconnected
+ 7:11:00 HoyoBani uses modified data file
+ 7:11:00 BattlEye Server: Player #0 HoyoBani (162.213.242.232:2304) connected
+ 7:11:00 Player HoyoBani connecting.
+ 7:11:03 BattlEye Server: Player #0 HoyoBani - BE GUID: baeaf37751c8cb5ba1e1a73c33957203
+ 7:11:03 Player HoyoBani connected (id=76561198105940600).
+ 7:11:03 BattlEye Server: Verified GUID (baeaf37751c8cb5ba1e1a73c33957203) of player #0 HoyoBani
+ 7:17:11 Alexander.Rios uses modified data file
+ 7:17:11 BattlEye Server: Player #1 Alexander.Rios (70.53.30.125:2304) connected
+ 7:17:11 Player Alexander.Rios connecting.
+ 7:17:13 BattlEye Server: Player #1 Alexander.Rios - BE GUID: 26488dfd00ea2da71dbd4c11e142060f
+ 7:17:15 Player Alexander.Rios connected (id=76561198037915534).
+ 7:17:15 BattlEye Server: Verified GUID (26488dfd00ea2da71dbd4c11e142060f) of player #1 Alexander.Rios
+ 7:19:42 BattlEye Server: RCon admin #0 (127.0.0.1:59241) logged in
+ 7:23:27 Wyclef uses modified data file
+ 7:23:27 BattlEye Server: Player #2 Wyclef (184.54.255.68:2304) connected
+ 7:23:27 Player Wyclef connecting.
+ 7:23:30 BattlEye Server: Player #2 Wyclef - BE GUID: f0371387b7fca9ed93f6370adce2e67e
+ 7:23:30 Player Wyclef connected (id=76561198038112694).
+ 7:23:30 BattlEye Server: Verified GUID (f0371387b7fca9ed93f6370adce2e67e) of player #2 Wyclef
+ 7:25:34 Jbo Marino[201] uses modified data file
+ 7:25:34 BattlEye Server: Player #3 Jbo Marino[201] (71.214.112.161:2304) connected
+ 7:25:35 Player Jbo Marino[201] connecting.
+ 7:25:38 BattlEye Server: Player #3 Jbo Marino[201] - BE GUID: f39290998763ee67898235ee2ea502e7
+ 7:25:39 Player Jbo Marino[201] connected (id=76561198206026112).
+ 7:25:39 BattlEye Server: Verified GUID (f39290998763ee67898235ee2ea502e7) of player #3 Jbo Marino[201]
+ 7:26:08 Player Jbo Marino[201] disconnected.
+ 7:26:08 BattlEye Server: Player #3 Jbo Marino[201] disconnected
+ 7:26:31 Nino Marino uses modified data file
+ 7:26:31 BattlEye Server: Player #3 Nino Marino (71.214.112.161:2304) connected
+ 7:26:31 Player Nino Marino connecting.
+ 7:26:34 BattlEye Server: Player #3 Nino Marino - BE GUID: f39290998763ee67898235ee2ea502e7
+ 7:26:34 Player Nino Marino connected (id=76561198206026112).
+ 7:26:34 BattlEye Server: Verified GUID (f39290998763ee67898235ee2ea502e7) of player #3 Nino Marino
+ 7:29:43 BattlEye Server: (Direct) HoyoBani: CAN U FUCKING HEAR ME YOU DOUGNUT
+ 7:29:51 BattlEye Server: (Direct) Wyclef: I cant
+ 7:29:54 BattlEye Server: (Direct) HoyoBani: YOU CANT HEAR M<E
+ 7:30:01 Player Wyclef disconnected.
+ 7:30:01 BattlEye Server: Player #2 Wyclef disconnected

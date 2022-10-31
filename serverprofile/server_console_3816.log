@@ -1,0 +1,68 @@
+﻿ 6:20:54 BattlEye Server: Initialized (v1.217)
+ 6:20:54 Game Port: 2302, Steam Query Port: 2303
+ 6:20:54 Warning: Current Steam AppId:  doesn't match expected value: 107410
+ 6:20:54 Mission UrbanSky.kelleysisland read from bank.
+ 6:20:57 Host identity created.
+ 6:20:57 BattlEye Server: RCon admin #0 (127.0.0.1:50444) logged in
+ 6:20:57 Roles assigned.
+ 6:20:57 Reading mission ...
+ 6:21:54 BattlEye Server: RCon admin #1 (127.0.0.1:62053) logged in
+ 6:22:00 Mission read.
+ 6:22:00 Sherman uses modified data file
+ 6:22:00 Game started.
+ 6:22:00 BattlEye Server: Player #0 Sherman (184.54.255.68:2304) connected
+ 6:22:00 Player Sherman connecting.
+ 6:22:00 BattlEye Server: Connected to BE Master
+ 6:22:03 BattlEye Server: Player #0 Sherman - BE GUID: f0371387b7fca9ed93f6370adce2e67e
+ 6:22:04 Successfull attempt to execute serverCommand '#exec users' by server.
+ 6:22:05 Player Sherman connected (id=76561198038112694).
+ 6:22:05 BattlEye Server: Verified GUID (f0371387b7fca9ed93f6370adce2e67e) of player #0 Sherman
+ 6:27:40 Player Sherman disconnected.
+ 6:27:40 BattlEye Server: Player #0 Sherman disconnected
+ 6:35:54 BattlEye Server: RCon admin #0 (127.0.0.1:49470) logged in
+ 6:43:18 BattlEye Server: Failed to receive from BE Master (0)
+ 6:43:18 BattlEye Server: Disconnected from BE Master
+ 6:46:19 Nino Marino uses modified data file
+ 6:46:19 BattlEye Server: Player #0 Nino Marino (71.214.112.161:2304) connected
+ 6:46:19 Player Nino Marino connecting.
+ 6:46:19 BattlEye Server: Connected to BE Master
+ 6:46:25 BattlEye Server: Player #0 Nino Marino - BE GUID: f39290998763ee67898235ee2ea502e7
+ 6:46:25 Player Nino Marino connected (id=76561198206026112).
+ 6:46:25 BattlEye Server: Verified GUID (f39290998763ee67898235ee2ea502e7) of player #0 Nino Marino
+ 6:57:17 Player Nino Marino kicked off by BattlEye: Client not responding
+ 6:57:17 Player Nino Marino disconnected.
+ 6:57:40 Nino Marino uses modified data file
+ 6:57:40 BattlEye Server: Player #0 Nino Marino (71.214.112.161:2304) connected
+ 6:57:40 Player Nino Marino connecting.
+ 6:57:43 Player Nino Marino disconnected.
+ 6:57:43 BattlEye Server: Player #0 Nino Marino disconnected
+ 6:59:59 Nino Marino uses modified data file
+ 6:59:59 BattlEye Server: Player #0 Nino Marino (71.214.112.161:2304) connected
+ 6:59:59 Player Nino Marino connecting.
+ 7:00:02 BattlEye Server: Player #0 Nino Marino - BE GUID: f39290998763ee67898235ee2ea502e7
+ 7:00:02 Player Nino Marino connected (id=76561198206026112).
+ 7:00:02 BattlEye Server: Verified GUID (f39290998763ee67898235ee2ea502e7) of player #0 Nino Marino
+ 7:11:58 Player Nino Marino kicked off by BattlEye: Client not responding
+ 7:11:58 Player Nino Marino disconnected.
+ 7:20:14 Nino Marino uses modified data file
+ 7:20:14 BattlEye Server: Player #0 Nino Marino (71.214.112.161:2304) connected
+ 7:20:14 Player Nino Marino connecting.
+ 7:20:17 BattlEye Server: Player #0 Nino Marino - BE GUID: f39290998763ee67898235ee2ea502e7
+ 7:20:17 Player Nino Marino connected (id=76561198206026112).
+ 7:20:17 BattlEye Server: Verified GUID (f39290998763ee67898235ee2ea502e7) of player #0 Nino Marino
+ 7:55:04 Robert Kennedy uses modified data file
+ 7:55:04 BattlEye Server: Player #1 Robert Kennedy (76.120.21.218:2304) connected
+ 7:55:04 Player Robert Kennedy connecting.
+ 7:55:07 BattlEye Server: Player #1 Robert Kennedy - BE GUID: ee82c3729d5372257d58141db06c50ca
+ 7:55:08 Player Robert Kennedy connected (id=76561198083728776).
+ 7:55:08 BattlEye Server: Verified GUID (ee82c3729d5372257d58141db06c50ca) of player #1 Robert Kennedy
+ 8:02:30 Player Robert Kennedy disconnected.
+ 8:02:30 BattlEye Server: Player #1 Robert Kennedy disconnected
+ 8:12:24 Player Nino Marino disconnected.
+ 8:12:24 BattlEye Server: Player #0 Nino Marino disconnected
+ 8:34:20 BattlEye Server: RCon admin #1 (127.0.0.1:59271) logged in
+ 8:35:34 Sternn uses modified data file
+ 8:35:34 BattlEye Server: Player #0 Sternn (208.66.176.2:55849) connected
+ 8:35:34 Player Sternn connecting.
+ 8:35:36 BattlEye Server: Player #0 Sternn - BE GUID: 8e76cad1f690cd7f1970f170669bf25b
+ 8:35:37 Player Sternn connected (id

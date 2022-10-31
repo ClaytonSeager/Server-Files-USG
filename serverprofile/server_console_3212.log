@@ -1,0 +1,124 @@
+﻿20:33:51 BattlEye Server: Initialized (v1.217)
+20:33:52 Game Port: 2302, Steam Query Port: 2303
+20:33:52 Mission UrbanSky.kelleysisland read from bank.
+20:33:52 Host identity created.
+20:33:52 BattlEye Server: RCon admin #0 (127.0.0.1:59545) logged in
+20:33:52 Roles assigned.
+20:33:52 Reading mission ...
+20:34:43 BattlEye Server: RCon admin #1 (127.0.0.1:62603) logged in
+20:34:50 Mission read.
+20:34:50 Game started.
+20:34:54 Successfull attempt to execute serverCommand '#exec users' by server.
+21:02:38 BattlEye Server: RCon admin #0 (127.0.0.1:56171) logged in
+21:06:33 BattlEye Server: RCon admin #1 (127.0.0.1:62397) logged in
+21:29:13 BattlEye Server: RCon admin #0 (127.0.0.1:53724) logged in
+21:58:43 BattlEye Server: RCon admin #1 (127.0.0.1:53625) logged in
+22:09:59 John Ross uses modified data file
+22:09:59 BattlEye Server: Player #0 John Ross (68.48.42.187:2304) connected
+22:09:59 Player John Ross connecting.
+22:10:00 BattlEye Server: Connected to BE Master
+22:10:03 BattlEye Server: Player #0 John Ross - BE GUID: c488b5af15da1eee51e4340ca55c25c6
+22:10:04 Player John Ross connected (id=76561198365314871).
+22:10:04 BattlEye Server: Verified GUID (c488b5af15da1eee51e4340ca55c25c6) of player #0 John Ross
+22:12:09 Thomas uses modified data file
+22:12:09 BattlEye Server: Player #1 Thomas (213.233.155.169:2304) connected
+22:12:09 Player Thomas connecting.
+22:12:13 BattlEye Server: Player #1 Thomas - BE GUID: 5056701f98ec95c72a3a45ef7e890f7c
+22:12:13 Player Thomas connected (id=76561198174871239).
+22:12:13 BattlEye Server: Verified GUID (5056701f98ec95c72a3a45ef7e890f7c) of player #1 Thomas
+22:12:16 Successfull attempt to execute serverCommand '#exec ban "76561198365314871"' by server.
+22:12:16 User name='John Ross', pid=1090254529, steamID=76561198365314871 banned
+22:12:16 Player John Ross disconnected.
+22:12:16 BattlEye Server: Player #0 John Ross disconnected
+23:03:04 Donnie Turbo uses modified data file
+23:03:04 BattlEye Server: Player #2 Donnie Turbo (192.81.45.131:2304) connected
+23:03:04 Player Donnie Turbo connecting.
+23:03:20 Player Donnie Turbo disconnected.
+23:03:20 BattlEye Server: Player #2 Donnie Turbo disconnected
+23:05:06 Player Thomas disconnected.
+23:05:06 BattlEye Server: Player #1 Thomas disconnected
+23:05:39 Thomas Woods uses modified data file
+23:05:39 BattlEye Server: Player #0 Thomas Woods (213.233.155.169:2304) connected
+23:05:39 Player Thomas Woods connecting.
+23:05:41 BattlEye Server: Player #0 Thomas Woods - BE GUID: 5056701f98ec95c72a3a45ef7e890f7c
+23:05:42 Player Thomas Woods connected (id=76561198174871239).
+23:05:42 BattlEye Server: Verified GUID (5056701f98ec95c72a3a45ef7e890f7c) of player #0 Thomas Woods
+23:08:32 Donnie Turbo uses modified data file
+23:08:32 BattlEye Server: Player #1 Donnie Turbo (192.81.45.131:2304) connected
+23:08:32 Player Donnie Turbo connecting.
+23:08:35 BattlEye Server: Player #1 Donnie Turbo - BE GUID: a0a46137167d70778acc68329618c7e6
+23:08:35 Player Donnie Turbo connected (id=76561198041233395).
+23:08:35 BattlEye Server: Verified GUID (a0a46137167d70778acc68329618c7e6) of player #1 Donnie Turbo
+23:27:39 BattlEye Server: RCon admin #0 (127.0.0.1:63994) logged in
+23:31:43 Player Donnie Turbo is losing connection
+23:31:48 Player Donnie Turbo disconnected.
+23:31:48 BattlEye Server: Player #1 Donnie Turbo disconnected
+23:35:36 Donnie Turbo uses modified data file
+23:35:36 BattlEye Server: Player #1 Donnie Turbo (192.81.45.131:2304) connected
+23:35:37 Player Donnie Turbo connecting.
+23:35:40 BattlEye Server: Player #1 Donnie Turbo - BE GUID: a0a46137167d70778acc68329618c7e6
+23:35:40 Player Donnie Turbo connected (id=76561198041233395).
+23:35:40 BattlEye Server: Verified GUID (a0a46137167d70778acc68329618c7e6) of player #1 Donnie Turbo
+23:44:03 Wyclef uses modified data file
+23:44:03 BattlEye Server: Player #2 Wyclef (184.54.255.68:2304) connected
+23:44:03 Player Wyclef connecting.
+23:44:05 BattlEye Server: Player #2 Wyclef - BE GUID: f0371387b7fca9ed93f6370adce2e67e
+23:44:06 Player Wyclef connected (id=76561198038112694).
+23:44:06 BattlEye Server: Verified GUID (f0371387b7fca9ed93f6370adce2e67e) of player #2 Wyclef
+23:51:59 BattlEye Server: RCon admin #1 (127.0.0.1:54804) logged in
+23:54:36 Boyevik Butch-Mac Volkev uses modified data file
+23:54:36 BattlEye Server: Player #3 Boyevik Butch-Mac Volkev (75.129.113.251:2304) connected
+23:54:36 Player Boyevik Butch-Mac Volkev connecting.
+23:54:38 BattlEye Server: Player #3 Boyevik Butch-Mac Volkev - BE GUID: 2171a69b0a8e7bb55eac768fb58f4833
+23:54:39 Player Boyevik Butch-Mac Volkev connected (id=76561198089960350).
+23:54:39 BattlEye Server: Verified GUID (2171a69b0a8e7bb55eac768fb58f4833) of player #3 Boyevik Butch-Mac Volkev
+23:57:22 Player Donnie Turbo is losing connection
+ 0:02:19 BattlEye Server: (Direct) Boyevik Butch-Mac Volkev: Lmaoo
+ 0:02:29 BattlEye Server: (Direct) Boyevik Butch-Mac Volkev: lol
+ 0:02:40 [1A-01] J Shepard uses modified data file
+ 0:02:40 BattlEye Server: Player #4 [1A-01] J Shepard (75.58.49.192:2304) connected
+ 0:02:40 Player [1A-01] J Shepard connecting.
+ 0:02:42 BattlEye Server: Player #4 [1A-01] J Shepard - BE GUID: bd4578e615422cb0ed98810eedfeb668
+ 0:02:43 Player [1A-01] J Shepard connected (id=76561198043298972).
+ 0:02:43 BattlEye Server: Verified GUID (bd4578e615422cb0ed98810eedfeb668) of player #4 [1A-01] J Shepard
+ 0:04:58 Player [1A-01] J Shepard disconnected.
+ 0:04:58 BattlEye Server: Player #4 [1A-01] J Shepard disconnected
+ 0:05:06 Mike Hutchinson uses modified data file
+ 0:05:06 BattlEye Server: Player #4 Mike Hutchinson (75.58.49.192:2304) connected
+ 0:05:06 Player Mike Hutchinson connecting.
+ 0:05:08 BattlEye Server: Player #4 Mike Hutchinson - BE GUID: bd4578e615422cb0ed98810eedfeb668
+ 0:05:09 Player Mike Hutchinson connected (id=76561198043298972).
+ 0:05:09 BattlEye Server: Verified GUID (bd4578e615422cb0ed98810eedfeb668) of player #4 Mike Hutchinson
+ 0:09:50 BattlEye Server: (Direct) Wyclef: Ride along lmaooo
+ 0:09:56 BattlEye Server: (Direct) Boyevik Butch-Mac Volkev: lol
+ 0:18:31 Player Wyclef is losing connection
+ 0:18:36 Player Wyclef disconnected.
+ 0:18:36 BattlEye Server: Player #2 Wyclef disconnected
+ 0:19:50 BattlEye Server: RCon admin #0 (127.0.0.1:59795) logged in
+ 0:25:30 BattlEye Server: RCon admin #1 (127.0.0.1:64079) logged in
+ 0:29:03 Héctor "Lil Loco" Arturo uses modified data file
+ 0:29:03 BattlEye Server: Player #5 Héctor "Lil Loco" Arturo (174.115.199.248:2304) connected
+ 0:29:03 Player Héctor "Lil Loco" Arturo connecting.
+ 0:29:08 BattlEye Server: Player #5 Héctor "Lil Loco" Arturo - BE GUID: aba8543eb9f1fee2c92981731aa72309
+ 0:29:08 Player Héctor "Lil Loco" Arturo connected (id=76561197999316388).
+ 0:29:08 BattlEye Server: Verified GUID (aba8543eb9f1fee2c92981731aa72309) of player #5 Héctor "Lil Loco" Arturo
+ 0:44:00 xMADxHATERx uses modified data file
+ 0:44:00 BattlEye Server: Player #6 xMADxHATERx (74.193.227.204:2304) connected
+ 0:44:00 Player xMADxHATERx connecting.
+ 0:44:02 BattlEye Server: Player #6 xMADxHATERx - BE GUID: 52a2f45de281ce34e5170f5352690b8d
+ 0:44:45 Player xMADxHATERx connected (id=76561198281126215).
+ 0:44:45 BattlEye Server: Verified GUID (52a2f45de281ce34e5170f5352690b8d) of player #6 xMADxHATERx
+ 0:46:20 BattlEye Server: RCon admin #0 (127.0.0.1:58194) logged in
+ 0:48:56 BattlEye Server: (Unknown) xMADxHATERx: auto run?
+ 0:49:25 BattlEye Server: (Unknown) Boyevik Butch-Mac Volkev: Whats Auto Run?
+ 0:49:42 BattlEye Server: (Unknown) xMADxHATERx: then this server doesnt have it lol
+ 0:50:55 BattlEye Server: (Unknown) Boyevik Butch-Mac Volkev: I mean the server has no stamina, you still need to hold down shift tho
+ 0:51:24 BattlEye Server: (Unknown) xMADxHATERx: ive played a few servers that 0 is auto run
+ 0:51:40 BattlEye Server: (Unknown) Boyevik Butch-Mac Volkev: thats unfortunate lol
+ 0:51:49 Wyclef uses modified data file
+ 0:51:49 BattlEye Server: Player #7 Wyclef (184.54.255.68:2304) connected
+ 0:51:49 Player Wyclef connecting.
+ 0:51:50 [1k-40] Jose Santana uses modified data file
+ 0:51:50 BattlEye Server: Player #8 [1k-40] Jose Santana (71.214.112.161:2304) connected
+ 0:51:50 Player [1k-40] Jose Santana connecting.
+ 0:51:51 BattlEye Server: (

@@ -1,0 +1,61 @@
+
+extDB3: https://bitbucket.org/torndeco/extdb3/wiki/Home
+extDB3: Version: 1.031
+extDB3: Windows Version
+Message: All development for extDB3 is done on a Linux Dedicated Server
+Message: If you would like to Donate to extDB3 Development
+Message: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2SUEFTGABTAM2
+Message: Also leave a message if there is any particular feature you would like to see added.
+Message: Thanks for all the people that have donated.
+Message: Torndeco: 18/05/15
+
+
+extDB3: Found extdb3-conf.ini
+extDB3: Detected 8 Cores, Setting up 6 Worker Threads
+extDB3: ...
+extDB3: ...
+extDB3: ...
+extDB3: ...
+extDB3: ...
+extDB3: ...
+
+
+[06:18:20:320918 +01:00] [Thread 5852] extDB3: SQL: Initialized: Add Quotes around TEXT Datatypes mode: 2
+[06:18:20:320973 +01:00] [Thread 5852] extDB3: SQL: Initialized: NULL = ""
+[06:18:20:320986 +01:00] [Thread 5852] extDB3: Locked
+[23:19:17:636245 +01:00] [Thread 2828] extDB3: SQL: Error MariaDBQueryException: Unknown column 'playerid' in 'where clause'
+[23:19:17:636262 +01:00] [Thread 2828] extDB3: SQL: Error MariaDBQueryException: Input: UPDATE players SET jail_time='5' WHERE playerid='76561198043298972'
+[00:21:06:279750 +01:00] [Thread 5900] extDB3: SQL: Error MariaDBQueryException: DELETE command denied to user 'arma3'@'localhost' for table 'interpol_crimes'
+[00:21:06:279773 +01:00] [Thread 5900] extDB3: SQL: Error MariaDBQueryException: Input: DELETE FROM interpol_crimes WHERE id='209'
+[02:39:23:364304 +01:00] [Thread 5900] extDB3: SQL: Error MariaDBQueryException: Unknown column 'playerid' in 'where clause'
+[02:39:23:364321 +01:00] [Thread 5900] extDB3: SQL: Error MariaDBQueryException: Input: UPDATE players SET jail_time='6' WHERE playerid='76561198354844800'
+[03:19:42:952109 +01:00] [Thread 2828] extDB3: SQL: Error MariaDBQueryException: Data too long for column 'civ_stats' at row 1
+[03:19:42:952130 +01:00] [Thread 2828] extDB3: SQL: Error MariaDBQueryException: Input: UPDATE players SET name='Rogue Tjay', cash='4874', bankacc='731327', civ_licenses='"[[`license_civ_driver`,1],[`license_civ_restrictedlicense`,0],[`license_civ_SurplusShop`,0],[`license_civ_repair`,0],[`license_civ_sport`,0],[`license_civ_bike`,0],[`license_civ_tow`,1],[`license_civ_boat`,0],[`license_civ_pilot`,0],[`license_civ_trucking`,1],[`license_civ_gun`,1],[`license_civ_gundealer`,0],[`license_civ_rifle`,0],[`license_civ_dive`,0],[`license_civ_home`,1],[`license_civ_business`,0],[`license_civ_oil`,0],[`license_civ_diamond`,1],[`license_civ_salt`,0],[`license_civ_sand`,0],[`license_civ_iron`,0],[`license_civ_copper`,0],[`license_civ_cement`,0],[`license_civ_medmarijuana`,0],[`license_civ_cocaine`,1],[`license_civ_heroin`,1],[`license_civ_marijuana`,1],[`license_civ_rebel`,0]]"', civ_gear='"[`TRYK_U_B_PCUGs_BLK_R`,``,`B_ViperLightHarness_blk_F`,`TRYK_kio_balaclavas`,`casco_pumas`,[`ItemMap`,`ItemCompass`,`Itemwatch`,`tf_anprc152_21`,`NVGoggles`],``,``,[],[],[`acc_flashlight_pistol`,`hgun_Pistol_heavy_02_F`],[`30Rnd_9x21_Mag`,`30Rnd_9x21_Mag`,`30Rnd_9x21_Mag`,`30Rnd_9x21_Mag`,`30Rnd_9x21_Mag`,`30Rnd_9x21_Mag`,`30Rnd_9x21_Mag`,`6Rnd_45ACP_Cylinder`,`6Rnd_45ACP_Cylinder`,`6Rnd_45ACP_Cylinder`,`6Rnd_45ACP_Cylinder`,`6Rnd_45ACP_Cylinder`,`30Rnd_9x21_Mag`,`30Rnd_9x21_Mag`,`30Rnd_9x21_Mag`,`30Rnd_9x21_Mag`],[],[],[``,``,``,``],[``,``,``,``],[[`coffee`,4],[`tbacon`,2],[`donuts`,5],[`toolkit`,1]]]"', arrested='0', civ_stats='"[100,80.2669,0.00409891]"', civ_alive='1', civ_position='"[3599.74,3277.48,0.412689]"', playtime='"[2655,359,1858]"' WHERE pid='76561198883479728'
+[03:38:36:042955 +01:00] [Thread 5220] extDB3: SQL: Error MariaDBQueryException: Unknown column 'playerid' in 'where clause'
+[03:38:36:042978 +01:00] [Thread 5220] extDB3: SQL: Error MariaDBQueryException: Input: UPDATE players SET jail_time='10' WHERE playerid='76561198105940600'
+[03:46:31:978612 +01:00] [Thread 5900] extDB3: SQL: Error MariaDBQueryException: Unknown column 'playerid' in 'where clause'
+[03:46:31:978630 +01:00] [Thread 5900] extDB3: SQL: Error MariaDBQueryException: Input: UPDATE players SET jail_time='10' WHERE playerid='76561198043298972'
+[04:05:48:498565 +01:00] [Thread 5900] extDB3: SQL: Error MariaDBQueryException: Unknown column 'playerid' in 'where clause'
+[04:05:48:498587 +01:00] [Thread 5900] extDB3: SQL: Error MariaDBQueryException: Input: UPDATE players SET jail_time='5' WHERE playerid='76561198883479728'
+[04:39:12:268774 +01:00] [Thread 2828] extDB3: SQL: Error MariaDBQueryException: DELETE command denied to user 'arma3'@'localhost' for table 'messages_history'
+[04:39:12:268796 +01:00] [Thread 2828] extDB3: SQL: Error MariaDBQueryException: Input: DELETE FROM messages_history WHERE pid='76561198046640450' AND from_number='0664678764' AND message='yo' AND insert_time='"[2020,2,15,2,3,6]"'
+[04:39:19:860890 +01:00] [Thread 2828] extDB3: SQL: Error MariaDBQueryException: DELETE command denied to user 'arma3'@'localhost' for table 'messages_history'
+[04:39:19:860912 +01:00] [Thread 2828] extDB3: SQL: Error MariaDBQueryException: Input: DELETE FROM messages_history WHERE pid='76561198046640450' AND from_number='0674988454' AND message='be careful Tjay. some bad shit may be in the works' AND insert_time='"[2020,2,15,2,35,5]"'
+[04:39:22:731935 +01:00] [Thread 2828] extDB3: SQL: Error MariaDBQueryException: DELETE command denied to user 'arma3'@'localhost' for table 'messages_history'
+[04:39:22:731951 +01:00] [Thread 2828] extDB3: SQL: Error MariaDBQueryException: Input: DELETE FROM messages_history WHERE pid='76561198046640450' AND from_number='0674988454' AND message='Blades to PD please' AND insert_time='"[2020,2,16,3,3,8]"'
+[04:40:06:306349 +01:00] [Thread 2828] extDB3: SQL: Error MariaDBQueryException: DELETE command denied to user 'arma3'@'localhost' for table 'messages_history'
+[04:40:06:306372 +01:00] [Thread 2828] extDB3: SQL: Error MariaDBQueryException: Input: DELETE FROM messages_history WHERE pid='76561198046640450' AND from_number='0674988454' AND message='If we take off Ill tell you which heli has the gold, and where its going' AND insert_time='"[2020,2,16,3,32,25]"'
+[04:40:07:528398 +01:00] [Thread 2828] extDB3: SQL: Error MariaDBQueryException: DELETE command denied to user 'arma3'@'localhost' for table 'messages_history'
+[04:40:07:528416 +01:00] [Thread 2828] extDB3: SQL: Error MariaDBQueryException: Input: DELETE FROM messages_history WHERE pid='76561198046640450' AND from_number='0674988454' AND message='GOLD BARS ON THE HUMMINGBIRD. Going to gold trader' AND insert_time='"[2020,2,16,3,36,9]"'
+[04:40:09:162814 +01:00] [Thread 2828] extDB3: SQL: Error MariaDBQueryException: DELETE command denied to user 'arma3'@'localhost' for table 'messages_history'
+[04:40:09:162833 +01:00] [Thread 2828] extDB3: SQL: Error MariaDBQueryException: Input: DELETE FROM messages_history WHERE pid='76561198046640450' AND from_number='0674988454' AND message='Im stalling what I can but ' AND insert_time='"[2020,2,16,3,37,44]"'
+[04:40:10:501240 +01:00] [Thread 2828] extDB3: SQL: Error MariaDBQueryException: DELETE command denied to user 'arma3'@'localhost' for table 'messages_history'
+[04:40:10:501259 +01:00] [Thread 2828] extDB3: SQL: Error MariaDBQueryException: Input: DELETE FROM messages_history WHERE pid='76561198046640450' AND from_number='0633761823' AND message='drunk driver behind pd black old car two people ' AND insert_time='"[2020,2,21,2,56,8]"'
+[04:40:11:574361 +01:00] [Thread 2828] extDB3: SQL: Error MariaDBQueryException: DELETE command denied to user 'arma3'@'localhost' for table 'messages_history'
+[04:40:11:574383 +01:00] [Thread 2828] extDB3: SQL: Error MariaDBQueryException: Input: DELETE FROM messages_history WHERE pid='76561198046640450' AND from_number='0674988454' AND message='You guys have a fugitive in my home' AND insert_time='"[2020,2,21,3,26,57]"'
+[04:40:12:491371 +01:00] [Thread 2828] extDB3: SQL: Error MariaDBQueryException: DELETE command denied to user 'arma3'@'localhost' for table 'messages_history'
+[04:40:12:491391 +01:00] [Thread 2828] extDB3: SQL: Error MariaDBQueryException: Input: DELETE FROM messages_history WHERE pid='76561198046640450' AND from_number='0674988454' AND message='Cream house in the middle on the back side' AND insert_time='"[2020,2,21,3,28,4]"'
+[04:40:13:854835 +01:00] [Thread 2828] extDB3: SQL: Error MariaDBQueryException: DELETE command denied to user 'arma3'@'localhost' for table 'messages_history'
+[04:40:13:854857 +01:00] [Thread 2828] extDB3: SQL: Error MariaDBQueryException: Input: DELETE FROM messages_history WHERE pid='76561198046640450' AND from_number='0674988454' AND message='If you need HS give a call' AND insert_time='"[2020,2,21,3,43,57]"'
+[06:06:18:826035 +01:00] [Thread 5900] extDB3: SQL: Error MariaDBQueryException: Unknown column 'playerid' in 'where clause'
+[06:06:18:826053 +01:00] [Thread 5900] extDB3: SQL: Error MariaDBQueryException: Input: UPDATE players SET jail_time='5' WHERE playerid='76561198180893505'

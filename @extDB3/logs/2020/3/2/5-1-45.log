@@ -1,0 +1,35 @@
+
+extDB3: https://bitbucket.org/torndeco/extdb3/wiki/Home
+extDB3: Version: 1.031
+extDB3: Windows Version
+Message: All development for extDB3 is done on a Linux Dedicated Server
+Message: If you would like to Donate to extDB3 Development
+Message: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2SUEFTGABTAM2
+Message: Also leave a message if there is any particular feature you would like to see added.
+Message: Thanks for all the people that have donated.
+Message: Torndeco: 18/05/15
+
+
+extDB3: Found extdb3-conf.ini
+extDB3: Detected 8 Cores, Setting up 6 Worker Threads
+extDB3: ...
+extDB3: ...
+extDB3: ...
+extDB3: ...
+extDB3: ...
+extDB3: ...
+
+
+[05:01:58:370642 -06:00] [Thread 6436] extDB3: SQL: Initialized: Add Quotes around TEXT Datatypes mode: 2
+[05:01:58:370696 -06:00] [Thread 6436] extDB3: SQL: Initialized: NULL = ""
+[05:01:58:370709 -06:00] [Thread 6436] extDB3: Locked
+[16:38:09:406384 -06:00] [Thread 6448] extDB3: SQL: Error MariaDBQueryException: DELETE command denied to user 'arma3'@'localhost' for table 'crafting_stations'
+[16:38:09:406406 -06:00] [Thread 6448] extDB3: SQL: Error MariaDBQueryException: Input: DELETE FROM crafting_stations WHERE id='11'
+[16:38:28:925055 -06:00] [Thread 6448] extDB3: SQL: Error MariaDBQueryException: DELETE command denied to user 'arma3'@'localhost' for table 'crafting_stations'
+[16:38:28:925077 -06:00] [Thread 6448] extDB3: SQL: Error MariaDBQueryException: Input: DELETE FROM crafting_stations WHERE id='29'
+[16:38:53:778882 -06:00] [Thread 6448] extDB3: SQL: Error MariaDBQueryException: DELETE command denied to user 'arma3'@'localhost' for table 'crafting_stations'
+[16:38:53:778901 -06:00] [Thread 6448] extDB3: SQL: Error MariaDBQueryException: Input: DELETE FROM crafting_stations WHERE id='24'
+[16:39:09:202814 -06:00] [Thread 6448] extDB3: SQL: Error MariaDBQueryException: DELETE command denied to user 'arma3'@'localhost' for table 'crafting_stations'
+[16:39:09:202835 -06:00] [Thread 6448] extDB3: SQL: Error MariaDBQueryException: Input: DELETE FROM crafting_stations WHERE id='30'
+[16:39:31:868102 -06:00] [Thread 6448] extDB3: SQL: Error MariaDBQueryException: DELETE command denied to user 'arma3'@'localhost' for table 'crafting_stations'
+[16:39:31:868122 -06:00] [Thread 6448] extDB3: SQL: Error MariaDBQueryException: Input: DELETE FROM crafting_stations WHERE id='28'

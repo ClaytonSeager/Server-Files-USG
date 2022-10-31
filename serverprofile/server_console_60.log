@@ -1,0 +1,69 @@
+﻿17:48:00 BattlEye Server: Initialized (v1.217)
+17:48:00 Game Port: 2302, Steam Query Port: 2303
+17:48:00 Mission Urban Sky V1.2 read from bank.
+17:48:01 Host identity created.
+17:48:01 Roles assigned.
+17:48:01 Reading mission ...
+17:48:05 BattlEye Server: RCon admin #0 (127.0.0.1:51661) logged in
+17:48:57 BattlEye Server: RCon admin #1 (127.0.0.1:65247) logged in
+17:49:02 Mission read.
+17:49:02 Wyclef uses modified data file
+17:49:02 Game started.
+17:49:02 BattlEye Server: Player #0 Wyclef (184.54.255.68:2304) connected
+17:49:02 Player Wyclef connecting.
+17:49:03 BattlEye Server: Connected to BE Master
+17:49:05 BattlEye Server: Player #0 Wyclef - BE GUID: f0371387b7fca9ed93f6370adce2e67e
+17:49:05 Player Wyclef connected (id=76561198038112694).
+17:49:05 BattlEye Server: Verified GUID (f0371387b7fca9ed93f6370adce2e67e) of player #0 Wyclef
+17:49:06 Successfull attempt to execute serverCommand '#exec users' by server.
+18:05:43 Player Wyclef disconnected.
+18:05:43 BattlEye Server: Player #0 Wyclef disconnected
+18:31:37 BattlEye Server: RCon admin #0 (127.0.0.1:49241) logged in
+19:29:27 BattlEye Server: RCon admin #1 (127.0.0.1:64131) logged in
+19:53:09 Nino Marino uses modified data file
+19:53:09 BattlEye Server: Player #0 Nino Marino (71.214.112.161:2304) connected
+19:53:09 Player Nino Marino connecting.
+19:53:13 BattlEye Server: Player #0 Nino Marino - BE GUID: f39290998763ee67898235ee2ea502e7
+19:53:13 Player Nino Marino connected (id=76561198206026112).
+19:53:13 BattlEye Server: Verified GUID (f39290998763ee67898235ee2ea502e7) of player #0 Nino Marino
+20:15:58 BattlEye Server: RCon admin #0 (127.0.0.1:60808) logged in
+20:24:53 BattlEye Server: RCon admin #1 (127.0.0.1:52435) logged in
+20:39:54 Donnie Turbo uses modified data file
+20:39:54 BattlEye Server: Player #1 Donnie Turbo (192.81.45.131:2304) connected
+20:39:54 Player Donnie Turbo connecting.
+20:39:58 BattlEye Server: Player #1 Donnie Turbo - BE GUID: a0a46137167d70778acc68329618c7e6
+20:39:58 Player Donnie Turbo connected (id=76561198041233395).
+20:39:58 BattlEye Server: Verified GUID (a0a46137167d70778acc68329618c7e6) of player #1 Donnie Turbo
+20:56:05 adelp uses modified data file
+20:56:05 BattlEye Server: Player #2 adelp (96.10.73.3:25847) connected
+20:56:05 Player adelp connecting.
+20:56:30 Player adelp disconnected.
+20:56:30 BattlEye Server: Player #2 adelp disconnected
+20:57:19 adelp uses modified data file
+20:57:19 BattlEye Server: Player #2 adelp (96.10.73.3:2064) connected
+20:57:19 Player adelp connecting.
+20:57:24 BattlEye Server: Player #2 adelp - BE GUID: 1a817c92339e6b8e805de60b179df342
+20:57:24 Player adelp connected (id=76561198180893505).
+20:57:24 BattlEye Server: Verified GUID (1a817c92339e6b8e805de60b179df342) of player #2 adelp
+21:06:53 Player adelp disconnected.
+21:06:53 BattlEye Server: Player #2 adelp disconnected
+21:41:23 Don uses modified data file
+21:41:23 BattlEye Server: Player #2 Don (68.193.46.76:2304) connected
+21:41:23 Player Don connecting.
+21:41:32 BattlEye Server: Player #2 Don - BE GUID: 98d482b3dd59b3de319bb434cebef1de
+21:41:32 Player Don connected (id=76561197968930492).
+21:41:32 BattlEye Server: Verified GUID (98d482b3dd59b3de319bb434cebef1de) of player #2 Don
+21:41:43 Player Don disconnected.
+21:41:43 BattlEye Server: Player #2 Don disconnected
+22:18:44 Zander Marino uses modified data file
+22:18:44 BattlEye Server: Player #2 Zander Marino (76.6.145.223:2304) connected
+22:18:44 Player Zander Marino connecting.
+22:18:48 BattlEye Server: Player #2 Zander Marino - BE GUID: 1a817c92339e6b8e805de60b179df342
+22:18:48 Player Zander Marino connected (id=76561198180893505).
+22:18:48 BattlEye Server: Verified GUID (1a817c92339e6b8e805de60b179df342) of player #2 Zander Marino
+22:22:39 BattlEye Server: RCon admin #0 (127.0.0.1:64927) logged in
+22:39:38 Player Zander Marino disconnected.
+22:39:38 BattlEye Server: Player #2 Zander Marino disconnected
+22:48:39 BattlEye Server: RCon admin #1 (127.0.0.1:59709) logged in
+23:04:33 Zander Marino uses modified data file
+23:04:34 BattlEye Server: Player #2 Zander Marino (76.6.145.223:2304) connect

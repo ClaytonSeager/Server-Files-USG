@@ -1,0 +1,31 @@
+
+extDB3: https://bitbucket.org/torndeco/extdb3/wiki/Home
+extDB3: Version: 1.031
+extDB3: Windows Version
+Message: All development for extDB3 is done on a Linux Dedicated Server
+Message: If you would like to Donate to extDB3 Development
+Message: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2SUEFTGABTAM2
+Message: Also leave a message if there is any particular feature you would like to see added.
+Message: Thanks for all the people that have donated.
+Message: Torndeco: 18/05/15
+
+
+extDB3: Found extdb3-conf.ini
+extDB3: Detected 8 Cores, Setting up 6 Worker Threads
+extDB3: ...
+extDB3: ...
+extDB3: ...
+extDB3: ...
+extDB3: ...
+extDB3: ...
+
+
+[05:19:26:277692 +01:00] [Thread 5256] extDB3: SQL: Initialized: Add Quotes around TEXT Datatypes mode: 2
+[05:19:26:277772 +01:00] [Thread 5256] extDB3: SQL: Initialized: NULL = ""
+[05:19:26:277799 +01:00] [Thread 5256] extDB3: Locked
+[05:24:32:171920 +01:00] [Thread 10000] extDB3: SQL: Error MariaDBQueryException: Duplicate entry 'おちんちん' for key 'unique_name'
+[05:24:32:171938 +01:00] [Thread 10000] extDB3: SQL: Error MariaDBQueryException: Input: INSERT INTO gangs (owner, name, description, hq_upgrades, permission, type) VALUES('76561198105940600', 'おちんちん', '""', '"[]"', '"[[0,`Owner`,[`INVITE`,`KICK`,`HQ`,`DEPOSIT`,`PAYTAX`,`HQSPAWN`,`RANKS`,`WITHDRAW`,`DESCRIPTION`,`TAX`,`DISBAND`,`UPGRADE`,`CHANGEPERMISSION`,`TAG`]],[1,`Member`,[`HQSPAWN`,`PAYTAX`,`DEPOSIT`]]]"', '1')
+[05:42:34:133014 +01:00] [Thread 3532] extDB3: SQL: Error MariaDBQueryException: Incorrect integer value: '<null>' for column 'gang_id' at row 1
+[05:42:34:133056 +01:00] [Thread 3532] extDB3: SQL: Error MariaDBQueryException: Input: UPDATE players SET gang_id='<null>',gang_perm_id='0' WHERE pid='76561198105940600'
+[06:43:24:789562 +01:00] [Thread 9812] extDB3: SQL: Error MariaDBQueryException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id='1'' at line 1
+[06:43:24:789585 +01:00] [Thread 9812] extDB3: SQL: Error MariaDBQueryException: Input: UPDATE gangs SET description= WHERE id='1'

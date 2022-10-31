@@ -1,0 +1,35 @@
+
+extDB3: https://bitbucket.org/torndeco/extdb3/wiki/Home
+extDB3: Version: 1.031
+extDB3: Windows Version
+Message: All development for extDB3 is done on a Linux Dedicated Server
+Message: If you would like to Donate to extDB3 Development
+Message: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2SUEFTGABTAM2
+Message: Also leave a message if there is any particular feature you would like to see added.
+Message: Thanks for all the people that have donated.
+Message: Torndeco: 18/05/15
+
+
+extDB3: Found extdb3-conf.ini
+extDB3: Detected 8 Cores, Setting up 6 Worker Threads
+extDB3: ...
+extDB3: ...
+extDB3: ...
+extDB3: ...
+extDB3: ...
+extDB3: ...
+
+
+[01:23:02:098546 +01:00] [Thread 9500] extDB3: SQL: Initialized: Add Quotes around TEXT Datatypes mode: 2
+[01:23:02:098624 +01:00] [Thread 9500] extDB3: SQL: Initialized: NULL = ""
+[01:23:02:098646 +01:00] [Thread 9500] extDB3: Locked
+[02:54:26:166198 +01:00] [Thread 7700] extDB3: SQL: Error MariaDBQueryException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BIG AL' GAMBINO`,1],[`76561198180893505`,`John Anderson`,0],[`76561198264871362`' at line 1
+[02:54:26:166222 +01:00] [Thread 7700] extDB3: SQL: Error MariaDBQueryException: Input: UPDATE entreprises SET members='"[[`76561198206026112`,`Nino Marino`,2],[`76561198368248470`,`Joe Montana`,1],[`76561198361509989`,`AL 'BIG AL' GAMBINO`,1],[`76561198180893505`,`John Anderson`,0],[`76561198264871362`,`luke`,0],[`76561198046640450`,`S.Kingston`,0]]"' WHERE id='4'
+[02:54:42:414400 +01:00] [Thread 7700] extDB3: SQL: Error MariaDBQueryException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BIG AL' GAMBINO`,1],[`76561198180893505`,`John Anderson`,0],[`76561198264871362`' at line 1
+[02:54:42:414422 +01:00] [Thread 7700] extDB3: SQL: Error MariaDBQueryException: Input: UPDATE entreprises SET members='"[[`76561198206026112`,`Nino Marino`,2],[`76561198368248470`,`Joe Montana`,0],[`76561198361509989`,`AL 'BIG AL' GAMBINO`,1],[`76561198180893505`,`John Anderson`,0],[`76561198264871362`,`luke`,0],[`76561198046640450`,`S.Kingston`,0]]"' WHERE id='4'
+[02:55:49:398011 +01:00] [Thread 6708] extDB3: SQL: Error MariaDBQueryException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BIG AL' GAMBINO`,0],[`76561198180893505`,`John Anderson`,0],[`76561198264871362`' at line 1
+[02:55:49:398042 +01:00] [Thread 6708] extDB3: SQL: Error MariaDBQueryException: Input: UPDATE entreprises SET members='"[[`76561198206026112`,`Nino Marino`,2],[`76561198368248470`,`Joe Montana`,0],[`76561198361509989`,`AL 'BIG AL' GAMBINO`,0],[`76561198180893505`,`John Anderson`,0],[`76561198264871362`,`luke`,0],[`76561198046640450`,`S.Kingston`,0]]"' WHERE id='4'
+[02:57:08:426261 +01:00] [Thread 6708] extDB3: SQL: Error MariaDBQueryException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BIG AL' GAMBINO`,0],[`76561198180893505`,`John Anderson`,1],[`76561198264871362`' at line 1
+[02:57:08:426283 +01:00] [Thread 6708] extDB3: SQL: Error MariaDBQueryException: Input: UPDATE entreprises SET members='"[[`76561198206026112`,`Nino Marino`,2],[`76561198368248470`,`Joe Montana`,0],[`76561198361509989`,`AL 'BIG AL' GAMBINO`,0],[`76561198180893505`,`John Anderson`,1],[`76561198264871362`,`luke`,0],[`76561198046640450`,`S.Kingston`,0]]"' WHERE id='4'
+[04:28:52:105839 +01:00] [Thread 8696] extDB3: SQL: Error MariaDBQueryException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BIG AL' GAMBINO`,1],[`76561198180893505`,`John Anderson`,1],[`76561198264871362`' at line 1
+[04:28:52:105866 +01:00] [Thread 8696] extDB3: SQL: Error MariaDBQueryException: Input: UPDATE entreprises SET members='"[[`76561198206026112`,`Nino Marino`,2],[`76561198368248470`,`Joe Montana`,0],[`76561198361509989`,`AL 'BIG AL' GAMBINO`,1],[`76561198180893505`,`John Anderson`,1],[`76561198264871362`,`luke`,0],[`76561198046640450`,`S.Kingston`,0]]"' WHERE id='4'

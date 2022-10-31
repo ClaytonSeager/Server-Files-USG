@@ -1,0 +1,35 @@
+
+extDB3: https://bitbucket.org/torndeco/extdb3/wiki/Home
+extDB3: Version: 1.031
+extDB3: Windows Version
+Message: All development for extDB3 is done on a Linux Dedicated Server
+Message: If you would like to Donate to extDB3 Development
+Message: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2SUEFTGABTAM2
+Message: Also leave a message if there is any particular feature you would like to see added.
+Message: Thanks for all the people that have donated.
+Message: Torndeco: 18/05/15
+
+
+extDB3: Found extdb3-conf.ini
+extDB3: Detected 8 Cores, Setting up 6 Worker Threads
+extDB3: ...
+extDB3: ...
+extDB3: ...
+extDB3: ...
+extDB3: ...
+extDB3: ...
+
+
+[06:27:39:773984 +01:00] [Thread 9292] extDB3: SQL: Initialized: Add Quotes around TEXT Datatypes mode: 2
+[06:27:39:774067 +01:00] [Thread 9292] extDB3: SQL: Initialized: NULL = ""
+[06:27:39:774080 +01:00] [Thread 9292] extDB3: Locked
+[06:52:24:643097 +01:00] [Thread 5032] extDB3: SQL: Error MariaDBQueryException: DELETE command denied to user 'arma3'@'localhost' for table 'crafting_stations'
+[06:52:24:643119 +01:00] [Thread 5032] extDB3: SQL: Error MariaDBQueryException: Input: DELETE FROM crafting_stations WHERE id='11'
+[20:35:14:568163 +01:00] [Thread 9252] extDB3: SQL: Error MariaDBQueryException: Data too long for column 'damage' at row 21
+[20:35:14:568204 +01:00] [Thread 9252] extDB3: SQL: Error MariaDBQueryException: Input: UPDATE vehicles SET active='0', fuel='0.838104', damage='"[0.0393701,0.0866142,0.0944882,0.11811,0.141732,0.102362,0.122047,0,0.0551181,0.38189,0.38189,0.38189,0.38189,0.38189,0.38189,0.38189,0.38189,0.38189,0.212598,0.125984,0.240157,0.38189,0.38189,0,0,0,0.0826772,0.0629921,0,0,0,0,0,0,0,0,0,0,0,0,0.208661,0.208661]"' WHERE pid='76561198083728776' AND plate='220802'
+[00:05:02:356891 +01:00] [Thread 5380] extDB3: SQL: Error MariaDBQueryException: DELETE command denied to user 'arma3'@'localhost' for table 'crafting_stations'
+[00:05:02:356917 +01:00] [Thread 5380] extDB3: SQL: Error MariaDBQueryException: Input: DELETE FROM crafting_stations WHERE id='3'
+[01:24:22:032081 +01:00] [Thread 5032] extDB3: SQL: Error MariaDBQueryException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BIG AL' GAMBINO`,0],[`76561198037915534`,`Alexander.Rios`,0],[`76561198150464364' at line 1
+[01:24:22:032099 +01:00] [Thread 5032] extDB3: SQL: Error MariaDBQueryException: Input: UPDATE entreprises SET members='"[[`76561198041233395`,`Donnie Turbo`,2],[`76561198361509989`,`AL 'BIG AL' GAMBINO`,0],[`76561198037915534`,`Alexander.Rios`,0],[`76561198150464364`,`WarFire`,0]]"' WHERE id='5'
+[03:26:07:695152 +01:00] [Thread 9252] extDB3: SQL: Error MariaDBQueryException: Unknown column 'playerid' in 'where clause'
+[03:26:07:695169 +01:00] [Thread 9252] extDB3: SQL: Error MariaDBQueryException: Input: UPDATE players SET jail_time='5' WHERE playerid='76561198206026112'

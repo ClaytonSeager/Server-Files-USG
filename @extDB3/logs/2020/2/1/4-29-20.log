@@ -1,0 +1,37 @@
+
+extDB3: https://bitbucket.org/torndeco/extdb3/wiki/Home
+extDB3: Version: 1.031
+extDB3: Windows Version
+Message: All development for extDB3 is done on a Linux Dedicated Server
+Message: If you would like to Donate to extDB3 Development
+Message: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2SUEFTGABTAM2
+Message: Also leave a message if there is any particular feature you would like to see added.
+Message: Thanks for all the people that have donated.
+Message: Torndeco: 18/05/15
+
+
+extDB3: Found extdb3-conf.ini
+extDB3: Detected 8 Cores, Setting up 6 Worker Threads
+extDB3: ...
+extDB3: ...
+extDB3: ...
+extDB3: ...
+extDB3: ...
+extDB3: ...
+
+
+[04:29:31:203573 +01:00] [Thread 10176] extDB3: SQL: Initialized: Add Quotes around TEXT Datatypes mode: 2
+[04:29:31:203626 +01:00] [Thread 10176] extDB3: SQL: Initialized: NULL = ""
+[04:29:31:203638 +01:00] [Thread 10176] extDB3: Locked
+[05:56:56:600172 +01:00] [Thread 332] extDB3: SQL: Error MariaDBQueryException: Unknown column 'playerid' in 'where clause'
+[05:56:56:600192 +01:00] [Thread 332] extDB3: SQL: Error MariaDBQueryException: Input: UPDATE players SET jail_time='15' WHERE playerid='76561198038112694'
+[05:59:56:955818 +01:00] [Thread 332] extDB3: SQL: Error MariaDBQueryException: Data too long for column 'crime' at row 1
+[05:59:56:955836 +01:00] [Thread 332] extDB3: SQL: Error MariaDBQueryException: Input: INSERT INTO interpol_crimes (interpol_id, crime, price, insert_time) VALUES ('5', 'Cpl Howitzer. 2 x Murder (1)08, 1 x Attempted Murder (1)06 1 x Armed Robbery (2)07', '35', '"[2020,2,1,5,59,53]"')
+[06:00:45:874856 +01:00] [Thread 332] extDB3: SQL: Error MariaDBQueryException: Unknown column 'playerid' in 'where clause'
+[06:00:45:874875 +01:00] [Thread 332] extDB3: SQL: Error MariaDBQueryException: Input: UPDATE players SET jail_time='35' WHERE playerid='76561198089960350'
+[07:12:15:877308 +01:00] [Thread 4472] extDB3: SQL: Error MariaDBQueryException: Unknown column 'playerid' in 'where clause'
+[07:12:15:877331 +01:00] [Thread 4472] extDB3: SQL: Error MariaDBQueryException: Input: SELECT jail_time FROM players WHERE playerid='76561198089960350'
+[07:37:17:378935 +01:00] [Thread 4472] extDB3: SQL: Error MariaDBQueryException: Unknown column 'playerid' in 'where clause'
+[07:37:17:378954 +01:00] [Thread 4472] extDB3: SQL: Error MariaDBQueryException: Input: UPDATE players SET jail_time='12' WHERE playerid='76561198083728776'
+[00:53:10:827206 +01:00] [Thread 6552] extDB3: SQL: Error MariaDBQueryException: Unknown column 'playerid' in 'where clause'
+[00:53:10:827225 +01:00] [Thread 6552] extDB3: SQL: Error MariaDBQueryException: Input: SELECT jail_time FROM players WHERE playerid='76561198038112694'

@@ -1,0 +1,33 @@
+
+extDB3: https://bitbucket.org/torndeco/extdb3/wiki/Home
+extDB3: Version: 1.031
+extDB3: Windows Version
+Message: All development for extDB3 is done on a Linux Dedicated Server
+Message: If you would like to Donate to extDB3 Development
+Message: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2SUEFTGABTAM2
+Message: Also leave a message if there is any particular feature you would like to see added.
+Message: Thanks for all the people that have donated.
+Message: Torndeco: 18/05/15
+
+
+extDB3: Found extdb3-conf.ini
+extDB3: Detected 8 Cores, Setting up 6 Worker Threads
+extDB3: ...
+extDB3: ...
+extDB3: ...
+extDB3: ...
+extDB3: ...
+extDB3: ...
+
+
+[21:25:45:420117 +01:00] [Thread 6060] extDB3: SQL: Initialized: Add Quotes around TEXT Datatypes mode: 2
+[21:25:45:420170 +01:00] [Thread 6060] extDB3: SQL: Initialized: NULL = ""
+[21:25:45:420183 +01:00] [Thread 6060] extDB3: Locked
+[00:49:43:761580 +01:00] [Thread 2512] extDB3: SQL: Error MariaDBQueryException: Unknown column 'playerid' in 'where clause'
+[00:49:43:761601 +01:00] [Thread 2512] extDB3: SQL: Error MariaDBQueryException: Input: UPDATE players SET jail_time='6' WHERE playerid='76561198174871239'
+[00:55:10:527950 +01:00] [Thread 364] extDB3: SQL: Error MariaDBQueryException: Unknown column 'playerid' in 'where clause'
+[00:55:10:527971 +01:00] [Thread 364] extDB3: SQL: Error MariaDBQueryException: Input: SELECT jail_time FROM players WHERE playerid='76561198174871239'
+[02:42:54:064261 +01:00] [Thread 8380] extDB3: SQL: Error MariaDBQueryException: DELETE command denied to user 'arma3'@'localhost' for table 'interpol_crimes'
+[02:42:54:064283 +01:00] [Thread 8380] extDB3: SQL: Error MariaDBQueryException: Input: DELETE FROM interpol_crimes WHERE id='144'
+[02:43:20:092951 +01:00] [Thread 8380] extDB3: SQL: Error MariaDBQueryException: DELETE command denied to user 'arma3'@'localhost' for table 'interpol_crimes'
+[02:43:20:092971 +01:00] [Thread 8380] extDB3: SQL: Error MariaDBQueryException: Input: DELETE FROM interpol_crimes WHERE id='144'

@@ -1,0 +1,228 @@
+﻿02.03.2020 05:01:58: <infiSTAR.de> _fnc_RandomGen: {
+_fnc_actualGen = {
+_abc = ['z','y','x','w','v','u','t','s','r','q','p','o','n','m','l','k','j','i','h','g','f','e','d','c','b','a'];
+_gen = _abc select (random ((count _abc)-1));
+_arr = ['a','5','c','4','d','f','c','e','5','2','2','0','d','e','7','f','9','5','7','8','e','9','a','5','c','3','2','7','e','2','3'];
+_randmax = {((round(random _randminval)) + (round(random _randmaxval))) max _randminval};
+for '_i' from 0 to (call _randmax)do
+{
+_gen = _gen + str(round(random 9)) + (_arr select (random ((count _arr)-1)));
+};
+};
+_gen = '';
+while{_gen=='' || _gen in _allRandomGenVars}do{
+call _fnc_actualGen;
+};
+_allRandomGenVars pushBack _gen;
+_gen
+}
+02.03.2020 05:01:58: ----START-LINE----   (12-01-2020 22-45-36 - v0260)
+02.03.2020 05:01:58: _adminbox: g771e002c834c5d371d2c3a5e4442374e3e4c470243
+02.03.2020 05:01:58: _fnc_mpPackets: r824337375c0e19251a1585993d8e2c496563
+02.03.2020 05:01:58: _FNC_AH_KICKLOG: o25051f3d4e55185c82476d859c10324c652c75687f0c0f620f75
+02.03.2020 05:01:58: _FNC_AH_KICKLOGSPAWN: d72473c7e755d84355e7e
+02.03.2020 05:01:58: _FNC_PVAH_AdminReq: a4d3e836d4e73123f582d08678233630d17392d10808d3478
+02.03.2020 05:01:58: _token_by_uid: f85722507374a82277213
+02.03.2020 05:01:58: _uid_by_token: i52225c436a7f421c8a12491e15396c9d13773e739e5d0212398e
+02.03.2020 05:01:58: _server_setTokenR: y89831222608e9f37727767349532
+02.03.2020 05:01:58: _YourPlayerToken: r491c65576a5d455c104c3535023d234c128e6c8952521863
+02.03.2020 05:01:58: _TokenCT: a3e3085424e29895d2502827f39034c1f47743222
+02.03.2020 05:01:58: _AH_MAIN_BLOCK: w396a5225584e0c5c221d3d7f1959351e1e25678d927537220048633a
+02.03.2020 05:01:58: _AHKickOFF: y5f1e0f4e3c8a721e9d45321c283e55207245322c
+02.03.2020 05:01:58: _AHKickLog: i828338324d303e8c3330
+02.03.2020 05:01:58: _clientdo: k287419182a802e6e5d24
+02.03.2020 05:01:58: _AH_RunCheckENDVAR: g4e42776278354d3957656c6918026969828e9c454369
+02.03.2020 05:01:58: _AH_RunCheckENDVAR_THREAD: e9f72924e955c6d6c6c7d2e2d4270522293
+02.03.2020 05:01:58: _AH_HackLogArrayRND: k6f725e3e4759536092841f4f8a52
+02.03.2020 05:01:58: _AH_SurvLogArrayRND: t528a146767124e8c151e5d7d
+02.03.2020 05:01:58: _AH_AdmiLogArrayRND: q7d8f6c67875e022f7e59772c2c807e1a
+02.03.2020 05:01:58: _TMPBAN: j2d63256c1c1e88558742
+02.03.2020 05:01:58: _massMessage: c5a95829a742f207c0c4f
+02.03.2020 05:01:58: _massSysMessage: k230c4a1c28676e9c59157f5f6c1c
+02.03.2020 05:01:58: _AHpos: a999575558e2579925e277f1f876042287595
+02.03.2020 05:01:58: _ninetwo: h328c8a7a137a37945377
+02.03.2020 05:01:58: _ninetwothread: e5e725e756d5e42921572
+02.03.2020 05:01:59: _adminsA: r8953478f85053c4e176a
+02.03.2020 05:01:59: _MC: i27226f343a9c2d8e158c22
+02.03.2020 05:01:59: _MCS: z9c97836752381c986345
+02.03.2020 05:01:59: _checkidicheckcheck: j473d6e524e4273008f53350e3a7c256957
+02.03.2020 05:01:59: _lastshotmade: n1e096e7a95990a1e036d5262426e1e3e28473c9c
+02.03.2020 05:01:59: <infiSTAR.de> _fnc_RandomGen: {
+_fnc_actualGen = {
+_abc = ['z','y','x','w','v','u','t','s','r','q','p','o','n','m','l','k','j','i','h','g','f','e','d','c','b','a'];
+_gen = _abc select (random ((count _abc)-1));
+_arr = ['a','5','c','4','d','f','c','e','5','2','2','0','d','e','7','f','9','5','7','8','e','9','a','5','c','3','2','7','e','2','3'];
+_randmax = {((round(random _randminval)) + (round(random _randmaxval))) max _randminval};
+for '_i' from 0 to (call _randmax)do
+{
+_gen = _gen + str(round(random 9)) + (_arr select (random ((count _arr)-1)));
+};
+};
+_gen = '';
+while{_gen=='' || _gen in _allRandomGenVars}do{
+call _fnc_actualGen;
+};
+_allRandomGenVars pushBack _gen;
+_gen
+}
+02.03.2020 05:01:59: ----START-LINE----   (12-01-2020 22-45-36 - v0260)
+02.03.2020 05:01:59: _adminbox: g771e002c834c5d371d2c3a5e4442374e3e4c470243
+02.03.2020 05:01:59: _fnc_mpPackets: r824337375c0e19251a1585993d8e2c496563
+02.03.2020 05:01:59: _FNC_AH_KICKLOG: o25051f3d4e55185c82476d859c10324c652c75687f0c0f620f75
+02.03.2020 05:01:59: _FNC_AH_KICKLOGSPAWN: d72473c7e755d84355e7e
+02.03.2020 05:01:59: _FNC_PVAH_AdminReq: a4d3e836d4e73123f582d08678233630d17392d10808d3478
+02.03.2020 05:01:59: _token_by_uid: f85722507374a82277213
+02.03.2020 05:01:59: _uid_by_token: i52225c436a7f421c8a12491e15396c9d13773e739e5d0212398e
+02.03.2020 05:01:59: _server_setTokenR: y89831222608e9f37727767349532
+02.03.2020 05:01:59: _YourPlayerToken: r491c65576a5d455c104c3535023d234c128e6c8952521863
+02.03.2020 05:01:59: _TokenCT: a3e3085424e29895d2502827f39034c1f47743222
+02.03.2020 05:01:59: _AH_MAIN_BLOCK: w396a5225584e0c5c221d3d7f1959351e1e25678d927537220048633a
+02.03.2020 05:01:59: _AHKickOFF: y5f1e0f4e3c8a721e9d45321c283e55207245322c
+02.03.2020 05:01:59: _AHKickLog: i828338324d303e8c3330
+02.03.2020 05:01:59: _clientdo: k287419182a802e6e5d24
+02.03.2020 05:01:59: _AH_RunCheckENDVAR: g4e42776278354d3957656c6918026969828e9c454369
+02.03.2020 05:01:59: _AH_RunCheckENDVAR_THREAD: e9f72924e955c6d6c6c7d2e2d4270522293
+02.03.2020 05:01:59: _AH_HackLogArrayRND: k6f725e3e4759536092841f4f8a52
+02.03.2020 05:01:59: _AH_SurvLogArrayRND: t528a146767124e8c151e5d7d
+02.03.2020 05:01:59: _AH_AdmiLogArrayRND: q7d8f6c67875e022f7e59772c2c807e1a
+02.03.2020 05:01:59: _TMPBAN: j2d63256c1c1e88558742
+02.03.2020 05:01:59: _massMessage: c5a95829a742f207c0c4f
+02.03.2020 05:01:59: _massSysMessage: k230c4a1c28676e9c59157f5f6c1c
+02.03.2020 05:01:59: _AHpos: a999575558e2579925e277f1f876042287595
+02.03.2020 05:01:59: _ninetwo: h328c8a7a137a37945377
+02.03.2020 05:01:59: _ninetwothread: e5e725e756d5e42921572
+02.03.2020 05:01:59: _adminsA: r8953478f85053c4e176a
+02.03.2020 05:01:59: _MC: i27226f343a9c2d8e158c22
+02.03.2020 05:01:59: _MCS: z9c97836752381c986345
+02.03.2020 05:01:59: _checkidicheckcheck: j473d6e524e4273008f53350e3a7c256957
+02.03.2020 05:01:59: _lastshotmade: n1e096e7a95990a1e036d5262426e1e3e28473c9c
+02.03.2020 05:01:59: _dellocveh: x60840e52625955876f33
+02.03.2020 05:01:59: _inCombatTime: w481915176f6c8c1c1289827d976d8f79
+02.03.2020 05:01:59: _inCombatArray: k523e323c9c2e5d2a1e2565299c1f15496c225c3535846a9519
+02.03.2020 05:01:59: _fnc_infiKeyHandler: f2f755f97223c7c378a5c
+02.03.2020 05:01:59: _vehicle_needs_check: f727e4272190c5a6f45307f32221227
+02.03.2020 05:01:59: _MAKE_VAR_DUMP_RANDOM: f29034d85751c4f496c3e
+02.03.2020 05:01:59: _MAKE_VAR_DUMP_CLIENT: y6f4d7a3d6c3c293d4c7e
+02.03.2020 05:01:59: _DUMPINGPLAYERUIDARRAY: j3a8547171e7d191d8e37
+02.03.2020 05:01:59: _CURRENTLYDUMPING: c728c82247c22426e346f
+02.03.2020 05:01:59: _antiantihack_rndvar: k752f277990672e123985
+02.03.2020 05:01:59: _name_by_uid: l6c647e451f77901e92994c05156f8e622e6e893c4775783f12
+02.03.2020 05:01:59: _owner_by_uid: z55240c071592650772026d63756e48
+02.03.2020 05:01:59: _customcommandingMenu: f2d3e15887d4c924e6737
+02.03.2020 05:01:59: _customcommandingMenuOpen: h8d7465656f1f9d572560
+02.03.2020 05:01:59: _AH_KICKLOG: PVAHR_0i2e7y2j1l
+02.03.2020 05:01:59: ----END-LINE----   (12-01-2020 22-45-36 - v0260)
+02.03.2020 17:02:00: <infiSTAR.de> _fnc_RandomGen: {
+_fnc_actualGen = {
+_abc = ['z','y','x','w','v','u','t','s','r','q','p','o','n','m','l','k','j','i','h','g','f','e','d','c','b','a'];
+_gen = _abc select (random ((count _abc)-1));
+_arr = ['a','5','c','4','d','f','c','e','5','2','2','0','d','e','7','f','9','5','7','8','e','9','a','5','c','3','2','7','e','2','3'];
+_randmax = {((round(random _randminval)) + (round(random _randmaxval))) max _randminval};
+for '_i' from 0 to (call _randmax)do
+{
+_gen = _gen + str(round(random 9)) + (_arr select (random ((count _arr)-1)));
+};
+};
+_gen = '';
+while{_gen=='' || _gen in _allRandomGenVars}do{
+call _fnc_actualGen;
+};
+_allRandomGenVars pushBack _gen;
+_gen
+}
+02.03.2020 17:02:00: ----START-LINE----   (12-01-2020 22-45-36 - v0260)
+02.03.2020 17:02:00: _adminbox: u0c6c634242325d1d9729958d53
+02.03.2020 17:02:00: _fnc_mpPackets: p591d8719797a227c224e
+02.03.2020 17:02:00: _FNC_AH_KICKLOG: f0c356527978c1a77157744873568125d54652c
+02.03.2020 17:02:00: _FNC_AH_KICKLOGSPAWN: k4e4e45829f7a5c4e5a37
+02.03.2020 17:02:00: _FNC_PVAH_AdminReq: q8a7c98393f87534e670e
+02.03.2020 17:02:00: _token_by_uid: d2c60948d18457e956c351c
+02.03.2020 17:02:00: _uid_by_token: p1d736059998800242e708e8f842f458c93303792
+02.03.2020 17:02:00: _server_setTokenR: n349d471247658f8e128f0f
+02.03.2020 17:02:00: _YourPlayerToken: h05244507591c1e743f73355e582e5d4d
+02.03.2020 17:02:00: _TokenCT: v28373c6e220e6e1f3510328260
+02.03.2020 17:02:00: _AH_MAIN_BLOCK: s0219133223632d600e42394a4a825d402c338349123c
+02.03.2020 17:02:00: _AHKickOFF: p32322e7a6c1c178e5e19347e347d
+02.03.2020 17:02:00: _AHKickLog: i8a877d3207483c452f8e4c9f276e17937e8d2c7e322e057e7e8e
+02.03.2020 17:02:00: _clientdo: x9e1d424f1d2e603e5c4d236c0a344f75256c393d
+02.03.2020 17:02:00: _AH_RunCheckENDVAR: a392025773c95128d44851d5e855578
+02.03.2020 17:02:00: _AH_RunCheckENDVAR_THREAD: a3d7e539a95806f441373
+02.03.2020 17:02:00: _AH_HackLogArrayRND: t1f606d4c5e83921e5c9e656f072d6e5a8c
+02.03.2020 17:02:00: _AH_SurvLogArrayRND: l8e80296c3a12554a6255
+02.03.2020 17:02:00: _AH_AdmiLogArrayRND: r55237d151758524d78622c8c380e3f
+02.03.2020 17:02:00: _TMPBAN: i752f78280275051f293c
+02.03.2020 17:02:00: _massMessage: k6c2c53248352177a5f2c2c755f153c352562
+02.03.2020 17:02:00: _massSysMessage: m677d74153835723e72134d7c
+02.03.2020 17:02:00: _AHpos: e4e2e5c1785353c531c87
+02.03.2020 17:02:00: _ninetwo: a135e751d6774732f8587
+02.03.2020 17:02:00: _ninetwothread: n33706a8489641f37354f27598c6e856e933e1c732a9a874e4e
+02.03.2020 17:02:00: _adminsA: a8e7c82790a570965586c2e126d12
+02.03.2020 17:02:00: _MC: c3a9d457d8a45124c1d556e4f7e57752e551747
+02.03.2020 17:02:00: _MCS: e235485177e6d7395678e857c
+02.03.2020 17:02:00: _checkidicheckcheck: m496c8d62835c747f5e2c6262556e19654242552e8c72
+02.03.2020 17:02:00: _lastshotmade: o858552345e948d2e5f20
+02.03.2020 17:02:00: <infiSTAR.de> _fnc_RandomGen: {
+_fnc_actualGen = {
+_abc = ['z','y','x','w','v','u','t','s','r','q','p','o','n','m','l','k','j','i','h','g','f','e','d','c','b','a'];
+_gen = _abc select (random ((count _abc)-1));
+_arr = ['a','5','c','4','d','f','c','e','5','2','2','0','d','e','7','f','9','5','7','8','e','9','a','5','c','3','2','7','e','2','3'];
+_randmax = {((round(random _randminval)) + (round(random _randmaxval))) max _randminval};
+for '_i' from 0 to (call _randmax)do
+{
+_gen = _gen + str(round(random 9)) + (_arr select (random ((count _arr)-1)));
+};
+};
+_gen = '';
+while{_gen=='' || _gen in _allRandomGenVars}do{
+call _fnc_actualGen;
+};
+_allRandomGenVars pushBack _gen;
+_gen
+}
+02.03.2020 17:02:00: ----START-LINE----   (12-01-2020 22-45-36 - v0260)
+02.03.2020 17:02:00: _adminbox: u0c6c634242325d1d9729958d53
+02.03.2020 17:02:00: _fnc_mpPackets: p591d8719797a227c224e
+02.03.2020 17:02:00: _FNC_AH_KICKLOG: f0c356527978c1a77157744873568125d54652c
+02.03.2020 17:02:00: _FNC_AH_KICKLOGSPAWN: k4e4e45829f7a5c4e5a37
+02.03.2020 17:02:00: _FNC_PVAH_AdminReq: q8a7c98393f87534e670e
+02.03.2020 17:02:00: _token_by_uid: d2c60948d18457e956c351c
+02.03.2020 17:02:00: _uid_by_token: p1d736059998800242e708e8f842f458c93303792
+02.03.2020 17:02:00: _server_setTokenR: n349d471247658f8e128f0f
+02.03.2020 17:02:00: _YourPlayerToken: h05244507591c1e743f73355e582e5d4d
+02.03.2020 17:02:00: _TokenCT: v28373c6e220e6e1f3510328260
+02.03.2020 17:02:00: _AH_MAIN_BLOCK: s0219133223632d600e42394a4a825d402c338349123c
+02.03.2020 17:02:00: _AHKickOFF: p32322e7a6c1c178e5e19347e347d
+02.03.2020 17:02:00: _AHKickLog: i8a877d3207483c452f8e4c9f276e17937e8d2c7e322e057e7e8e
+02.03.2020 17:02:00: _clientdo: x9e1d424f1d2e603e5c4d236c0a344f75256c393d
+02.03.2020 17:02:00: _AH_RunCheckENDVAR: a392025773c95128d44851d5e855578
+02.03.2020 17:02:00: _AH_RunCheckENDVAR_THREAD: a3d7e539a95806f441373
+02.03.2020 17:02:00: _AH_HackLogArrayRND: t1f606d4c5e83921e5c9e656f072d6e5a8c
+02.03.2020 17:02:00: _AH_SurvLogArrayRND: l8e80296c3a12554a6255
+02.03.2020 17:02:00: _AH_AdmiLogArrayRND: r55237d151758524d78622c8c380e3f
+02.03.2020 17:02:00: _TMPBAN: i752f78280275051f293c
+02.03.2020 17:02:00: _massMessage: k6c2c53248352177a5f2c2c755f153c352562
+02.03.2020 17:02:00: _massSysMessage: m677d74153835723e72134d7c
+02.03.2020 17:02:00: _AHpos: e4e2e5c1785353c531c87
+02.03.2020 17:02:00: _ninetwo: a135e751d6774732f8587
+02.03.2020 17:02:00: _ninetwothread: n33706a8489641f37354f27598c6e856e933e1c732a9a874e4e
+02.03.2020 17:02:00: _adminsA: a8e7c82790a570965586c2e126d12
+02.03.2020 17:02:00: _MC: c3a9d457d8a45124c1d556e4f7e57752e551747
+02.03.2020 17:02:00: _MCS: e235485177e6d7395678e857c
+02.03.2020 17:02:00: _checkidicheckcheck: m496c8d62835c747f5e2c6262556e19654242552e8c72
+02.03.2020 17:02:00: _lastshotmade: o858552345e948d2e5f20
+02.03.2020 17:02:00: _dellocveh: n857249327232532e7f4937
+02.03.2020 17:02:01: _inCombatTime: m5a207e0274782e8763194517238912582e
+02.03.2020 17:02:01: _inCombatArray: x60096e25473d223e2c27
+02.03.2020 17:02:01: _fnc_infiKeyHandler: f0207177a2e198e3e471f5a2e5f755c
+02.03.2020 17:02:01: _vehicle_needs_check: c426d9e37987e8a47396c798d1d923e70
+02.03.2020 17:02:01: _MAKE_VAR_DUMP_RANDOM: z4c122e85673573729e723f7a
+02.03.2020 17:02:01: _MAKE_VAR_DUMP_CLIENT: e77821c9c82471a32258a5c
+02.03.2020 17:02:01: _DUMPINGPLAYERUIDARRAY: a655d824d737e220e7e2c8f374a425d6e6e9d5e520c
+02.03.2020 17:02:01: _CURRENTLYDUMPING: v451e2558452c1a0e559e644857
+02.03.2020 17:02:01: _antiantihack_rndvar: h05822562777e328f9e4219176c1e3739257e7583147c35823e3f5823
+02.03.2020 17:02:01: _name_by_uid: u3c1a5d32355e6e3c887c03472c1e73
+02.03.2020 17:02:01: _owner_by_uid: x6322522e32656d5e97578f3e220757822f158372150075443457858d
+02.03.2020 17:02:01: _customcommandingMenu: s6c327222328c7d75124c
+02.03.2020 17:02:01: _customcommandingMenuOpen: w158e6d833212627f1f25
+02.03.2020 17:02:01: _AH_KICKLOG: PVAHR_5f1c3q5f6x6k
+02.03.2020 17:02:01: ----END-LINE----   (12-01-2020 22-45-36 - v0260)

@@ -1,0 +1,57 @@
+
+extDB3: https://bitbucket.org/torndeco/extdb3/wiki/Home
+extDB3: Version: 1.031
+extDB3: Windows Version
+Message: All development for extDB3 is done on a Linux Dedicated Server
+Message: If you would like to Donate to extDB3 Development
+Message: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2SUEFTGABTAM2
+Message: Also leave a message if there is any particular feature you would like to see added.
+Message: Thanks for all the people that have donated.
+Message: Torndeco: 18/05/15
+
+
+extDB3: Found extdb3-conf.ini
+extDB3: Detected 8 Cores, Setting up 6 Worker Threads
+extDB3: ...
+extDB3: ...
+extDB3: ...
+extDB3: ...
+extDB3: ...
+extDB3: ...
+
+
+[16:29:18:238787 +01:00] [Thread 2980] extDB3: SQL: Initialized: Add Quotes around TEXT Datatypes mode: 2
+[16:29:18:238839 +01:00] [Thread 2980] extDB3: SQL: Initialized: NULL = ""
+[16:29:18:238852 +01:00] [Thread 2980] extDB3: Locked
+[23:17:44:506040 +01:00] [Thread 6812] extDB3: SQL: Error MariaDBQueryException: DELETE command denied to user 'arma3'@'localhost' for table 'interpol_crimes'
+[23:17:44:506062 +01:00] [Thread 6812] extDB3: SQL: Error MariaDBQueryException: Input: DELETE FROM interpol_crimes WHERE id='104'
+[23:18:38:065657 +01:00] [Thread 6812] extDB3: SQL: Error MariaDBQueryException: DELETE command denied to user 'arma3'@'localhost' for table 'interpol_crimes'
+[23:18:38:065675 +01:00] [Thread 6812] extDB3: SQL: Error MariaDBQueryException: Input: DELETE FROM interpol_crimes WHERE id='104'
+[23:19:22:440402 +01:00] [Thread 6812] extDB3: SQL: Error MariaDBQueryException: DELETE command denied to user 'arma3'@'localhost' for table 'interpol_crimes'
+[23:19:22:440421 +01:00] [Thread 6812] extDB3: SQL: Error MariaDBQueryException: Input: DELETE FROM interpol_crimes WHERE id='104'
+[01:39:15:119773 +01:00] [Thread 9148] extDB3: SQL: Error MariaDBQueryException: DELETE command denied to user 'arma3'@'localhost' for table 'interpol_crimes'
+[01:39:15:119793 +01:00] [Thread 9148] extDB3: SQL: Error MariaDBQueryException: Input: DELETE FROM interpol_crimes WHERE id='107'
+[01:39:27:874952 +01:00] [Thread 9148] extDB3: SQL: Error MariaDBQueryException: DELETE command denied to user 'arma3'@'localhost' for table 'interpol_crimes'
+[01:39:27:874973 +01:00] [Thread 9148] extDB3: SQL: Error MariaDBQueryException: Input: DELETE FROM interpol_crimes WHERE id='107'
+[01:39:58:057174 +01:00] [Thread 10168] extDB3: SQL: Error MariaDBQueryException: DELETE command denied to user 'arma3'@'localhost' for table 'interpol_crimes'
+[01:39:58:057197 +01:00] [Thread 10168] extDB3: SQL: Error MariaDBQueryException: Input: DELETE FROM interpol_crimes WHERE id='108'
+[01:40:14:902411 +01:00] [Thread 10168] extDB3: SQL: Error MariaDBQueryException: DELETE command denied to user 'arma3'@'localhost' for table 'interpol_crimes'
+[01:40:14:902430 +01:00] [Thread 10168] extDB3: SQL: Error MariaDBQueryException: Input: DELETE FROM interpol_crimes WHERE id='108'
+[01:40:35:837448 +01:00] [Thread 9148] extDB3: SQL: Error MariaDBQueryException: DELETE command denied to user 'arma3'@'localhost' for table 'interpol_crimes'
+[01:40:35:837469 +01:00] [Thread 9148] extDB3: SQL: Error MariaDBQueryException: Input: DELETE FROM interpol_crimes WHERE id='108'
+[01:40:39:011487 +01:00] [Thread 9148] extDB3: SQL: Error MariaDBQueryException: DELETE command denied to user 'arma3'@'localhost' for table 'interpol_crimes'
+[01:40:39:011505 +01:00] [Thread 9148] extDB3: SQL: Error MariaDBQueryException: Input: DELETE FROM interpol_crimes WHERE id='107'
+[02:27:32:642135 +01:00] [Thread 9148] extDB3: SQL: Error MariaDBQueryException: Unknown column 'playerid' in 'where clause'
+[02:27:32:642153 +01:00] [Thread 9148] extDB3: SQL: Error MariaDBQueryException: Input: UPDATE players SET jail_time='13' WHERE playerid='76561198264871362'
+[03:17:36:871303 +01:00] [Thread 7884] extDB3: SQL: Error MariaDBQueryException: Unknown column 'playerid' in 'where clause'
+[03:17:36:871322 +01:00] [Thread 7884] extDB3: SQL: Error MariaDBQueryException: Input: UPDATE players SET jail_time='10' WHERE playerid='76561198264871362'
+[05:45:40:352920 +01:00] [Thread 9148] extDB3: SQL: Error MariaDBQueryException: DELETE command denied to user 'arma3'@'localhost' for table 'interpol_crimes'
+[05:45:40:352941 +01:00] [Thread 9148] extDB3: SQL: Error MariaDBQueryException: Input: DELETE FROM interpol_crimes WHERE id='102'
+[05:46:45:746986 +01:00] [Thread 9148] extDB3: SQL: Error MariaDBQueryException: DELETE command denied to user 'arma3'@'localhost' for table 'interpol_crimes'
+[05:46:45:747007 +01:00] [Thread 9148] extDB3: SQL: Error MariaDBQueryException: Input: DELETE FROM interpol_crimes WHERE id='102'
+[05:46:52:073107 +01:00] [Thread 9148] extDB3: SQL: Error MariaDBQueryException: DELETE command denied to user 'arma3'@'localhost' for table 'interpol_crimes'
+[05:46:52:073128 +01:00] [Thread 9148] extDB3: SQL: Error MariaDBQueryException: Input: DELETE FROM interpol_crimes WHERE id='102'
+[12:35:00:581934 +01:00] [Thread 6488] extDB3: SQL: Error MariaDBQueryException: Table 'altislife.locker' doesn't exist
+[12:35:00:581956 +01:00] [Thread 6488] extDB3: SQL: Error MariaDBQueryException: Input: UPDATE locker SET active='0' WHERE uid='-1' AND side='GANG' AND active='1'
+[01:08:22:467620 +01:00] [Thread 7884] extDB3: SQL: Error MariaDBQueryException: Table 'altislife.locker' doesn't exist
+[01:08:22:467641 +01:00] [Thread 7884] extDB3: SQL: Error MariaDBQueryException: Input: UPDATE locker SET active='0' WHERE uid='-1' AND side='GANG' AND active='1'

@@ -1,0 +1,18 @@
+﻿ 8:01:15 BattlEye Server: Initialized (v1.217)
+ 8:01:15 Game Port: 2302, Steam Query Port: 2303
+ 8:01:15 Mission UrbanSky.kelleysisland read from bank.
+ 8:01:17 Host identity created.
+ 8:01:17 BattlEye Server: RCon admin #0 (127.0.0.1:52176) logged in
+ 8:01:17 Roles assigned.
+ 8:01:17 Reading mission ...
+ 8:02:12 BattlEye Server: RCon admin #1 (127.0.0.1:50842) logged in
+ 8:02:24 Mission read.
+ 8:02:24 Game started.
+ 8:02:28 Successfull attempt to execute serverCommand '#exec users' by server.
+ 8:02:51 HoyoBani uses modified data file
+ 8:02:51 BattlEye Server: Player #0 HoyoBani (162.213.242.232:2304) connected
+ 8:02:51 Player HoyoBani connecting.
+ 8:02:52 BattlEye Server: Connected to BE Master
+ 8:02:54 BattlEye Server: Player #0 HoyoBani - BE GUID: baeaf37751c8cb5ba1e1a73c33957203
+ 8:02:55 Player HoyoBani connected (id=76561198105940600).
+ 8:02:55 BattlEye Server: Verified GUID (baeaf37751c8cb5ba1e1a73c33957203) of player #0 HoyoBani

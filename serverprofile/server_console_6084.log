@@ -1,0 +1,119 @@
+﻿ 0:00:52 BattlEye Server: Initialized (v1.217)
+ 0:00:52 Game Port: 2302, Steam Query Port: 2303
+ 0:00:52 Warning: Current Steam AppId:  doesn't match expected value: 107410
+ 0:00:52 Mission UrbanSky.kelleysisland read from bank.
+ 0:00:55 Host identity created.
+ 0:00:55 BattlEye Server: RCon admin #0 (127.0.0.1:60104) logged in
+ 0:00:55 Roles assigned.
+ 0:00:55 Reading mission ...
+ 0:01:53 BattlEye Server: RCon admin #1 (127.0.0.1:56097) logged in
+ 0:01:59 Mission read.
+ 0:01:59 Betty Boop White uses modified data file
+ 0:02:00 Game started.
+ 0:02:00 BattlEye Server: Player #0 Betty Boop White (71.214.112.161:2304) connected
+ 0:02:00 Player Betty Boop White connecting.
+ 0:02:00 BattlEye Server: Connected to BE Master
+ 0:02:03 Successfull attempt to execute serverCommand '#exec users' by server.
+ 0:02:03 BattlEye Server: Player #0 Betty Boop White - BE GUID: f39290998763ee67898235ee2ea502e7
+ 0:02:04 Player Betty Boop White connected (id=76561198206026112).
+ 0:02:04 BattlEye Server: Verified GUID (f39290998763ee67898235ee2ea502e7) of player #0 Betty Boop White
+ 0:05:19 Stanley Thompson [1K-75] uses modified data file
+ 0:05:19 BattlEye Server: Player #1 Stanley Thompson [1K-75] (76.6.151.180:2304) connected
+ 0:05:19 Player Stanley Thompson [1K-75] connecting.
+ 0:05:22 BattlEye Server: Player #1 Stanley Thompson [1K-75] - BE GUID: 1a817c92339e6b8e805de60b179df342
+ 0:05:23 Player Stanley Thompson [1K-75] connected (id=76561198180893505).
+ 0:05:23 BattlEye Server: Verified GUID (1a817c92339e6b8e805de60b179df342) of player #1 Stanley Thompson [1K-75]
+ 0:05:53 Low_Poly_Man uses modified data file
+ 0:05:53 BattlEye Server: Player #2 Low_Poly_Man (74.128.80.15:2304) connected
+ 0:05:53 Player Low_Poly_Man connecting.
+ 0:05:56 BattlEye Server: Player #2 Low_Poly_Man - BE GUID: d250b62ef6125275e039c9badd884760
+ 0:06:32 Player Low_Poly_Man connected (id=76561198137223112).
+ 0:06:32 BattlEye Server: Verified GUID (d250b62ef6125275e039c9badd884760) of player #2 Low_Poly_Man
+ 0:06:33 S.Kingston uses modified data file
+ 0:06:33 BattlEye Server: Player #3 S.Kingston (82.40.14.252:2304) connected
+ 0:06:33 Player S.Kingston connecting.
+ 0:06:36 BattlEye Server: Player #3 S.Kingston - BE GUID: 25be6e9ae307bb439755ea968f9d36d8
+ 0:06:36 Player S.Kingston connected (id=76561198046640450).
+ 0:06:36 BattlEye Server: Verified GUID (25be6e9ae307bb439755ea968f9d36d8) of player #3 S.Kingston
+ 0:06:56 luke uses modified data file
+ 0:06:56 BattlEye Server: Player #4 luke (47.135.166.94:2304) connected
+ 0:06:56 Player luke connecting.
+ 0:06:59 BattlEye Server: Player #4 luke - BE GUID: 1b3b942c0ee67b426e685870cfe6b312
+ 0:06:59 Player luke connected (id=76561198264871362).
+ 0:06:59 BattlEye Server: Verified GUID (1b3b942c0ee67b426e685870cfe6b312) of player #4 luke
+ 0:07:37 Donnie Turbo uses modified data file
+ 0:07:37 BattlEye Server: Player #5 Donnie Turbo (192.81.45.131:2304) connected
+ 0:07:37 Player Donnie Turbo connecting.
+ 0:07:40 BattlEye Server: Player #5 Donnie Turbo - BE GUID: a0a46137167d70778acc68329618c7e6
+ 0:07:40 Player Donnie Turbo connected (id=76561198041233395).
+ 0:07:40 BattlEye Server: Verified GUID (a0a46137167d70778acc68329618c7e6) of player #5 Donnie Turbo
+ 0:08:40 Rogue Tjay uses modified data file
+ 0:08:40 BattlEye Server: Player #6 Rogue Tjay (99.232.144.252:2304) connected
+ 0:08:40 Player Rogue Tjay connecting.
+ 0:08:43 BattlEye Server: Player #6 Rogue Tjay - BE GUID: 1775b6bbb9f6757ed1e4f0f7592af3e5
+ 0:08:44 Player Rogue Tjay connected (id=76561198883479728).
+ 0:08:44 BattlEye Server: Verified GUID (1775b6bbb9f6757ed1e4f0f7592af3e5) of player #6 Rogue Tjay
+ 0:10:31 Rise will never get ACO uses modified data file
+ 0:10:31 BattlEye Server: Player #7 Rise will never get ACO (101.114.8.165:2304) connected
+ 0:10:31 Player Rise will never get ACO connecting.
+ 0:10:35 BattlEye Server: Player #7 Rise will never get ACO - BE GUID: 0d031a579cb983dcc4d41e6243a356b3
+ 0:10:35 Player Rise will never get ACO connected (id=76561198392193931).
+ 0:10:35 BattlEye Server: Verified GUID (0d031a579cb983dcc4d41e6243a356b3) of player #7 Rise will never get ACO
+ 0:10:43 Player Rise will never get ACO disconnected.
+ 0:10:43 BattlEye Server: Player #7 Rise will never get ACO disconnected
+ 0:12:15 Player Rogue Tjay is losing connection
+ 0:12:20 Player Rogue Tjay disconnected.
+ 0:12:20 BattlEye Server: Player #6 Rogue Tjay disconnected
+ 0:13:12 BattlEye Server: (Unknown) Stanley Thompson [1K-75]: Had a defib in my backpack 
+ 0:14:35 BattlEye Server: (Unknown) Low_Poly_Man: spar 16 fucked
+ 0:15:28 BattlEye Server: (Unknown) Low_Poly_Man: nvm
+ 0:29:10 Rogue Tjay uses modified data file
+ 0:29:10 BattlEye Server: Player #6 Rogue Tjay (99.232.144.252:2304) connected
+ 0:29:11 Player Rogue Tjay connecting.
+ 0:29:14 BattlEye Server: Player #6 Rogue Tjay - BE GUID: 1775b6bbb9f6757ed1e4f0f7592af3e5
+ 0:29:16 Player Rogue Tjay connected (id=76561198883479728).
+ 0:29:16 BattlEye Server: Verified GUID (1775b6bbb9f6757ed1e4f0f7592af3e5) of player #6 Rogue Tjay
+ 0:36:55 Rise will never get ACO uses modified data file
+ 0:36:55 BattlEye Server: Player #7 Rise will never get ACO (101.114.8.165:2304) connected
+ 0:36:56 Player Rise will never get ACO connecting.
+ 0:36:59 BattlEye Server: Player #7 Rise will never get ACO - BE GUID: 0d031a579cb983dcc4d41e6243a356b3
+ 0:36:59 Player Rise will never get ACO connected (id=76561198392193931).
+ 0:36:59 BattlEye Server: Verified GUID (0d031a579cb983dcc4d41e6243a356b3) of player #7 Rise will never get ACO
+ 0:37:12 Player Rise will never get ACO disconnected.
+ 0:37:12 BattlEye Server: Player #7 Rise will never get ACO disconnected
+ 0:40:06 Rise will never get ACO uses modified data file
+ 0:40:06 BattlEye Server: Player #7 Rise will never get ACO (101.114.8.165:2304) connected
+ 0:40:06 Player Rise will never get ACO connecting.
+ 0:40:10 BattlEye Server: Player #7 Rise will never get ACO - BE GUID: 0d031a579cb983dcc4d41e6243a356b3
+ 0:40:10 Player Rise will never get ACO connected (id=76561198392193931).
+ 0:40:10 BattlEye Server: Verified GUID (0d031a579cb983dcc4d41e6243a356b3) of player #7 Rise will never get ACO
+ 0:40:17 Player Rise will never get ACO disconnected.
+ 0:40:17 BattlEye Server: Player #7 Rise will never get ACO disconnected
+ 0:57:12 Rise will never get ACO uses modified data file
+ 0:57:12 BattlEye Server: Player #7 Rise will never get ACO (101.114.8.165:2304) connected
+ 0:57:12 Player Rise will never get ACO connecting.
+ 0:57:15 BattlEye Server: Player #7 Rise will never get ACO - BE GUID: 0d031a579cb983dcc4d41e6243a356b3
+ 0:57:15 Player Rise will never get ACO connected (id=76561198392193931).
+ 0:57:15 BattlEye Server: Verified GUID (0d031a579cb983dcc4d41e6243a356b3) of player #7 Rise will never get ACO
+ 0:57:23 Player Rise will never get ACO disconnected.
+ 0:57:23 BattlEye Server: Player #7 Rise will never get ACO disconnected
+ 0:59:50 [APDR] Pop modsuite uses modified data file
+ 0:59:51 BattlEye Server: Player #7 [APDR] Pop modsuite (101.114.8.165:2304) connected
+ 0:59:51 Player [APDR] Pop modsuite connecting.
+ 0:59:54 BattlEye Server: Player #7 [APDR] Pop modsuite - BE GUID: 0d031a579cb983dcc4d41e6243a356b3
+ 0:59:54 Player [APDR] Pop modsuite connected (id=76561198392193931).
+ 0:59:54 BattlEye Server: Verified GUID (0d031a579cb983dcc4d41e6243a356b3) of player #7 [APDR] Pop modsuite
+ 1:00:02 Player [APDR] Pop modsuite disconnected.
+ 1:00:02 BattlEye Server: Player #7 [APDR] Pop modsuite disconnected
+ 1:22:00 Player Stanley Thompson [1K-75] disconnected.
+ 1:22:00 BattlEye Server: Player #1 Stanley Thompson [1K-75] disconnected
+ 1:22:18 Zander Marino uses modified data file
+ 1:22:18 BattlEye Server: Player #7 Zander Marino (76.6.151.180:2304) connected
+ 1:22:18 Player Zander Marino connecting.
+ 1:22:22 BattlEye Server: Player #7 Zander Marino - BE GUID: 1a817c92339e6b8e805de60b179df342
+ 1:22:22 Player Zander Marino connected (id=76561198180893505).
+ 1:22:22 BattlEye Server: Verified GUID (1a817c92339e6b8e805de60b179df342) of player #7 Zander Marino
+ 1:25:39 BattlEye Server: RCon admin #0 (127.0.0.1:63076) logged in
+ 2:04:48 Player Rogue Tjay disconnected.
+ 2:04:48 BattlEye Server: Player #6 Rogue Tjay disconnected
+ 2:09:13 Player Low_Po

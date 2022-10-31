@@ -1,0 +1,71 @@
+﻿ 5:00:48 BattlEye Server: Initialized (v1.217)
+ 5:00:48 Game Port: 2302, Steam Query Port: 2303
+ 5:00:48 Warning: Current Steam AppId:  doesn't match expected value: 107410
+ 5:00:48 Mission UrbanSky.kelleysisland read from bank.
+ 5:00:51 Host identity created.
+ 5:00:51 BattlEye Server: RCon admin #0 (127.0.0.1:59521) logged in
+ 5:00:51 Roles assigned.
+ 5:00:51 Reading mission ...
+ 5:01:48 BattlEye Server: RCon admin #1 (127.0.0.1:58985) logged in
+ 5:01:54 Mission read.
+ 5:01:54 Game started.
+ 5:01:58 Successfull attempt to execute serverCommand '#exec users' by server.
+ 8:30:39 BattlEye Server: RCon admin #0 (127.0.0.1:59125) logged in
+ 8:49:55 BattlEye Server: RCon admin #1 (127.0.0.1:49713) logged in
+ 9:28:15 BattlEye Server: RCon admin #0 (127.0.0.1:61472) logged in
+ 9:49:15 BattlEye Server: RCon admin #1 (127.0.0.1:50472) logged in
+10:58:27 hazza uses modified data file
+10:58:27 BattlEye Server: Player #0 hazza (90.219.50.29:2304) connected
+10:58:27 Player hazza connecting.
+10:58:27 BattlEye Server: Connected to BE Master
+10:58:30 BattlEye Server: Player #0 hazza - BE GUID: 52cd71acc8580ef5e3e623c2dbf90e22
+10:58:30 Player hazza connected (id=76561198970609321).
+10:58:30 BattlEye Server: Verified GUID (52cd71acc8580ef5e3e623c2dbf90e22) of player #0 hazza
+10:58:42 Player hazza disconnected.
+10:58:42 BattlEye Server: Player #0 hazza disconnected
+12:27:26 Ethan Romano uses modified data file
+12:27:27 BattlEye Server: Player #0 Ethan Romano (35.142.206.2:2304) connected
+12:27:27 Player Ethan Romano connecting.
+12:29:21 Player Ethan Romano disconnected.
+12:29:21 BattlEye Server: Player #0 Ethan Romano disconnected
+12:29:34 Ethan Romano uses modified data file
+12:29:34 BattlEye Server: Player #0 Ethan Romano (35.142.206.2:2304) connected
+12:29:34 Player Ethan Romano connecting.
+12:39:37 Player  kicked off by BattlEye: Client not responding
+12:39:37 Player Ethan Romano disconnected.
+12:57:28 Ethan Romano uses modified data file
+12:57:28 BattlEye Server: Player #0 Ethan Romano (35.142.206.2:2304) connected
+12:57:28 Player Ethan Romano connecting.
+12:57:52 BattlEye Server: RCon admin #0 (127.0.0.1:61110) logged in
+13:04:35 Player Ethan Romano disconnected.
+13:04:35 BattlEye Server: Player #0 Ethan Romano disconnected
+13:04:40 Ethan Romano uses modified data file
+13:04:40 BattlEye Server: Player #0 Ethan Romano (35.142.206.2:2304) connected
+13:04:40 Player Ethan Romano connecting.
+13:13:21 Player Ethan Romano disconnected.
+13:13:21 BattlEye Server: Player #0 Ethan Romano disconnected
+13:39:12 BattlEye Server: RCon admin #1 (127.0.0.1:54560) logged in
+14:17:12 BattlEye Server: RCon admin #0 (127.0.0.1:58481) logged in
+15:32:01 Axel Wolfe uses modified data file
+15:32:01 BattlEye Server: Player #0 Axel Wolfe (149.152.23.140:27626) connected
+15:32:01 Player Axel Wolfe connecting.
+15:32:05 BattlEye Server: Player #0 Axel Wolfe - BE GUID: 7491baabe0f0bd29f7f51d28794bda13
+15:32:05 Player Axel Wolfe connected (id=76561198091943121).
+15:32:05 BattlEye Server: Verified GUID (7491baabe0f0bd29f7f51d28794bda13) of player #0 Axel Wolfe
+15:36:48 Player Axel Wolfe is losing connection
+15:36:53 Player Axel Wolfe disconnected.
+15:36:53 BattlEye Server: Player #0 Axel Wolfe disconnected
+15:37:23 Axel Wolfe uses modified data file
+15:37:23 BattlEye Server: Player #0 Axel Wolfe (149.152.23.140:27626) connected
+15:37:23 Player Axel Wolfe connecting.
+15:37:27 BattlEye Server: Player #0 Axel Wolfe - BE GUID: 7491baabe0f0bd29f7f51d28794bda13
+15:37:27 Player Axel Wolfe connected (id=76561198091943121).
+15:37:27 BattlEye Server: Verified GUID (7491baabe0f0bd29f7f51d28794bda13) of player #0 Axel Wolfe
+16:01:33 Player Axel Wolfe disconnected.
+16:01:33 BattlEye Server: Player #0 Axel Wolfe disconnected
+16:18:23 BattlEye Server: RCon admin #1 (127.0.0.1:54291) logged in
+16:21:01 WarFire uses modified data file
+16:21:01 BattlEye Server: Player #0 WarFire (47.36.145.145:2304) connected
+16:21:01 Player WarFire connecting.
+16:21:07 BattlEye Server: Player #0 WarFire - BE GUID: 49bfef9dbc9e449692cd9311980923ab
+16:21:10 Player WarFire connected (id=76561198150

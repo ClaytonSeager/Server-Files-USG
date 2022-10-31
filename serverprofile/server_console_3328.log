@@ -1,0 +1,64 @@
+﻿23:10:37 BattlEye Server: Initialized (v1.217)
+23:10:37 Game Port: 2302, Steam Query Port: 2303
+23:10:37 Mission UrbanSky.kelleysisland read from bank.
+23:10:38 Host identity created.
+23:10:39 Roles assigned.
+23:10:39 Reading mission ...
+23:10:39 BattlEye Server: RCon admin #0 (127.0.0.1:53968) logged in
+23:11:31 BattlEye Server: RCon admin #1 (127.0.0.1:57338) logged in
+23:11:42 Mission read.
+23:11:42 Game started.
+23:11:47 Successfull attempt to execute serverCommand '#exec users' by server.
+23:30:36 BattlEye Server: RCon admin #0 (127.0.0.1:52966) logged in
+23:35:04 Nino Marino uses modified data file
+23:35:04 BattlEye Server: Player #0 Nino Marino (71.214.112.161:2304) connected
+23:35:04 Player Nino Marino connecting.
+23:35:04 BattlEye Server: Connected to BE Master
+23:35:07 BattlEye Server: Player #0 Nino Marino - BE GUID: f39290998763ee67898235ee2ea502e7
+23:35:08 Player Nino Marino connected (id=76561198206026112).
+23:35:08 BattlEye Server: Verified GUID (f39290998763ee67898235ee2ea502e7) of player #0 Nino Marino
+ 0:39:45 Noah uses modified data file
+ 0:39:45 BattlEye Server: Player #1 Noah (131.93.116.14:2304) connected
+ 0:39:45 Player Noah connecting.
+ 0:40:00 Player Noah disconnected.
+ 0:40:00 BattlEye Server: Player #1 Noah disconnected
+ 0:43:14 Donnie Turbo uses modified data file
+ 0:43:14 BattlEye Server: Player #1 Donnie Turbo (192.81.45.131:2304) connected
+ 0:43:14 Player Donnie Turbo connecting.
+ 0:43:17 BattlEye Server: Player #1 Donnie Turbo - BE GUID: a0a46137167d70778acc68329618c7e6
+ 0:43:18 Player Donnie Turbo connected (id=76561198041233395).
+ 0:43:18 BattlEye Server: Verified GUID (a0a46137167d70778acc68329618c7e6) of player #1 Donnie Turbo
+ 1:21:24 Stanley Thompson [1K-75] uses modified data file
+ 1:21:24 BattlEye Server: Player #2 Stanley Thompson [1K-75] (205.251.150.154:2304) connected
+ 1:21:24 Player Stanley Thompson [1K-75] connecting.
+ 1:21:29 BattlEye Server: Player #2 Stanley Thompson [1K-75] - BE GUID: 1a817c92339e6b8e805de60b179df342
+ 1:21:29 Player Stanley Thompson [1K-75] connected (id=76561198180893505).
+ 1:21:29 BattlEye Server: Verified GUID (1a817c92339e6b8e805de60b179df342) of player #2 Stanley Thompson [1K-75]
+ 1:53:30 Player Stanley Thompson [1K-75] is losing connection
+ 1:53:48 Player Stanley Thompson [1K-75] is losing connection
+ 1:55:21 Player Stanley Thompson [1K-75] is losing connection
+ 1:55:26 Player Stanley Thompson [1K-75] disconnected.
+ 1:55:26 BattlEye Server: Player #2 Stanley Thompson [1K-75] disconnected
+ 1:58:16 Stanley Thompson [1K-75] uses modified data file
+ 1:58:16 BattlEye Server: Player #2 Stanley Thompson [1K-75] (205.251.150.154:13529) connected
+ 1:58:17 Player Stanley Thompson [1K-75] connecting.
+ 1:58:24 BattlEye Server: Player #2 Stanley Thompson [1K-75] - BE GUID: 1a817c92339e6b8e805de60b179df342
+ 1:58:24 Player Stanley Thompson [1K-75] connected (id=76561198180893505).
+ 1:58:24 BattlEye Server: Verified GUID (1a817c92339e6b8e805de60b179df342) of player #2 Stanley Thompson [1K-75]
+ 2:05:22 BattlEye Server: RCon admin #1 (127.0.0.1:59207) logged in
+ 2:24:47 Davey Jones uses modified data file
+ 2:24:47 BattlEye Server: Player #3 Davey Jones (50.86.55.196:2304) connected
+ 2:24:47 Player Davey Jones connecting.
+ 2:24:50 BattlEye Server: Player #3 Davey Jones - BE GUID: 0f33a9511a73703551a80705aca19250
+ 2:24:50 Player Davey Jones connected (id=76561198166473448).
+ 2:24:50 BattlEye Server: Verified GUID (0f33a9511a73703551a80705aca19250) of player #3 Davey Jones
+ 2:24:58 Player Davey Jones disconnected.
+ 2:24:58 BattlEye Server: Player #3 Davey Jones disconnected
+ 2:25:15 William Jones uses modified data file
+ 2:25:15 BattlEye Server: Player #3 William Jones (50.86.55.196:2304) connected
+ 2:25:15 Player William Jones connecting.
+ 2:25:18 BattlEye Server: Player #3 William Jones - BE GUID: 0f33a9511a73703551a80705aca19250
+ 2:25:18 Player William Jones connected (id=76561198166473448).
+ 2:25:18 BattlEye Server: Verified GUID (0f33a9511a73703551a80705aca19250) of player #3 William Jones
+ 2:25:37 Player William Jones disconnected.
+ 2:25:37 BattlEye Server: Pla

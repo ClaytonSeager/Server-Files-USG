@@ -1,0 +1,129 @@
+﻿10:52:01 BattlEye Server: Initialized (v1.217)
+10:52:01 Game Port: 2302, Steam Query Port: 2303
+10:52:01 Mission UrbanSky.kelleysisland read from bank.
+10:52:01 Host identity created.
+10:52:02 Roles assigned.
+10:52:02 Reading mission ...
+10:52:02 BattlEye Server: RCon admin #0 (127.0.0.1:64889) logged in
+10:52:52 BattlEye Server: RCon admin #1 (127.0.0.1:64903) logged in
+10:53:01 Mission read.
+10:53:01 Game started.
+10:53:05 Successfull attempt to execute serverCommand '#exec users' by server.
+10:55:07 BattlEye Server: RCon admin #0 (127.0.0.1:49284) logged in
+11:14:23 BattlEye Server: RCon admin #1 (127.0.0.1:64817) logged in
+12:06:33 BattlEye Server: RCon admin #0 (127.0.0.1:51507) logged in
+12:27:28 BattlEye Server: RCon admin #1 (127.0.0.1:62910) logged in
+13:26:57 George Clean uses modified data file
+13:26:57 BattlEye Server: Player #0 George Clean (94.210.196.7:2304) connected
+13:26:57 Player George Clean connecting.
+13:26:58 BattlEye Server: Connected to BE Master
+13:27:00 BattlEye Server: Player #0 George Clean - BE GUID: 769907aeca4ee1e808ba7f4ee3b0c69f
+13:27:00 Player George Clean connected (id=76561198130285673).
+13:27:00 BattlEye Server: Verified GUID (769907aeca4ee1e808ba7f4ee3b0c69f) of player #0 George Clean
+13:27:44 thomas uses modified data file
+13:27:44 BattlEye Server: Player #1 thomas (216.158.230.123:2304) connected
+13:27:44 Player thomas connecting.
+13:27:48 BattlEye Server: Player #1 thomas - BE GUID: 9524bc64936eadc8d4ce3515019dd9c7
+13:27:48 Player thomas connected (id=76561198248187246).
+13:27:48 BattlEye Server: Verified GUID (9524bc64936eadc8d4ce3515019dd9c7) of player #1 thomas
+13:33:15 Player George Clean disconnected.
+13:33:15 BattlEye Server: Player #0 George Clean disconnected
+13:33:39 George Clean uses modified data file
+13:33:39 BattlEye Server: Player #2 George Clean (94.210.196.7:2304) connected
+13:33:39 Player George Clean connecting.
+13:33:42 BattlEye Server: Player #2 George Clean - BE GUID: 769907aeca4ee1e808ba7f4ee3b0c69f
+13:33:42 Player George Clean connected (id=76561198130285673).
+13:33:42 BattlEye Server: Verified GUID (769907aeca4ee1e808ba7f4ee3b0c69f) of player #2 George Clean
+13:41:34 BattlEye Server: RCon admin #0 (127.0.0.1:59518) logged in
+13:48:59 BattlEye Server: RCon admin #1 (127.0.0.1:63774) logged in
+13:54:20 Player thomas is losing connection
+13:54:25 Player thomas disconnected.
+13:54:25 BattlEye Server: Player #1 thomas disconnected
+13:56:10 thomas uses modified data file
+13:56:10 BattlEye Server: Player #3 thomas (216.158.230.123:2304) connected
+13:56:10 Player thomas connecting.
+13:56:13 BattlEye Server: Player #3 thomas - BE GUID: 9524bc64936eadc8d4ce3515019dd9c7
+13:56:13 Player thomas connected (id=76561198248187246).
+13:56:13 BattlEye Server: Verified GUID (9524bc64936eadc8d4ce3515019dd9c7) of player #3 thomas
+14:54:15 Player George Clean disconnected.
+14:54:15 BattlEye Server: Player #2 George Clean disconnected
+14:55:39 George Clean uses modified data file
+14:55:40 BattlEye Server: Player #4 George Clean (94.210.196.7:2304) connected
+14:55:40 Player George Clean connecting.
+14:55:43 BattlEye Server: Player #4 George Clean - BE GUID: 769907aeca4ee1e808ba7f4ee3b0c69f
+14:55:43 Player George Clean connected (id=76561198130285673).
+14:55:43 BattlEye Server: Verified GUID (769907aeca4ee1e808ba7f4ee3b0c69f) of player #4 George Clean
+15:06:51 Player thomas disconnected.
+15:06:51 BattlEye Server: Player #3 thomas disconnected
+15:09:13 thomas uses modified data file
+15:09:13 BattlEye Server: Player #5 thomas (216.158.230.123:2304) connected
+15:09:13 Player thomas connecting.
+15:09:16 BattlEye Server: Player #5 thomas - BE GUID: 9524bc64936eadc8d4ce3515019dd9c7
+15:09:16 Player thomas connected (id=76561198248187246).
+15:09:16 BattlEye Server: Verified GUID (9524bc64936eadc8d4ce3515019dd9c7) of player #5 thomas
+15:21:36 unjoint uses modified data file
+15:21:36 BattlEye Server: Player #6 unjoint (192.222.152.185:2304) connected
+15:21:36 Player unjoint connecting.
+15:21:39 BattlEye Server: Player #6 unjoint - BE GUID: 179cc3e773bb29f47509ad6b4529e209
+15:21:39 Player unjoint connected (id=76561198039845662).
+15:21:39 BattlEye Server: Verified GUID (179cc3e773bb29f47509ad6b4529e209) of player #6 unjoint
+15:21:44 Player unjoint disconnected.
+15:21:44 BattlEye Server: Player #6 unjoint disconnected
+15:24:40 BattlEye Server: RCon admin #0 (127.0.0.1:61058) logged in
+15:58:20 Player thomas disconnected.
+15:58:20 BattlEye Server: Player #5 thomas disconnected
+17:08:36 BattlEye Server: RCon admin #1 (127.0.0.1:60958) logged in
+17:10:10 Player George Clean disconnected.
+17:10:10 BattlEye Server: Player #4 George Clean disconnected
+18:13:42 Wyclef uses modified data file
+18:13:42 BattlEye Server: Player #0 Wyclef (184.54.255.68:2304) connected
+18:13:42 Player Wyclef connecting.
+18:13:45 BattlEye Server: Player #0 Wyclef - BE GUID: f0371387b7fca9ed93f6370adce2e67e
+18:13:45 Player Wyclef connected (id=76561198038112694).
+18:13:45 BattlEye Server: Verified GUID (f0371387b7fca9ed93f6370adce2e67e) of player #0 Wyclef
+18:14:11 BattlEye Server: RCon admin #0 (127.0.0.1:63314) logged in
+18:20:08 Player Wyclef disconnected.
+18:20:08 BattlEye Server: Player #0 Wyclef disconnected
+18:22:06 George Clean uses modified data file
+18:22:06 BattlEye Server: Player #0 George Clean (94.210.196.7:2304) connected
+18:22:06 Player George Clean connecting.
+18:22:09 BattlEye Server: Player #0 George Clean - BE GUID: 769907aeca4ee1e808ba7f4ee3b0c69f
+18:22:09 Player George Clean connected (id=76561198130285673).
+18:22:09 BattlEye Server: Verified GUID (769907aeca4ee1e808ba7f4ee3b0c69f) of player #0 George Clean
+19:10:47 BattlEye Server: RCon admin #1 (127.0.0.1:49945) logged in
+19:28:21 AL "BIG AL" GAMBINO uses modified data file
+19:28:21 BattlEye Server: Player #1 AL "BIG AL" GAMBINO (74.193.135.12:2304) connected
+19:28:21 Player AL "BIG AL" GAMBINO connecting.
+19:28:24 BattlEye Server: Player #1 AL "BIG AL" GAMBINO - BE GUID: 7df6da575da348d57bcde5b09ebf536a
+19:28:24 Player AL "BIG AL" GAMBINO connected (id=76561198361509989).
+19:28:24 BattlEye Server: Verified GUID (7df6da575da348d57bcde5b09ebf536a) of player #1 AL "BIG AL" GAMBINO
+19:28:54 Player AL "BIG AL" GAMBINO disconnected.
+19:28:54 BattlEye Server: Player #1 AL "BIG AL" GAMBINO disconnected
+19:31:20 AL "BIG AL" GAMBINO uses modified data file
+19:31:20 BattlEye Server: Player #1 AL "BIG AL" GAMBINO (74.193.135.12:2304) connected
+19:31:20 Player AL "BIG AL" GAMBINO connecting.
+19:31:23 BattlEye Server: Player #1 AL "BIG AL" GAMBINO - BE GUID: 7df6da575da348d57bcde5b09ebf536a
+19:31:23 Player AL "BIG AL" GAMBINO connected (id=76561198361509989).
+19:31:24 BattlEye Server: Verified GUID (7df6da575da348d57bcde5b09ebf536a) of player #1 AL "BIG AL" GAMBINO
+19:35:18 Player George Clean disconnected.
+19:35:18 BattlEye Server: Player #0 George Clean disconnected
+19:51:42 BattlEye Server: RCon admin #0 (127.0.0.1:57407) logged in
+19:53:26 George Clean uses modified data file
+19:53:26 BattlEye Server: Player #2 George Clean (94.210.196.7:2304) connected
+19:53:26 Player George Clean connecting.
+19:53:29 BattlEye Server: Player #2 George Clean - BE GUID: 769907aeca4ee1e808ba7f4ee3b0c69f
+19:53:29 Player George Clean connected (id=76561198130285673).
+19:53:29 BattlEye Server: Verified GUID (769907aeca4ee1e808ba7f4ee3b0c69f) of player #2 George Clean
+20:02:53 deadrider41 uses modified data file
+20:02:53 BattlEye Server: Player #3 deadrider41 (83.82.246.124:2304) connected
+20:02:53 Player deadrider41 connecting.
+20:02:56 BattlEye Server: Player #3 deadrider41 - BE GUID: 9189ea3f609973a35e5aed7ba13c4e05
+20:02:56 Player deadrider41 connected (id=76561198172486071).
+20:02:56 BattlEye Server: Verified GUID (9189ea3f609973a35e5aed7ba13c4e05) of player #3 deadrider41
+20:11:16 luke uses modified data file
+20:11:16 BattlEye Server: Player #4 luke (47.135.166.94:2304) connected
+20:11:16 Player luke connecting.
+20:11:19 BattlEye Server: Player #4 luke - BE GUID: 1b3b942c0ee67b426e685870cfe6b312
+20:11:19 Player luke connected (id=76561198264871362).
+20:11:19 BattlEye Server: Verified GUID (1b3b942c0ee67b426e685870cfe6b312) of player #4 luke
+20:18:06 BattlEye Server: (Group) AL "BIG AL" GA

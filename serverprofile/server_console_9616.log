@@ -1,0 +1,63 @@
+﻿ 5:01:12 BattlEye Server: Initialized (v1.217)
+ 5:01:12 Game Port: 2302, Steam Query Port: 2303
+ 5:01:12 Mission Urban Sky V1.2 read from bank.
+ 5:01:13 Host identity created.
+ 5:01:13 BattlEye Server: RCon admin #0 (127.0.0.1:65322) logged in
+ 5:01:13 Roles assigned.
+ 5:01:13 Reading mission ...
+ 5:02:08 BattlEye Server: RCon admin #1 (127.0.0.1:50306) logged in
+ 5:02:13 Mission read.
+ 5:02:14 Game started.
+ 5:02:17 Successfull attempt to execute serverCommand '#exec users' by server.
+ 5:03:16 Boyevik Butch-Mac Volkev uses modified data file
+ 5:03:16 BattlEye Server: Player #0 Boyevik Butch-Mac Volkev (75.129.113.251:2304) connected
+ 5:03:16 Player Boyevik Butch-Mac Volkev connecting.
+ 5:03:16 BattlEye Server: Connected to BE Master
+ 5:03:19 BattlEye Server: Player #0 Boyevik Butch-Mac Volkev - BE GUID: 2171a69b0a8e7bb55eac768fb58f4833
+ 5:03:19 Player Boyevik Butch-Mac Volkev connected (id=76561198089960350).
+ 5:03:19 BattlEye Server: Verified GUID (2171a69b0a8e7bb55eac768fb58f4833) of player #0 Boyevik Butch-Mac Volkev
+ 5:05:55 Jeb Bush  uses modified data file
+ 5:05:55 BattlEye Server: Player #1 Jeb Bush  (206.255.128.79:2304) connected
+ 5:05:55 Player Jeb Bush  connecting.
+ 5:06:00 BattlEye Server: Player #1 Jeb Bush  - BE GUID: df1f5160cd5d424cdfa5e623564a5824
+ 5:06:00 Player Jeb Bush  connected (id=76561198860031547).
+ 5:06:00 BattlEye Server: Verified GUID (df1f5160cd5d424cdfa5e623564a5824) of player #1 Jeb Bush 
+ 5:06:28 Melvin Bush uses modified data file
+ 5:06:28 BattlEye Server: Player #2 Melvin Bush (76.120.21.218:2304) connected
+ 5:06:28 Player Melvin Bush connecting.
+ 5:06:31 BattlEye Server: Player #2 Melvin Bush - BE GUID: ee82c3729d5372257d58141db06c50ca
+ 5:06:31 Player Melvin Bush connected (id=76561198083728776).
+ 5:06:31 BattlEye Server: Verified GUID (ee82c3729d5372257d58141db06c50ca) of player #2 Melvin Bush
+ 5:08:06 AL "BIG AL" GAMBINO uses modified data file
+ 5:08:06 BattlEye Server: Player #3 AL "BIG AL" GAMBINO (74.193.135.12:2304) connected
+ 5:08:06 Player AL "BIG AL" GAMBINO connecting.
+ 5:08:09 BattlEye Server: Player #3 AL "BIG AL" GAMBINO - BE GUID: 7df6da575da348d57bcde5b09ebf536a
+ 5:08:09 Player AL "BIG AL" GAMBINO connected (id=76561198361509989).
+ 5:08:09 BattlEye Server: Verified GUID (7df6da575da348d57bcde5b09ebf536a) of player #3 AL "BIG AL" GAMBINO
+ 5:08:27 Player AL "BIG AL" GAMBINO disconnected.
+ 5:08:27 BattlEye Server: Player #3 AL "BIG AL" GAMBINO disconnected
+ 5:09:42 John Anderson uses modified data file
+ 5:09:42 BattlEye Server: Player #3 John Anderson (174.193.27.68:60919) connected
+ 5:09:43 Player John Anderson connecting.
+ 5:09:45 AL "BIG AL" GAMBINO uses modified data file
+ 5:09:45 BattlEye Server: Player #4 AL "BIG AL" GAMBINO (74.193.135.12:2304) connected
+ 5:09:45 Player AL "BIG AL" GAMBINO connecting.
+ 5:09:46 BattlEye Server: Player #3 John Anderson - BE GUID: 1a817c92339e6b8e805de60b179df342
+ 5:09:46 Player John Anderson connected (id=76561198180893505).
+ 5:09:46 BattlEye Server: Verified GUID (1a817c92339e6b8e805de60b179df342) of player #3 John Anderson
+ 5:09:48 BattlEye Server: Player #4 AL "BIG AL" GAMBINO - BE GUID: 7df6da575da348d57bcde5b09ebf536a
+ 5:09:48 Player AL "BIG AL" GAMBINO connected (id=76561198361509989).
+ 5:09:48 BattlEye Server: Verified GUID (7df6da575da348d57bcde5b09ebf536a) of player #4 AL "BIG AL" GAMBINO
+ 5:11:56 BattlEye Server: (Direct) Boyevik Butch-Mac Volkev: like it
+ 5:12:04 BattlEye Server: (Direct) Boyevik Butch-Mac Volkev: Wait
+ 5:12:08 BattlEye Server: (Direct) Boyevik Butch-Mac Volkev: lol u r not Jbo
+ 5:13:10 Gatsby uses modified data file
+ 5:13:10 BattlEye Server: Player #5 Gatsby (184.54.255.68:2304) connected
+ 5:13:10 Player Gatsby connecting.
+ 5:13:13 BattlEye Server: Player #5 Gatsby - BE GUID: f0371387b7fca9ed93f6370adce2e67e
+ 5:13:13 Player Gatsby connected (id=76561198038112694).
+ 5:13:13 BattlEye Server: Verified GUID (f0371387b7fca9ed93f6370adce2e67e) of player #5 Gatsby
+ 5:15:24 Player Jeb Bush  disconnected.
+ 5:15:24 BattlEye Server: Player #1 Jeb Bush  disconnected
+ 5:17:39 Jeb Bush  uses modified data file
+ 5:17:3

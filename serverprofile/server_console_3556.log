@@ -1,0 +1,68 @@
+﻿21:03:34 BattlEye Server: Initialized (v1.217)
+21:03:34 Game Port: 2302, Steam Query Port: 2303
+21:03:34 Warning: Current Steam AppId:  doesn't match expected value: 107410
+21:03:35 Mission UrbanSky.kelleysisland read from bank.
+21:03:35 Host identity created.
+21:03:36 Roles assigned.
+21:03:36 Reading mission ...
+21:03:38 BattlEye Server: RCon admin #0 (127.0.0.1:62612) logged in
+21:04:28 BattlEye Server: RCon admin #1 (127.0.0.1:62623) logged in
+21:04:37 Mission read.
+21:04:37 Game started.
+21:04:41 Successfull attempt to execute serverCommand '#exec users' by server.
+21:05:40 luke uses modified data file
+21:05:40 BattlEye Server: Player #0 luke (47.135.166.94:2304) connected
+21:05:40 Player luke connecting.
+21:05:40 BattlEye Server: Connected to BE Master
+21:05:42 BattlEye Server: Player #0 luke - BE GUID: 1b3b942c0ee67b426e685870cfe6b312
+21:05:43 Player luke connected (id=76561198264871362).
+21:05:43 BattlEye Server: Verified GUID (1b3b942c0ee67b426e685870cfe6b312) of player #0 luke
+21:07:00 Player luke disconnected.
+21:07:00 BattlEye Server: Player #0 luke disconnected
+21:07:03 luke uses modified data file
+21:07:03 BattlEye Server: Player #0 luke (47.135.166.94:2304) connected
+21:07:03 Player luke connecting.
+21:07:06 BattlEye Server: Player #0 luke - BE GUID: 1b3b942c0ee67b426e685870cfe6b312
+21:07:06 Player luke connected (id=76561198264871362).
+21:07:06 BattlEye Server: Verified GUID (1b3b942c0ee67b426e685870cfe6b312) of player #0 luke
+21:09:07 Player luke is losing connection
+21:09:12 Player luke disconnected.
+21:09:12 BattlEye Server: Player #0 luke disconnected
+21:11:07 luke uses modified data file
+21:11:07 BattlEye Server: Player #0 luke (47.135.166.94:2304) connected
+21:11:07 Player luke connecting.
+21:11:10 BattlEye Server: Player #0 luke - BE GUID: 1b3b942c0ee67b426e685870cfe6b312
+21:11:11 Player luke connected (id=76561198264871362).
+21:11:11 BattlEye Server: Verified GUID (1b3b942c0ee67b426e685870cfe6b312) of player #0 luke
+21:12:15 [1k-40] Jose Santana uses modified data file
+21:12:15 BattlEye Server: Player #1 [1k-40] Jose Santana (71.214.112.161:2304) connected
+21:12:15 Player [1k-40] Jose Santana connecting.
+21:12:18 BattlEye Server: Player #1 [1k-40] Jose Santana - BE GUID: f39290998763ee67898235ee2ea502e7
+21:12:19 Player [1k-40] Jose Santana connected (id=76561198206026112).
+21:12:19 BattlEye Server: Verified GUID (f39290998763ee67898235ee2ea502e7) of player #1 [1k-40] Jose Santana
+21:12:29 Player [1k-40] Jose Santana disconnected.
+21:12:29 BattlEye Server: Player #1 [1k-40] Jose Santana disconnected
+21:12:50 Nino Marino uses modified data file
+21:12:50 BattlEye Server: Player #1 Nino Marino (71.214.112.161:2304) connected
+21:12:50 Player Nino Marino connecting.
+21:12:53 BattlEye Server: Player #1 Nino Marino - BE GUID: f39290998763ee67898235ee2ea502e7
+21:12:53 Donnie Turbo uses modified data file
+21:12:53 BattlEye Server: Player #2 Donnie Turbo (192.81.45.131:2304) connected
+21:12:53 Player Donnie Turbo connecting.
+21:12:53 Player Nino Marino connected (id=76561198206026112).
+21:12:53 BattlEye Server: Verified GUID (f39290998763ee67898235ee2ea502e7) of player #1 Nino Marino
+21:12:57 BattlEye Server: Player #2 Donnie Turbo - BE GUID: a0a46137167d70778acc68329618c7e6
+21:12:57 Player Donnie Turbo connected (id=76561198041233395).
+21:12:57 BattlEye Server: Verified GUID (a0a46137167d70778acc68329618c7e6) of player #2 Donnie Turbo
+21:18:38 BattlEye Server: RCon admin #0 (127.0.0.1:50622) logged in
+21:20:30 Player Nino Marino disconnected.
+21:20:30 BattlEye Server: Player #1 Nino Marino disconnected
+21:21:31 Player luke disconnected.
+21:21:31 BattlEye Server: Player #0 luke disconnected
+21:25:29 Sternn uses modified data file
+21:25:29 BattlEye Server: Player #3 Sternn (208.66.176.2:37841) connected
+21:25:29 Player Sternn connecting.
+21:25:32 BattlEye Server: Player #3 Sternn - BE GUID: 8e76cad1f690cd7f1970f170669bf25b
+21:25:32 Player Sternn connected (id=76561198087299936).
+21:25:32 BattlEye Server: Verified GUID (8e76cad1f690cd7f1970f170669bf25b) of player #3 Sternn
+21:53:08 BattlEye Server: RCon admi

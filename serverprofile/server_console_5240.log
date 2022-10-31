@@ -1,0 +1,314 @@
+﻿ 0:00:49 BattlEye Server: Initialized (v1.217)
+ 0:00:49 Game Port: 2302, Steam Query Port: 2303
+ 0:00:49 Warning: Current Steam AppId:  doesn't match expected value: 107410
+ 0:00:49 Mission UrbanSky.kelleysisland read from bank.
+ 0:00:53 Host identity created.
+ 0:00:53 BattlEye Server: RCon admin #0 (127.0.0.1:51199) logged in
+ 0:00:53 Roles assigned.
+ 0:00:53 Reading mission ...
+ 0:01:48 BattlEye Server: RCon admin #1 (127.0.0.1:53090) logged in
+ 0:01:55 Mission read.
+ 0:01:55 Game started.
+ 0:01:58 Successfull attempt to execute serverCommand '#exec users' by server.
+ 0:02:33 luke uses modified data file
+ 0:02:33 BattlEye Server: Player #0 luke (47.135.166.94:2304) connected
+ 0:02:33 Player luke connecting.
+ 0:02:33 BattlEye Server: Connected to BE Master
+ 0:02:36 BattlEye Server: Player #0 luke - BE GUID: 1b3b942c0ee67b426e685870cfe6b312
+ 0:02:36 Player luke connected (id=76561198264871362).
+ 0:02:36 BattlEye Server: Verified GUID (1b3b942c0ee67b426e685870cfe6b312) of player #0 luke
+ 0:03:41 Donnie Turbo uses modified data file
+ 0:03:41 BattlEye Server: Player #1 Donnie Turbo (192.81.45.131:2304) connected
+ 0:03:41 Player Donnie Turbo connecting.
+ 0:03:44 BattlEye Server: Player #1 Donnie Turbo - BE GUID: a0a46137167d70778acc68329618c7e6
+ 0:03:44 Player Donnie Turbo connected (id=76561198041233395).
+ 0:03:44 BattlEye Server: Verified GUID (a0a46137167d70778acc68329618c7e6) of player #1 Donnie Turbo
+ 0:05:24 John Anderson uses modified data file
+ 0:05:24 BattlEye Server: Player #2 John Anderson (76.6.151.180:2304) connected
+ 0:05:24 Player John Anderson connecting.
+ 0:05:27 BattlEye Server: Player #2 John Anderson - BE GUID: 1a817c92339e6b8e805de60b179df342
+ 0:05:27 Player John Anderson connected (id=76561198180893505).
+ 0:05:27 BattlEye Server: Verified GUID (1a817c92339e6b8e805de60b179df342) of player #2 John Anderson
+ 0:07:29 BattlEye Server: RCon admin #0 (127.0.0.1:51134) logged in
+ 0:11:07 Player luke is losing connection
+ 0:11:12 Player luke disconnected.
+ 0:11:12 BattlEye Server: Player #0 luke disconnected
+ 0:13:03 luke uses modified data file
+ 0:13:03 BattlEye Server: Player #3 luke (47.135.166.94:2304) connected
+ 0:13:03 Player luke connecting.
+ 0:13:05 BattlEye Server: Player #3 luke - BE GUID: 1b3b942c0ee67b426e685870cfe6b312
+ 0:13:06 Player luke connected (id=76561198264871362).
+ 0:13:06 BattlEye Server: Verified GUID (1b3b942c0ee67b426e685870cfe6b312) of player #3 luke
+ 0:18:14 BattlEye Server: RCon admin #1 (127.0.0.1:51392) logged in
+ 0:22:35 Nino Marino uses modified data file
+ 0:22:35 BattlEye Server: Player #4 Nino Marino (71.214.112.161:2304) connected
+ 0:22:35 Player Nino Marino connecting.
+ 0:22:38 BattlEye Server: Player #4 Nino Marino - BE GUID: f39290998763ee67898235ee2ea502e7
+ 0:22:38 Player Nino Marino connected (id=76561198206026112).
+ 0:22:38 BattlEye Server: Verified GUID (f39290998763ee67898235ee2ea502e7) of player #4 Nino Marino
+ 0:22:51 Player Nino Marino disconnected.
+ 0:22:51 BattlEye Server: Player #4 Nino Marino disconnected
+ 0:23:03 Rogue Tjay uses modified data file
+ 0:23:03 BattlEye Server: Player #4 Rogue Tjay (99.232.144.252:2304) connected
+ 0:23:03 Player Rogue Tjay connecting.
+ 0:23:07 BattlEye Server: Player #4 Rogue Tjay - BE GUID: 1775b6bbb9f6757ed1e4f0f7592af3e5
+ 0:23:08 Player Rogue Tjay connected (id=76561198883479728).
+ 0:23:08 BattlEye Server: Verified GUID (1775b6bbb9f6757ed1e4f0f7592af3e5) of player #4 Rogue Tjay
+ 0:23:10 [1k-40] Jose Santana uses modified data file
+ 0:23:10 BattlEye Server: Player #5 [1k-40] Jose Santana (71.214.112.161:2304) connected
+ 0:23:10 Player [1k-40] Jose Santana connecting.
+ 0:23:13 BattlEye Server: Player #5 [1k-40] Jose Santana - BE GUID: f39290998763ee67898235ee2ea502e7
+ 0:23:14 Player [1k-40] Jose Santana connected (id=76561198206026112).
+ 0:23:14 BattlEye Server: Verified GUID (f39290998763ee67898235ee2ea502e7) of player #5 [1k-40] Jose Santana
+ 0:29:04 BattlEye Server: RCon admin #0 (127.0.0.1:50939) logged in
+ 0:34:44 BattlEye Server: RCon admin #1 (127.0.0.1:63501) logged in
+ 0:36:54 BattlEye Server: RCon admin #0 (127.0.0.1:63528) logged in
+ 0:43:14 Player luke is losing connection
+ 0:43:20 Player luke disconnected.
+ 0:43:20 BattlEye Server: Player #3 luke disconnected
+ 0:45:21 Player [1k-40] Jose Santana disconnected.
+ 0:45:21 BattlEye Server: Player #5 [1k-40] Jose Santana disconnected
+ 0:46:15 Sherman uses modified data file
+ 0:46:15 BattlEye Server: Player #5 Sherman (184.54.255.68:2304) connected
+ 0:46:15 Player Sherman connecting.
+ 0:46:18 BattlEye Server: Player #5 Sherman - BE GUID: f0371387b7fca9ed93f6370adce2e67e
+ 0:46:20 Player Sherman connected (id=76561198038112694).
+ 0:46:20 BattlEye Server: Verified GUID (f0371387b7fca9ed93f6370adce2e67e) of player #5 Sherman
+ 1:20:00 Low_Poly_Man uses modified data file
+ 1:20:00 BattlEye Server: Player #6 Low_Poly_Man (74.128.80.15:2304) connected
+ 1:20:00 Player Low_Poly_Man connecting.
+ 1:20:05 BattlEye Server: Player #6 Low_Poly_Man - BE GUID: d250b62ef6125275e039c9badd884760
+ 1:20:08 Player Low_Poly_Man connected (id=76561198137223112).
+ 1:20:08 BattlEye Server: Verified GUID (d250b62ef6125275e039c9badd884760) of player #6 Low_Poly_Man
+ 1:23:46 luke uses modified data file
+ 1:23:46 BattlEye Server: Player #7 luke (47.135.166.94:2304) connected
+ 1:23:46 Player luke connecting.
+ 1:23:49 BattlEye Server: Player #7 luke - BE GUID: 1b3b942c0ee67b426e685870cfe6b312
+ 1:23:49 Player luke connected (id=76561198264871362).
+ 1:23:49 BattlEye Server: Verified GUID (1b3b942c0ee67b426e685870cfe6b312) of player #7 luke
+ 1:42:26 BattlEye Server: (Unknown) John Anderson: Dammit Donnie lol
+ 1:45:11 Sergei Chedakai uses modified data file
+ 1:45:11 BattlEye Server: Player #8 Sergei Chedakai (75.58.49.192:2304) connected
+ 1:45:11 Player Sergei Chedakai connecting.
+ 1:45:13 BattlEye Server: Player #8 Sergei Chedakai - BE GUID: bd4578e615422cb0ed98810eedfeb668
+ 1:45:14 Player Sergei Chedakai connected (id=76561198043298972).
+ 1:45:14 BattlEye Server: Verified GUID (bd4578e615422cb0ed98810eedfeb668) of player #8 Sergei Chedakai
+ 1:46:03 HoyoBani uses modified data file
+ 1:46:04 BattlEye Server: Player #9 HoyoBani (162.213.242.232:2304) connected
+ 1:46:04 Player HoyoBani connecting.
+ 1:46:06 BattlEye Server: Player #9 HoyoBani - BE GUID: baeaf37751c8cb5ba1e1a73c33957203
+ 1:46:07 Player HoyoBani connected (id=76561198105940600).
+ 1:46:07 BattlEye Server: Verified GUID (baeaf37751c8cb5ba1e1a73c33957203) of player #9 HoyoBani
+ 1:47:17 Player HoyoBani disconnected.
+ 1:47:17 BattlEye Server: Player #9 HoyoBani disconnected
+ 1:47:32 Ivan Pershketov uses modified data file
+ 1:47:32 BattlEye Server: Player #9 Ivan Pershketov (162.213.242.232:2304) connected
+ 1:47:32 Player Ivan Pershketov connecting.
+ 1:47:35 BattlEye Server: Player #9 Ivan Pershketov - BE GUID: baeaf37751c8cb5ba1e1a73c33957203
+ 1:47:35 Player Ivan Pershketov connected (id=76561198105940600).
+ 1:47:35 BattlEye Server: Verified GUID (baeaf37751c8cb5ba1e1a73c33957203) of player #9 Ivan Pershketov
+ 1:49:56 Player luke kicked off by BattlEye: Client not responding
+ 1:49:56 Player luke disconnected.
+ 2:01:56 luke uses modified data file
+ 2:01:56 BattlEye Server: Player #10 luke (47.135.166.94:2304) connected
+ 2:01:56 Player luke connecting.
+ 2:01:59 BattlEye Server: Player #10 luke - BE GUID: 1b3b942c0ee67b426e685870cfe6b312
+ 2:01:59 Player luke connected (id=76561198264871362).
+ 2:01:59 BattlEye Server: Verified GUID (1b3b942c0ee67b426e685870cfe6b312) of player #10 luke
+ 2:07:30 BattlEye Server: RCon admin #1 (127.0.0.1:55407) logged in
+ 2:08:19 S.Kingston uses modified data file
+ 2:08:19 BattlEye Server: Player #11 S.Kingston (82.40.14.252:2304) connected
+ 2:08:19 Player S.Kingston connecting.
+ 2:08:22 BattlEye Server: Player #11 S.Kingston - BE GUID: 25be6e9ae307bb439755ea968f9d36d8
+ 2:08:22 Player S.Kingston connected (id=76561198046640450).
+ 2:08:22 BattlEye Server: Verified GUID (25be6e9ae307bb439755ea968f9d36d8) of player #11 S.Kingston
+ 2:12:53 Player luke is losing connection
+ 2:12:58 Player luke disconnected.
+ 2:12:58 BattlEye Server: Player #10 luke disconnected
+ 2:13:00 Amado Carrillo fuentes uses modified data file
+ 2:13:00 BattlEye Server: Player #12 Amado Carrillo fuentes (131.106.234.177:2304) connected
+ 2:13:00 Player Amado Carrillo fuentes connecting.
+ 2:13:05 BattlEye Server: Player #12 Amado Carrillo fuentes - BE GUID: 1de046185bbd5f8815bc88cfd7c332c2
+ 2:13:06 Player Amado Carrillo fuentes connected (id=76561198354844800).
+ 2:13:06 BattlEye Server: Verified GUID (1de046185bbd5f8815bc88cfd7c332c2) of player #12 Amado Carrillo fuentes
+ 2:14:59 luke uses modified data file
+ 2:14:59 BattlEye Server: Player #13 luke (47.135.166.94:2304) connected
+ 2:14:59 Player luke connecting.
+ 2:15:02 BattlEye Server: Player #13 luke - BE GUID: 1b3b942c0ee67b426e685870cfe6b312
+ 2:15:02 Player luke connected (id=76561198264871362).
+ 2:15:02 BattlEye Server: Verified GUID (1b3b942c0ee67b426e685870cfe6b312) of player #13 luke
+ 2:23:10 BattlEye Server: RCon admin #0 (127.0.0.1:65229) logged in
+ 2:33:51 Nino Marino uses modified data file
+ 2:33:51 BattlEye Server: Player #14 Nino Marino (71.214.112.161:2304) connected
+ 2:33:51 Player Nino Marino connecting.
+ 2:33:54 BattlEye Server: Player #14 Nino Marino - BE GUID: f39290998763ee67898235ee2ea502e7
+ 2:33:54 Player Nino Marino connected (id=76561198206026112).
+ 2:33:54 BattlEye Server: Verified GUID (f39290998763ee67898235ee2ea502e7) of player #14 Nino Marino
+ 2:35:23 Player luke disconnected.
+ 2:35:23 BattlEye Server: Player #13 luke disconnected
+ 2:36:01 BFcommando uses modified data file
+ 2:36:01 BattlEye Server: Player #15 BFcommando (73.55.109.25:2304) connected
+ 2:36:01 Player BFcommando connecting.
+ 2:36:04 BattlEye Server: Player #15 BFcommando - BE GUID: 906d112e4df2479fa729cca24ddd2979
+ 2:36:05 Player BFcommando connected (id=76561198119767526).
+ 2:36:05 BattlEye Server: Verified GUID (906d112e4df2479fa729cca24ddd2979) of player #15 BFcommando
+ 2:37:39 luke uses modified data file
+ 2:37:39 BattlEye Server: Player #16 luke (47.135.166.94:2304) connected
+ 2:37:39 Player luke connecting.
+ 2:37:42 BattlEye Server: Player #16 luke - BE GUID: 1b3b942c0ee67b426e685870cfe6b312
+ 2:37:42 Player luke connected (id=76561198264871362).
+ 2:37:42 BattlEye Server: Verified GUID (1b3b942c0ee67b426e685870cfe6b312) of player #16 luke
+ 2:44:14 BattlEye Server: (Unknown) BFcommando: Where the fuck I be
+ 2:44:26 BattlEye Server: (Unknown) BFcommando: ^*TWEET*^
+ 2:44:30 BattlEye Server: (Unknown) Sherman: uNION
+ 2:44:33 BattlEye Server: (Unknown) Sergei Chedakai: tweet bf we pick u up 
+ 2:45:30 BattlEye Server: (Unknown) Sherman: Tweet "300K hit out on Rogue TJay"
+ 2:45:35 BattlEye Server: RCon admin #1 (127.0.0.1:55298) logged in
+ 2:54:30 BattlEye Server: RCon admin #0 (127.0.0.1:51891) logged in
+ 2:54:38 Player luke disconnected.
+ 2:54:38 BattlEye Server: Player #16 luke disconnected
+ 2:56:22 BattlEye Server: (Direct) Rogue Tjay: my ts is ass
+ 2:56:30 BattlEye Server: (Direct) Rogue Tjay: i cant 
+ 2:56:41 BattlEye Server: (Direct) Rogue Tjay: i dont see chat
+ 2:57:48 luke uses modified data file
+ 2:57:48 BattlEye Server: Player #16 luke (47.135.166.94:2304) connected
+ 2:57:48 Player luke connecting.
+ 2:57:50 BattlEye Server: Player #16 luke - BE GUID: 1b3b942c0ee67b426e685870cfe6b312
+ 2:57:51 Player luke connected (id=76561198264871362).
+ 2:57:51 BattlEye Server: Verified GUID (1b3b942c0ee67b426e685870cfe6b312) of player #16 luke
+ 3:01:18 BattlEye Server: RCon admin #1 (127.0.0.1:58842) logged in
+ 3:03:19 Player Rogue Tjay disconnected.
+ 3:03:19 BattlEye Server: Player #4 Rogue Tjay disconnected
+ 3:11:05 Axel Jones uses modified data file
+ 3:11:05 BattlEye Server: Player #17 Axel Jones (149.152.23.140:25566) connected
+ 3:11:05 Player Axel Jones connecting.
+ 3:11:09 BattlEye Server: Player #17 Axel Jones - BE GUID: 7491baabe0f0bd29f7f51d28794bda13
+ 3:11:09 Player Axel Jones connected (id=76561198091943121).
+ 3:11:09 BattlEye Server: Verified GUID (7491baabe0f0bd29f7f51d28794bda13) of player #17 Axel Jones
+ 3:28:46 BattlEye Server: (Unknown) BFcommando: *Twitter* Live Stream coming from Cell A-01 tonight at 9
+ 3:29:00 BattlEye Server: (Unknown) BFcommando: *Twitter* Close Ups of Real Gang Bangs
+ 3:33:41 Player Nino Marino disconnected.
+ 3:33:41 BattlEye Server: Player #14 Nino Marino disconnected
+ 3:35:56 Betty Boop White uses modified data file
+ 3:35:56 BattlEye Server: Player #18 Betty Boop White (71.214.112.161:2304) connected
+ 3:35:56 Player Betty Boop White connecting.
+ 3:36:00 BattlEye Server: Player #18 Betty Boop White - BE GUID: f39290998763ee67898235ee2ea502e7
+ 3:36:00 Player Betty Boop White connected (id=76561198206026112).
+ 3:36:00 BattlEye Server: Verified GUID (f39290998763ee67898235ee2ea502e7) of player #18 Betty Boop White
+ 3:41:47 Marcos uses modified data file
+ 3:41:47 BattlEye Server: Player #19 Marcos (76.116.56.154:2304) connected
+ 3:41:47 Player Marcos connecting.
+ 3:41:51 BattlEye Server: Player #19 Marcos - BE GUID: d2a0e738776db1ab8317155e57294aa5
+ 3:41:52 Player Marcos connected (id=76561198228874900).
+ 3:41:52 BattlEye Server: Verified GUID (d2a0e738776db1ab8317155e57294aa5) of player #19 Marcos
+ 3:42:13 Player Marcos disconnected.
+ 3:42:13 BattlEye Server: Player #19 Marcos disconnected
+ 3:46:27 BattlEye Server: (Direct) Axel Jones: wat
+ 3:46:51 BattlEye Server: (Unknown) Sergei Chedakai: wtf
+ 3:47:04 BattlEye Server: (Unknown) Axel Jones: i try to replace some kneecaps and get domed
+ 3:52:09 BattlEye Server: (Unknown) BFcommando: *Twitter* Manz needs a pickup from the prison
+ 4:00:01 BattlEye Server: (Unknown) Sergei Chedakai: when you get detained and arrested for absoltley zero things
+ 4:00:07 BattlEye Server: (Unknown) Axel Jones: lit
+ 4:00:31 BattlEye Server: (Unknown) BFcommando: *TwItTeR* Litty Titty
+ 4:00:55 BattlEye Server: (Unknown) Axel Jones: *twitter* ya ya yeet when you get shot for literally existing
+ 4:07:50 BattlEye Server: (Direct) Ivan Pershketov: can you see this text
+ 4:07:58 BattlEye Server: (Direct) Ivan Pershketov: XD
+ 4:08:02 BattlEye Server: (Direct) Ivan Pershketov: legit im next to you
+ 4:08:06 BattlEye Server: (Direct) Ivan Pershketov: wait i got an idea
+ 4:08:10 BattlEye Server: (Direct) Ivan Pershketov: pull out taht veh again
+ 4:08:19 BattlEye Server: (Direct) Ivan Pershketov: invis butt probe time
+ 4:08:31 BattlEye Server: (Direct) Ivan Pershketov: im in
+ 4:08:46 BattlEye Server: (Direct) Ivan Pershketov: damn u cant hear me tho
+ 4:08:57 BattlEye Server: (Direct) Ivan Pershketov: oof
+ 4:09:12 BattlEye Server: (Direct) Ivan Pershketov: get out
+ 4:09:14 BattlEye Server: (Direct) Ivan Pershketov: im glitched
+ 4:09:21 BattlEye Server: (Direct) Ivan Pershketov: im out
+ 4:10:47 BattlEye Server: (Direct) Ivan Pershketov: well then
+ 4:11:00 BattlEye Server: (Direct) Ivan Pershketov: we need a rpg
+ 4:11:01 BattlEye Server: (Direct) Ivan Pershketov: xd
+ 4:11:13 BattlEye Server: (Direct) Ivan Pershketov: this is entertaining thyo
+ 4:11:29 BattlEye Server: (Direct) Ivan Pershketov: wait i got an idea
+ 4:11:36 BattlEye Server: (Direct) Ivan Pershketov: so im still in right?
+ 4:11:45 BattlEye Server: (Direct) Ivan Pershketov: aight sec
+ 4:13:34 BattlEye Server: (Direct) Ivan Pershketov: yeah but like
+ 4:13:36 BattlEye Server: (Direct) Ivan Pershketov: this is fun
+ 4:13:38 BattlEye Server: (Direct) Ivan Pershketov: xd
+ 4:13:41 BattlEye Server: (Direct) Ivan Pershketov: no proof of rpg
+ 4:13:48 BattlEye Server: (Direct) Ivan Pershketov: never happaned
+ 4:14:42 BattlEye Server: (Direct) Ivan Pershketov: wait so you heard the rpg shot right?
+ 4:14:49 BattlEye Server: (Direct) Ivan Pershketov: fuck ok
+ 4:14:51 BattlEye Server: (Direct) Ivan Pershketov: wait sec
+ 4:14:54 BattlEye Server: (Direct) Ivan Pershketov: i got an idea
+ 4:15:13 BattlEye Server: (Direct) Ivan Pershketov: you can't hear that?
+ 4:15:23 BattlEye Server: (Direct) Ivan Pershketov: but you can't see who's doing it?
+ 4:15:24 BattlEye Server: (Direct) Ivan Pershketov: xd
+ 4:16:54 BattlEye Server: (Direct) Ivan Pershketov: ohno
+ 4:17:16 BattlEye Server: (Direct) Ivan Pershketov: im so sorry xd
+ 4:17:26 BattlEye Server: (Direct) Ivan Pershketov: godammit
+ 4:19:43 BattlEye Server: (Direct) Ivan Pershketov: RUDE
+ 4:22:56 Player Sherman disconnected.
+ 4:22:56 BattlEye Server: Player #5 Sherman disconnected
+ 4:24:10 Sherman uses modified data file
+ 4:24:10 BattlEye Server: Player #19 Sherman (184.54.255.68:2304) connected
+ 4:24:10 Player Sherman connecting.
+ 4:24:13 BattlEye Server: Player #19 Sherman - BE GUID: f0371387b7fca9ed93f6370adce2e67e
+ 4:24:16 Player Sherman connected (id=76561198038112694).
+ 4:24:16 BattlEye Server: Verified GUID (f0371387b7fca9ed93f6370adce2e67e) of player #19 Sherman
+ 4:30:26 BattlEye Server: (Direct) Ivan Pershketov: OH SHIT
+ 4:32:13 Khalidan Steyr uses modified data file
+ 4:32:13 BattlEye Server: Player #20 Khalidan Steyr (89.187.183.183:2304) connected
+ 4:32:13 Player Khalidan Steyr connecting.
+ 4:32:20 BattlEye Server: Player #20 Khalidan Steyr - BE GUID: 6d137c870c59fa65a4a524b036b39bae
+ 4:32:20 Player Khalidan Steyr connected (id=76561197997126699).
+ 4:32:20 BattlEye Server: Verified GUID (6d137c870c59fa65a4a524b036b39bae) of player #20 Khalidan Steyr
+ 4:32:25 BattlEye Server: (Unknown) Amado Carrillo fuentes: *tweet* 100k for someone to break me out of prison
+ 4:33:26 Robert Kennedy uses modified data file
+ 4:33:26 BattlEye Server: Player #21 Robert Kennedy (76.120.21.218:2304) connected
+ 4:33:26 Player Robert Kennedy connecting.
+ 4:33:29 BattlEye Server: Player #21 Robert Kennedy - BE GUID: ee82c3729d5372257d58141db06c50ca
+ 4:33:29 Player Robert Kennedy connected (id=76561198083728776).
+ 4:33:29 BattlEye Server: Verified GUID (ee82c3729d5372257d58141db06c50ca) of player #21 Robert Kennedy
+ 4:36:19 BattlEye Server: (Direct) Axel Jones: got probed too hard feelsbad
+ 4:39:17 Player Amado Carrillo fuentes disconnected.
+ 4:39:17 BattlEye Server: Player #12 Amado Carrillo fuentes disconnected
+ 4:40:27 Player Khalidan Steyr disconnected.
+ 4:40:27 BattlEye Server: Player #20 Khalidan Steyr disconnected
+ 4:46:46 Player Robert Kennedy disconnected.
+ 4:46:46 BattlEye Server: Player #21 Robert Kennedy disconnected
+ 4:55:04 BattlEye Server: (Unknown) Axel Jones: *tweeting with my thumbs in police custody* genius cops these days
+ 4:58:18 Robert Kennedy uses modified data file
+ 4:58:18 BattlEye Server: Player #20 Robert Kennedy (76.120.21.218:2304) connected
+ 4:58:18 Player Robert Kennedy connecting.
+ 4:58:21 BattlEye Server: Player #20 Robert Kennedy - BE GUID: ee82c3729d5372257d58141db06c50ca
+ 4:58:22 Player Robert Kennedy connected (id=76561198083728776).
+ 4:58:22 BattlEye Server: Verified GUID (ee82c3729d5372257d58141db06c50ca) of player #20 Robert Kennedy
+ 4:59:44 Player Low_Poly_Man disconnected.
+ 4:59:44 BattlEye Server: Player #6 Low_Poly_Man disconnected
+ 5:06:07 Player Axel Jones disconnected.
+ 5:06:07 BattlEye Server: Player #17 Axel Jones disconnected
+ 5:07:54 Player Ivan Pershketov disconnected.
+ 5:07:54 BattlEye Server: Player #9 Ivan Pershketov disconnected
+ 5:12:58 Player S.Kingston disconnected.
+ 5:12:58 BattlEye Server: Player #11 S.Kingston disconnected
+ 5:15:40 Player Sergei Chedakai disconnected.
+ 5:15:40 BattlEye Server: Player #8 Sergei Chedakai disconnected
+ 5:15:51 Player BFcommando disconnected.
+ 5:15:51 BattlEye Server: Player #15 BFcommando disconnected
+ 5:16:12 Player luke disconnected.
+ 5:16:12 BattlEye Server: Player #16 luke disconnected
+ 5:18:26 Successfull attempt to execute serverCommand '#kick 76561198038112694' by server.
+ 5:18:26 Player Sherman disconnected.
+ 5:18:26 BattlEye Server: Player #19 Sherman disconnected
+ 5:25:24 Player Robert Kennedy disconnected.
+ 5:25:24 BattlEye Server: Player #20 Robert Kennedy disconnected
+ 5:35:50 Player Betty Boop White disconnected.
+ 5:35:50 BattlEye Server: Player #18 Betty Boop White disconnected
+ 5:42:55 Player John Anderson disconnected.
+ 5:42:55 BattlEye Server: Player #2 John Anderson disconnected
+ 5:45:39 Player Donnie Turbo disconnected.
+ 5:45:39 BattlEye Server: Player #1 Donnie Turbo disconnected
+11:45:00 BattlEye Server: RCon admin #1: (Global) SERVER RESTART IN 15 MINUTES!
+11:50:00 BattlEye Server: RCon admin #1: (Global) SERVER RESTART IN 10 MINUTES!
+11:55:00 BattlEye Server: RCon admin #1: (Global) SERVER RESTART IN 5 MINUTES LOCKING SERVER!
+11:56:00 BattlEye Server: RCon admin #1: (Global) SERVER RESTART IN 4 MINUTES!
+11:57:00 BattlEye Server: RCon admin #1: (Gl

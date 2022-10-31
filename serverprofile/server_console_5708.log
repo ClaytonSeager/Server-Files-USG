@@ -1,0 +1,67 @@
+﻿ 3:35:47 BattlEye Server: Initialized (v1.217)
+ 3:35:47 Game Port: 2302, Steam Query Port: 2303
+ 3:35:47 Mission UrbanSky.kelleysisland read from bank.
+ 3:35:48 Host identity created.
+ 3:35:48 Roles assigned.
+ 3:35:48 Reading mission ...
+ 3:35:49 BattlEye Server: RCon admin #0 (127.0.0.1:51650) logged in
+ 3:36:45 BattlEye Server: RCon admin #1 (127.0.0.1:51662) logged in
+ 3:36:53 Mission read.
+ 3:36:54 Game started.
+ 3:36:58 Successfull attempt to execute serverCommand '#exec users' by server.
+ 3:38:34 Zander Marino uses modified data file
+ 3:38:34 BattlEye Server: Player #0 Zander Marino (174.245.115.20:4065) connected
+ 3:38:34 Player Zander Marino connecting.
+ 3:38:34 BattlEye Server: Connected to BE Master
+ 3:38:38 BattlEye Server: Player #0 Zander Marino - BE GUID: 1a817c92339e6b8e805de60b179df342
+ 3:38:38 Player Zander Marino connected (id=76561198180893505).
+ 3:38:38 BattlEye Server: Verified GUID (1a817c92339e6b8e805de60b179df342) of player #0 Zander Marino
+ 3:39:47 Donnie Turbo uses modified data file
+ 3:39:47 BattlEye Server: Player #1 Donnie Turbo (192.81.45.131:2304) connected
+ 3:39:47 Player Donnie Turbo connecting.
+ 3:39:51 BattlEye Server: Player #1 Donnie Turbo - BE GUID: a0a46137167d70778acc68329618c7e6
+ 3:39:51 Player Donnie Turbo connected (id=76561198041233395).
+ 3:39:51 BattlEye Server: Verified GUID (a0a46137167d70778acc68329618c7e6) of player #1 Donnie Turbo
+ 3:43:45 BattlEye Server: RCon admin #0 (127.0.0.1:59439) logged in
+ 3:50:50 BattlEye Server: RCon admin #1 (127.0.0.1:52487) logged in
+ 4:04:30 Player Donnie Turbo is losing connection
+ 4:04:35 Player Donnie Turbo disconnected.
+ 4:04:35 BattlEye Server: Player #1 Donnie Turbo disconnected
+ 4:11:21 Donnie Turbo uses modified data file
+ 4:11:21 BattlEye Server: Player #1 Donnie Turbo (192.81.45.131:2304) connected
+ 4:11:21 Player Donnie Turbo connecting.
+ 4:11:36 Player Donnie Turbo disconnected.
+ 4:11:36 BattlEye Server: Player #1 Donnie Turbo disconnected
+ 4:14:41 Donnie Turbo uses modified data file
+ 4:14:41 BattlEye Server: Player #1 Donnie Turbo (192.81.45.131:2304) connected
+ 4:14:41 Player Donnie Turbo connecting.
+ 4:14:44 BattlEye Server: Player #1 Donnie Turbo - BE GUID: a0a46137167d70778acc68329618c7e6
+ 4:14:44 Player Donnie Turbo connected (id=76561198041233395).
+ 4:14:44 BattlEye Server: Verified GUID (a0a46137167d70778acc68329618c7e6) of player #1 Donnie Turbo
+ 4:16:12 gimmi uses modified data file
+ 4:16:12 BattlEye Server: Player #2 gimmi (47.44.72.216:2304) connected
+ 4:16:12 Player gimmi connecting.
+ 4:16:15 BattlEye Server: Player #2 gimmi - BE GUID: a8c01bb72ca37a5630b5814c10f2d86e
+ 4:16:15 Player gimmi connected (id=76561199022006499).
+ 4:16:15 BattlEye Server: Verified GUID (a8c01bb72ca37a5630b5814c10f2d86e) of player #2 gimmi
+ 4:16:23 Player gimmi disconnected.
+ 4:16:23 BattlEye Server: Player #2 gimmi disconnected
+ 4:19:35 Player Donnie Turbo disconnected.
+ 4:19:35 BattlEye Server: Player #1 Donnie Turbo disconnected
+ 5:00:45 Rick Cheney uses modified data file
+ 5:00:46 BattlEye Server: Player #1 Rick Cheney (206.255.128.79:2304) connected
+ 5:00:46 Player Rick Cheney connecting.
+ 5:00:49 BattlEye Server: Player #1 Rick Cheney - BE GUID: df1f5160cd5d424cdfa5e623564a5824
+ 5:00:49 Player Rick Cheney connected (id=76561198860031547).
+ 5:00:49 BattlEye Server: Verified GUID (df1f5160cd5d424cdfa5e623564a5824) of player #1 Rick Cheney
+ 5:15:50 BattlEye Server: RCon admin #0 (127.0.0.1:62495) logged in
+ 5:17:28 [1k-40] Jose Santana uses modified data file
+ 5:17:28 BattlEye Server: Player #2 [1k-40] Jose Santana (71.214.112.161:2304) connected
+ 5:17:28 Player [1k-40] Jose Santana connecting.
+ 5:17:31 BattlEye Server: Player #2 [1k-40] Jose Santana - BE GUID: f39290998763ee67898235ee2ea502e7
+ 5:17:32 Player [1k-40] Jose Santana connected (id=76561198206026112).
+ 5:17:32 BattlEye Server: Verified GUID (f39290998763ee67898235ee2ea502e7) of player #2 [1k-40] Jose Santana
+ 5:28:22 Joe Montana uses modified data file
+ 5:28:22 BattlEye Server: Player #3 Joe Montana (76.185.91.51:2304) connected
+ 5:28:22 Player Joe Montana connecting.
+ 5:

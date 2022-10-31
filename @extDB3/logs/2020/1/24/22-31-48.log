@@ -1,0 +1,35 @@
+
+extDB3: https://bitbucket.org/torndeco/extdb3/wiki/Home
+extDB3: Version: 1.031
+extDB3: Windows Version
+Message: All development for extDB3 is done on a Linux Dedicated Server
+Message: If you would like to Donate to extDB3 Development
+Message: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2SUEFTGABTAM2
+Message: Also leave a message if there is any particular feature you would like to see added.
+Message: Thanks for all the people that have donated.
+Message: Torndeco: 18/05/15
+
+
+extDB3: Found extdb3-conf.ini
+extDB3: Detected 8 Cores, Setting up 6 Worker Threads
+extDB3: ...
+extDB3: ...
+extDB3: ...
+extDB3: ...
+extDB3: ...
+extDB3: ...
+
+
+[22:32:00:894340 +01:00] [Thread 5512] extDB3: SQL: Initialized: Add Quotes around TEXT Datatypes mode: 2
+[22:32:00:894392 +01:00] [Thread 5512] extDB3: SQL: Initialized: NULL = ""
+[22:32:00:894405 +01:00] [Thread 5512] extDB3: Locked
+[22:46:49:771928 +01:00] [Thread 4452] extDB3: SQL: Error MariaDBQueryException: Unknown column 'playerid' in 'where clause'
+[22:46:49:771947 +01:00] [Thread 4452] extDB3: SQL: Error MariaDBQueryException: Input: SELECT jail_time FROM players WHERE playerid='76561198264871362'
+[22:56:15:810753 +01:00] [Thread 6812] extDB3: SQL: Error MariaDBQueryException: Unknown column 'playerid' in 'where clause'
+[22:56:15:810772 +01:00] [Thread 6812] extDB3: SQL: Error MariaDBQueryException: Input: SELECT jail_time FROM players WHERE playerid='76561198264871362'
+[23:30:50:356038 +01:00] [Thread 5176] extDB3: SQL: Error MariaDBQueryException: Unknown column 'playerid' in 'where clause'
+[23:30:50:356060 +01:00] [Thread 5176] extDB3: SQL: Error MariaDBQueryException: Input: SELECT jail_time FROM players WHERE playerid='76561198264871362'
+[00:30:09:863674 +01:00] [Thread 7488] extDB3: SQL: Error MariaDBQueryException: Unknown column 'playerid' in 'where clause'
+[00:30:09:863700 +01:00] [Thread 7488] extDB3: SQL: Error MariaDBQueryException: Input: UPDATE players SET jail_time='15' WHERE playerid='76561198883479728'
+[03:40:10:141552 +01:00] [Thread 5176] extDB3: SQL: Error MariaDBQueryException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id='4'' at line 1
+[03:40:10:141572 +01:00] [Thread 5176] extDB3: SQL: Error MariaDBQueryException: Input: UPDATE gangs SET description= WHERE id='4'

@@ -1,0 +1,29 @@
+
+extDB3: https://bitbucket.org/torndeco/extdb3/wiki/Home
+extDB3: Version: 1.031
+extDB3: Windows Version
+Message: All development for extDB3 is done on a Linux Dedicated Server
+Message: If you would like to Donate to extDB3 Development
+Message: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2SUEFTGABTAM2
+Message: Also leave a message if there is any particular feature you would like to see added.
+Message: Thanks for all the people that have donated.
+Message: Torndeco: 18/05/15
+
+
+extDB3: Found extdb3-conf.ini
+extDB3: Detected 8 Cores, Setting up 6 Worker Threads
+extDB3: ...
+extDB3: ...
+extDB3: ...
+extDB3: ...
+extDB3: ...
+extDB3: ...
+
+
+[23:53:12:554134 +01:00] [Thread 3068] extDB3: SQL: Initialized: Add Quotes around TEXT Datatypes mode: 2
+[23:53:12:554191 +01:00] [Thread 3068] extDB3: SQL: Initialized: NULL = ""
+[23:53:12:554209 +01:00] [Thread 3068] extDB3: Locked
+[03:55:52:204069 +01:00] [Thread 4300] extDB3: SQL: Error MariaDBQueryException: Data too long for column 'civ_stats' at row 1
+[03:55:52:204095 +01:00] [Thread 4300] extDB3: SQL: Error MariaDBQueryException: Input: UPDATE players SET name='Judge Whinehoe', cash='0', bankacc='23570240', civ_licenses='"[[`license_civ_driver`,1],[`license_civ_restrictedlicense`,0],[`license_civ_SurplusShop`,1],[`license_civ_repair`,1],[`license_civ_sport`,0],[`license_civ_bike`,1],[`license_civ_tow`,1],[`license_civ_boat`,1],[`license_civ_pilot`,1],[`license_civ_trucking`,1],[`license_civ_gun`,0],[`license_civ_gundealer`,0],[`license_civ_rifle`,0],[`license_civ_dive`,0],[`license_civ_home`,1],[`license_civ_business`,0],[`license_civ_oil`,1],[`license_civ_diamond`,1],[`license_civ_salt`,0],[`license_civ_sand`,1],[`license_civ_iron`,1],[`license_civ_copper`,1],[`license_civ_cement`,0],[`license_civ_medmarijuana`,0],[`license_civ_cocaine`,1],[`license_civ_heroin`,1],[`license_civ_marijuana`,1],[`license_civ_rebel`,1]]"', civ_gear='"[`TRYK_SUITS_BR_F`,``,`tf_anprc155`,``,``,[`ItemMap`,`ItemCompass`,`Itemwatch`,`tf_anprc148jem_4`,`ItemGPS`,`TRYK_Shemagh_shade_WH_N`,`Rangefinder`],``,`CSW_FN57`,[`FirstAidKit`],[],[`FirstAidKit`,`FirstAidKit`,`H_HeadBandage_stained_F`],[`CSW_20Rnd_57x28_SS190`,`CSW_20Rnd_57x28_SS190`,`CSW_20Rnd_57x28_SS190`,`CSW_20Rnd_57x28_SS190`,`CSW_20Rnd_57x28_SS190`,`CSW_20Rnd_57x28_SS190`,`CSW_20Rnd_57x28_SS190`,`CSW_20Rnd_57x28_SS190`,`CSW_20Rnd_57x28_SS190`,`CSW_20Rnd_57x28_SS190`,`CSW_20Rnd_57x28_SS190`,`CSW_20Rnd_57x28_SS190`,`CSW_20Rnd_57x28_SS190`],[],[],[``,``,``,``],[`CSW_FN57_silencer2`,`CSW_FN57_flashlight_normal_1`,``,``],[[`lockpick`,11],[`waterBottle`,3],[`tbacon`,2],[`toolkit`,1]]]"', arrested='0', civ_stats='"[65.6662,34.3922,0.00719531]"', civ_alive='1', civ_position='"[3686.07,3180.54,0.466943]"', playtime='"[3171,2346,8252]"' WHERE pid='76561198206026112'
+[03:56:05:286510 +01:00] [Thread 1816] extDB3: SQL: Error MariaDBQueryException: Data too long for column 'civ_stats' at row 1
+[03:56:05:286534 +01:00] [Thread 1816] extDB3: SQL: Error MariaDBQueryException: Input: UPDATE players SET name='Judge Whinehoe', cash='0', bankacc='23570240', civ_licenses='"[[`license_civ_driver`,1],[`license_civ_restrictedlicense`,0],[`license_civ_SurplusShop`,1],[`license_civ_repair`,1],[`license_civ_sport`,0],[`license_civ_bike`,1],[`license_civ_tow`,1],[`license_civ_boat`,1],[`license_civ_pilot`,1],[`license_civ_trucking`,1],[`license_civ_gun`,0],[`license_civ_gundealer`,0],[`license_civ_rifle`,0],[`license_civ_dive`,0],[`license_civ_home`,1],[`license_civ_business`,0],[`license_civ_oil`,1],[`license_civ_diamond`,1],[`license_civ_salt`,0],[`license_civ_sand`,1],[`license_civ_iron`,1],[`license_civ_copper`,1],[`license_civ_cement`,0],[`license_civ_medmarijuana`,0],[`license_civ_cocaine`,1],[`license_civ_heroin`,1],[`license_civ_marijuana`,1],[`license_civ_rebel`,1]]"', civ_gear='"[`TRYK_SUITS_BR_F`,``,`tf_anprc155`,``,``,[`ItemMap`,`ItemCompass`,`Itemwatch`,`tf_anprc148jem_4`,`ItemGPS`,`TRYK_Shemagh_shade_WH_N`,`Rangefinder`],``,`CSW_FN57`,[`FirstAidKit`],[],[`FirstAidKit`,`FirstAidKit`,`H_HeadBandage_stained_F`],[`CSW_20Rnd_57x28_SS190`,`CSW_20Rnd_57x28_SS190`,`CSW_20Rnd_57x28_SS190`,`CSW_20Rnd_57x28_SS190`,`CSW_20Rnd_57x28_SS190`,`CSW_20Rnd_57x28_SS190`,`CSW_20Rnd_57x28_SS190`,`CSW_20Rnd_57x28_SS190`,`CSW_20Rnd_57x28_SS190`,`CSW_20Rnd_57x28_SS190`,`CSW_20Rnd_57x28_SS190`,`CSW_20Rnd_57x28_SS190`,`CSW_20Rnd_57x28_SS190`],[],[],[``,``,``,``],[`CSW_FN57_silencer2`,`CSW_FN57_flashlight_normal_1`,``,``],[[`lockpick`,11],[`waterBottle`,3],[`tbacon`,2],[`toolkit`,1]]]"', arrested='0', civ_stats='"[65.6662,34.3922,0.00719531]"', civ_alive='1', civ_position='"[3686.07,3180.54,0.466943]"', playtime='"[3171,2346,8252]"' WHERE pid='76561198206026112'

@@ -1,0 +1,63 @@
+﻿ 8:36:32 BattlEye Server: Initialized (v1.217)
+ 8:36:32 Game Port: 2302, Steam Query Port: 2303
+ 8:36:33 Mission UrbanSky.kelleysisland read from bank.
+ 8:36:34 Host identity created.
+ 8:36:34 BattlEye Server: RCon admin #0 (127.0.0.1:52742) logged in
+ 8:36:34 Roles assigned.
+ 8:36:34 Reading mission ...
+ 8:37:32 BattlEye Server: RCon admin #1 (127.0.0.1:65484) logged in
+ 8:37:38 Mission read.
+ 8:37:38 Game started.
+ 8:37:42 Successfull attempt to execute serverCommand '#exec users' by server.
+ 8:39:24 luke uses modified data file
+ 8:39:24 BattlEye Server: Player #0 luke (47.135.166.94:2304) connected
+ 8:39:24 Player luke connecting.
+ 8:39:25 BattlEye Server: Connected to BE Master
+ 8:39:25 Radzig Kobyla uses modified data file
+ 8:39:25 BattlEye Server: Player #1 Radzig Kobyla (75.129.113.251:2304) connected
+ 8:39:25 Player Radzig Kobyla connecting.
+ 8:39:27 BattlEye Server: Player #0 luke - BE GUID: 1b3b942c0ee67b426e685870cfe6b312
+ 8:39:27 Player luke connected (id=76561198264871362).
+ 8:39:27 BattlEye Server: Verified GUID (1b3b942c0ee67b426e685870cfe6b312) of player #0 luke
+ 8:39:28 BattlEye Server: Player #1 Radzig Kobyla - BE GUID: 2171a69b0a8e7bb55eac768fb58f4833
+ 8:39:28 Player Radzig Kobyla connected (id=76561198089960350).
+ 8:39:28 BattlEye Server: Verified GUID (2171a69b0a8e7bb55eac768fb58f4833) of player #1 Radzig Kobyla
+ 8:39:41 Nino Marino uses modified data file
+ 8:39:41 BattlEye Server: Player #2 Nino Marino (71.214.112.161:2304) connected
+ 8:39:41 Player Nino Marino connecting.
+ 8:39:44 BattlEye Server: Player #2 Nino Marino - BE GUID: f39290998763ee67898235ee2ea502e7
+ 8:39:44 Player Nino Marino connected (id=76561198206026112).
+ 8:39:44 BattlEye Server: Verified GUID (f39290998763ee67898235ee2ea502e7) of player #2 Nino Marino
+ 8:41:00 Stanley Thompson [1K-75] uses modified data file
+ 8:41:00 BattlEye Server: Player #3 Stanley Thompson [1K-75] (76.6.147.168:2304) connected
+ 8:41:00 Player Stanley Thompson [1K-75] connecting.
+ 8:41:03 BattlEye Server: Player #3 Stanley Thompson [1K-75] - BE GUID: 1a817c92339e6b8e805de60b179df342
+ 8:41:03 Player Stanley Thompson [1K-75] connected (id=76561198180893505).
+ 8:41:03 BattlEye Server: Verified GUID (1a817c92339e6b8e805de60b179df342) of player #3 Stanley Thompson [1K-75]
+ 8:52:13 Player Nino Marino disconnected.
+ 8:52:13 BattlEye Server: Player #2 Nino Marino disconnected
+ 8:55:02 Nino Marino uses modified data file
+ 8:55:02 BattlEye Server: Player #4 Nino Marino (71.214.112.161:2304) connected
+ 8:55:02 Player Nino Marino connecting.
+ 8:55:08 BattlEye Server: Player #4 Nino Marino - BE GUID: f39290998763ee67898235ee2ea502e7
+ 8:55:08 Player Nino Marino connected (id=76561198206026112).
+ 8:55:08 BattlEye Server: Verified GUID (f39290998763ee67898235ee2ea502e7) of player #4 Nino Marino
+ 9:01:34 Player luke disconnected.
+ 9:01:34 BattlEye Server: Player #0 luke disconnected
+ 9:16:57 Player Stanley Thompson [1K-75] is losing connection
+ 9:17:02 Player Stanley Thompson [1K-75] disconnected.
+ 9:17:02 BattlEye Server: Player #3 Stanley Thompson [1K-75] disconnected
+ 9:17:43 Stanley Thompson [1K-75] uses modified data file
+ 9:17:43 BattlEye Server: Player #5 Stanley Thompson [1K-75] (76.6.147.168:2304) connected
+ 9:17:43 Player Stanley Thompson [1K-75] connecting.
+ 9:17:46 BattlEye Server: Player #5 Stanley Thompson [1K-75] - BE GUID: 1a817c92339e6b8e805de60b179df342
+ 9:17:46 Player Stanley Thompson [1K-75] connected (id=76561198180893505).
+ 9:17:46 BattlEye Server: Verified GUID (1a817c92339e6b8e805de60b179df342) of player #5 Stanley Thompson [1K-75]
+ 9:17:57 Player Stanley Thompson [1K-75] disconnected.
+ 9:17:57 BattlEye Server: Player #5 Stanley Thompson [1K-75] disconnected
+ 9:19:08 John Anderson uses modified data file
+ 9:19:08 BattlEye Server: Player #5 John Anderson (76.6.147.168:2304) connected
+ 9:19:08 Player John Anderson connecting.
+ 9:19:11 BattlEye Server: Player #5 John Anderson - BE GUID: 1a817c92339e6b8e805de60b179df342
+ 9:19:12 Player John Anderson connected (id=76561198180893505).
+ 9:19:12 BattlEye Server: Verified GUID (1a817c92339e6b8e805de60b179df3

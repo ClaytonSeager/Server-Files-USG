@@ -1,0 +1,126 @@
+﻿ 9:50:19 BattlEye Server: Initialized (v1.217)
+ 9:50:19 Game Port: 2302, Steam Query Port: 2303
+ 9:50:20 Mission UrbanSky.kelleysisland read from bank.
+ 9:50:22 Host identity created.
+ 9:50:22 BattlEye Server: RCon admin #0 (127.0.0.1:52379) logged in
+ 9:50:23 Roles assigned.
+ 9:50:23 Reading mission ...
+ 9:51:13 BattlEye Server: RCon admin #1 (127.0.0.1:61325) logged in
+ 9:51:25 Mission read.
+ 9:51:25 Game started.
+ 9:51:29 Successfull attempt to execute serverCommand '#exec users' by server.
+10:20:49 BattlEye Server: RCon admin #0 (127.0.0.1:64063) logged in
+11:33:54 BattlEye Server: RCon admin #1 (127.0.0.1:59179) logged in
+11:37:49 BattlEye Server: RCon admin #0 (127.0.0.1:65193) logged in
+12:25:50 BattlEye Server: RCon admin #1 (127.0.0.1:59801) logged in
+13:52:55 BattlEye Server: RCon admin #0 (127.0.0.1:51495) logged in
+14:15:26 BattlEye Server: RCon admin #1 (127.0.0.1:51546) logged in
+15:13:26 BattlEye Server: RCon admin #0 (127.0.0.1:52652) logged in
+16:19:57 BattlEye Server: RCon admin #1 (127.0.0.1:64684) logged in
+17:11:22 BattlEye Server: RCon admin #0 (127.0.0.1:59458) logged in
+17:20:27 BattlEye Server: RCon admin #1 (127.0.0.1:61969) logged in
+17:38:07 BattlEye Server: RCon admin #0 (127.0.0.1:52669) logged in
+17:59:08 BattlEye Server: RCon admin #1 (127.0.0.1:50743) logged in
+18:08:08 BattlEye Server: RCon admin #0 (127.0.0.1:65153) logged in
+18:12:03 BattlEye Server: RCon admin #1 (127.0.0.1:53476) logged in
+18:14:18 BattlEye Server: RCon admin #0 (127.0.0.1:50700) logged in
+18:14:19 S.Kingston uses modified data file
+18:14:19 BattlEye Server: Player #0 S.Kingston (82.43.214.42:2304) connected
+18:14:19 Player S.Kingston connecting.
+18:14:19 BattlEye Server: Connected to BE Master
+18:14:23 BattlEye Server: Player #0 S.Kingston - BE GUID: 25be6e9ae307bb439755ea968f9d36d8
+18:15:03 Player S.Kingston connected (id=76561198046640450).
+18:15:03 BattlEye Server: Verified GUID (25be6e9ae307bb439755ea968f9d36d8) of player #0 S.Kingston
+18:42:18 BattlEye Server: RCon admin #1 (127.0.0.1:58452) logged in
+19:09:31 Player S.Kingston kicked off by BattlEye: Client not responding
+19:09:31 Player S.Kingston disconnected.
+19:10:01 BattlEye Server: RCon admin #0 (127.0.0.1:58583) logged in
+19:17:12 S.Kingston uses modified data file
+19:17:12 BattlEye Server: Player #0 S.Kingston (82.43.214.42:2304) connected
+19:17:12 Player S.Kingston connecting.
+19:17:16 BattlEye Server: Player #0 S.Kingston - BE GUID: 25be6e9ae307bb439755ea968f9d36d8
+19:17:19 Player S.Kingston connected (id=76561198046640450).
+19:17:19 BattlEye Server: Verified GUID (25be6e9ae307bb439755ea968f9d36d8) of player #0 S.Kingston
+19:42:14 Player S.Kingston disconnected.
+19:42:14 BattlEye Server: Player #0 S.Kingston disconnected
+20:08:59 George Clean uses modified data file
+20:08:59 BattlEye Server: Player #0 George Clean (94.210.196.7:2304) connected
+20:08:59 Player George Clean connecting.
+20:09:02 BattlEye Server: Player #0 George Clean - BE GUID: 769907aeca4ee1e808ba7f4ee3b0c69f
+20:09:02 Player George Clean connected (id=76561198130285673).
+20:09:02 BattlEye Server: Verified GUID (769907aeca4ee1e808ba7f4ee3b0c69f) of player #0 George Clean
+20:11:09 deadrider41 uses modified data file
+20:11:09 BattlEye Server: Player #1 deadrider41 (83.82.246.124:2304) connected
+20:11:09 Player deadrider41 connecting.
+20:11:12 BattlEye Server: Player #1 deadrider41 - BE GUID: 9189ea3f609973a35e5aed7ba13c4e05
+20:11:12 Player deadrider41 connected (id=76561198172486071).
+20:11:12 BattlEye Server: Verified GUID (9189ea3f609973a35e5aed7ba13c4e05) of player #1 deadrider41
+20:21:12 Wyclef uses modified data file
+20:21:12 BattlEye Server: Player #2 Wyclef (184.54.255.68:2304) connected
+20:21:12 Player Wyclef connecting.
+20:21:15 BattlEye Server: Player #2 Wyclef - BE GUID: f0371387b7fca9ed93f6370adce2e67e
+20:21:15 Player Wyclef connected (id=76561198038112694).
+20:21:15 BattlEye Server: Verified GUID (f0371387b7fca9ed93f6370adce2e67e) of player #2 Wyclef
+20:21:19 Player Wyclef disconnected.
+20:21:19 BattlEye Server: Player #2 Wyclef disconnected
+21:01:22 BattlEye Server: RCon20:58:54 BattlEye Server: Initialized (v1.217)
+20:58:54 Game Port: 2302, Steam Query Port: 2303
+20:58:54 Warning: Current Steam AppId:  doesn't match expected value: 107410
+20:58:54 Mission UrbanSky.kelleysisland read from bank.
+20:58:57 Host identity created.
+20:58:57 BattlEye Server: RCon admin #0 (127.0.0.1:63554) logged in
+20:58:57 Roles assigned.
+20:58:57 Reading mission ...
+20:59:52 BattlEye Server: RCon admin #1 (127.0.0.1:60368) logged in
+20:59:58 Mission read.
+20:59:59 Game started.
+21:00:02 Successfull attempt to execute serverCommand '#exec users' by server.
+21:33:03 BattlEye Server: RCon admin #0 (127.0.0.1:59192) logged in
+22:03:43 Stanley Thompson [1K-75] uses modified data file
+22:03:43 BattlEye Server: Player #0 Stanley Thompson [1K-75] (174.193.10.238:53714) connected
+22:03:43 Player Stanley Thompson [1K-75] connecting.
+22:03:43 BattlEye Server: Connected to BE Master
+22:03:47 BattlEye Server: Player #0 Stanley Thompson [1K-75] - BE GUID: 1a817c92339e6b8e805de60b179df342
+22:03:47 Player Stanley Thompson [1K-75] connected (id=76561198180893505).
+22:03:47 BattlEye Server: Verified GUID (1a817c92339e6b8e805de60b179df342) of player #0 Stanley Thompson [1K-75]
+22:03:52 Player Stanley Thompson [1K-75] disconnected.
+22:03:52 BattlEye Server: Player #0 Stanley Thompson [1K-75] disconnected
+22:07:04 Stanley Thompson [1K-75] uses modified data file
+22:07:04 BattlEye Server: Player #0 Stanley Thompson [1K-75] (174.193.10.238:53726) connected
+22:07:04 Player Stanley Thompson [1K-75] connecting.
+22:07:07 BattlEye Server: Player #0 Stanley Thompson [1K-75] - BE GUID: 1a817c92339e6b8e805de60b179df342
+22:07:08 Player Stanley Thompson [1K-75] connected (id=76561198180893505).
+22:07:08 BattlEye Server: Verified GUID (1a817c92339e6b8e805de60b179df342) of player #0 Stanley Thompson [1K-75]
+22:09:11 Player Stanley Thompson [1K-75] disconnected.
+22:09:11 BattlEye Server: Player #0 Stanley Thompson [1K-75] disconnected
+22:19:08 Stanley Thompson [1K-75] uses modified data file
+22:19:08 BattlEye Server: Player #0 Stanley Thompson [1K-75] (76.6.151.180:2304) connected
+22:19:08 Player Stanley Thompson [1K-75] connecting.
+22:19:11 BattlEye Server: Player #0 Stanley Thompson [1K-75] - BE GUID: 1a817c92339e6b8e805de60b179df342
+22:19:11 Player Stanley Thompson [1K-75] connected (id=76561198180893505).
+22:19:11 BattlEye Server: Verified GUID (1a817c92339e6b8e805de60b179df342) of player #0 Stanley Thompson [1K-75]
+22:36:32 Player Stanley Thompson [1K-75] disconnected.
+22:36:32 BattlEye Server: Player #0 Stanley Thompson [1K-75] disconnected
+22:36:51 John Anderson uses modified data file
+22:36:51 BattlEye Server: Player #0 John Anderson (76.6.151.180:2304) connected
+22:36:51 Player John Anderson connecting.
+22:36:54 BattlEye Server: Player #0 John Anderson - BE GUID: 1a817c92339e6b8e805de60b179df342
+22:36:54 Player John Anderson connected (id=76561198180893505).
+22:36:54 BattlEye Server: Verified GUID (1a817c92339e6b8e805de60b179df342) of player #0 John Anderson
+23:02:51 Low_Poly_Man uses modified data file
+23:02:51 BattlEye Server: Player #1 Low_Poly_Man (74.128.80.15:2304) connected
+23:02:51 Player Low_Poly_Man connecting.
+23:02:55 BattlEye Server: Player #1 Low_Poly_Man - BE GUID: d250b62ef6125275e039c9badd884760
+23:02:59 Player Low_Poly_Man connected (id=76561198137223112).
+23:02:59 BattlEye Server: Verified GUID (d250b62ef6125275e039c9badd884760) of player #1 Low_Poly_Man
+23:13:34 BattlEye Server: RCon admin #1 (127.0.0.1:54852) logged in
+23:22:39 BattlEye Server: RCon admin #0 (127.0.0.1:52978) logged in
+23:30:22 Player Low_Poly_Man disconnected.
+23:30:22 BattlEye Server: Player #1 Low_Poly_Man disconnected
+23:43:47 Donnie Turbo uses modified data file
+23:43:47 BattlEye Server: Player #1 Donnie Turbo (192.81.45.131:2304) connected
+23:43:47 Player Donnie Turbo connecting.
+23:43:51 BattlEye Server: Player #1 Donnie Turbo - BE GUID: a0a46137167d70778acc68329618c7e6
+23:43:51 Player Donnie Turbo connected (id=76561198041233395).
+23:43:51 BattlEye Server: Verified GUID (a0a46137167d70778acc68329618c7e6) of player #1 Donnie Turbo
+23:45:00

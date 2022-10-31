@@ -1,0 +1,32 @@
+﻿ 6:15:59 BattlEye Server: Initialized (v1.217)
+ 6:15:59 Game Port: 2302, Steam Query Port: 2303
+ 6:16:00 Mission UrbanSky.kelleysisland read from bank.
+ 6:16:02 Host identity created.
+ 6:16:02 BattlEye Server: RCon admin #0 (127.0.0.1:52086) logged in
+ 6:16:02 Roles assigned.
+ 6:16:02 Reading mission ...
+ 6:16:58 BattlEye Server: RCon admin #1 (127.0.0.1:53211) logged in
+ 6:17:04 Mission read.
+ 6:17:04 Game started.
+ 6:17:07 HoyoBani uses modified data file
+ 6:17:07 BattlEye Server: Player #0 HoyoBani (162.213.242.232:2304) connected
+ 6:17:07 Player HoyoBani connecting.
+ 6:17:08 BattlEye Server: Connected to BE Master
+ 6:17:08 Successfull attempt to execute serverCommand '#exec users' by server.
+ 6:17:11 BattlEye Server: Player #0 HoyoBani - BE GUID: baeaf37751c8cb5ba1e1a73c33957203
+ 6:17:11 Player HoyoBani connected (id=76561198105940600).
+ 6:17:11 BattlEye Server: Verified GUID (baeaf37751c8cb5ba1e1a73c33957203) of player #0 HoyoBani
+ 6:18:25 Sherman uses modified data file
+ 6:18:25 BattlEye Server: Player #1 Sherman (184.54.255.68:2304) connected
+ 6:18:25 Player Sherman connecting.
+ 6:18:27 BattlEye Server: Player #1 Sherman - BE GUID: f0371387b7fca9ed93f6370adce2e67e
+ 6:18:27 Player Sherman connected (id=76561198038112694).
+ 6:18:28 BattlEye Server: Verified GUID (f0371387b7fca9ed93f6370adce2e67e) of player #1 Sherman
+ 6:20:28 Player Sherman disconnected.
+ 6:20:28 BattlEye Server: Player #1 Sherman disconnected
+ 6:21:44 Nino Marino uses modified data file
+ 6:21:44 BattlEye Server: Player #1 Nino Marino (71.214.112.161:2304) connected
+ 6:21:44 Player Nino Marino connecting.
+ 6:21:48 BattlEye Server: Player #1 Nino Marino - BE GUID: f39290998763ee67898235ee2ea502e7
+ 6:21:49 Player Nino Marino connected (id=76561198206026112).
+ 6:21:49 BattlEye Server: Verified GUID (f39290998763ee67898235ee2ea502e7) of player #1 Nino Marino

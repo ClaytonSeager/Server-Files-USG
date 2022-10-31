@@ -1,0 +1,66 @@
+﻿21:07:04 BattlEye Server: Initialized (v1.217)
+21:07:04 Game Port: 2302, Steam Query Port: 2303
+21:07:04 Mission UrbanSky.kelleysisland read from bank.
+21:07:05 Host identity created.
+21:07:05 Roles assigned.
+21:07:05 Reading mission ...
+21:07:08 BattlEye Server: RCon admin #0 (127.0.0.1:51908) logged in
+21:07:59 BattlEye Server: RCon admin #1 (127.0.0.1:55702) logged in
+21:08:04 Mission read.
+21:08:04 Game started.
+21:08:08 Successfull attempt to execute serverCommand '#exec users' by server.
+21:09:34 Robert Kennedy uses modified data file
+21:09:34 BattlEye Server: Player #0 Robert Kennedy (76.120.21.218:2304) connected
+21:09:35 Player Robert Kennedy connecting.
+21:09:35 BattlEye Server: Connected to BE Master
+21:09:38 BattlEye Server: Player #0 Robert Kennedy - BE GUID: ee82c3729d5372257d58141db06c50ca
+21:09:38 Player Robert Kennedy connected (id=76561198083728776).
+21:09:38 BattlEye Server: Verified GUID (ee82c3729d5372257d58141db06c50ca) of player #0 Robert Kennedy
+21:10:11 Wyclef uses modified data file
+21:10:11 BattlEye Server: Player #1 Wyclef (184.54.255.68:2304) connected
+21:10:11 Player Wyclef connecting.
+21:10:14 BattlEye Server: Player #1 Wyclef - BE GUID: f0371387b7fca9ed93f6370adce2e67e
+21:10:14 Player Wyclef connected (id=76561198038112694).
+21:10:14 BattlEye Server: Verified GUID (f0371387b7fca9ed93f6370adce2e67e) of player #1 Wyclef
+21:12:45 George Clean uses modified data file
+21:12:45 BattlEye Server: Player #2 George Clean (94.210.196.7:2304) connected
+21:12:45 Player George Clean connecting.
+21:12:48 BattlEye Server: Player #2 George Clean - BE GUID: 769907aeca4ee1e808ba7f4ee3b0c69f
+21:12:48 Player George Clean connected (id=76561198130285673).
+21:12:48 BattlEye Server: Verified GUID (769907aeca4ee1e808ba7f4ee3b0c69f) of player #2 George Clean
+21:12:57 Player Wyclef disconnected.
+21:12:57 BattlEye Server: Player #1 Wyclef disconnected
+21:13:14 Player Robert Kennedy disconnected.
+21:13:14 BattlEye Server: Player #0 Robert Kennedy disconnected
+21:13:53 Thomas Woods uses modified data file
+21:13:53 BattlEye Server: Player #3 Thomas Woods (213.233.148.10:2304) connected
+21:13:53 Player Thomas Woods connecting.
+21:13:56 BattlEye Server: Player #3 Thomas Woods - BE GUID: 5056701f98ec95c72a3a45ef7e890f7c
+21:13:56 Player Thomas Woods connected (id=76561198174871239).
+21:13:56 BattlEye Server: Verified GUID (5056701f98ec95c72a3a45ef7e890f7c) of player #3 Thomas Woods
+21:13:58 Player George Clean disconnected.
+21:13:58 BattlEye Server: Player #2 George Clean disconnected
+21:14:51 Robert Kennedy uses modified data file
+21:14:51 BattlEye Server: Player #4 Robert Kennedy (76.120.21.218:2304) connected
+21:14:51 Player Robert Kennedy connecting.
+21:14:54 Nino Marino uses modified data file
+21:14:54 BattlEye Server: Player #4 Robert Kennedy - BE GUID: ee82c3729d5372257d58141db06c50ca
+21:14:54 BattlEye Server: Player #5 Nino Marino (71.214.112.161:2304) connected
+21:14:54 Player Nino Marino connecting.
+21:14:54 Player Robert Kennedy connected (id=76561198083728776).
+21:14:54 BattlEye Server: Verified GUID (ee82c3729d5372257d58141db06c50ca) of player #4 Robert Kennedy
+21:14:57 BattlEye Server: Player #5 Nino Marino - BE GUID: f39290998763ee67898235ee2ea502e7
+21:14:57 Player Nino Marino connected (id=76561198206026112).
+21:14:57 BattlEye Server: Verified GUID (f39290998763ee67898235ee2ea502e7) of player #5 Nino Marino
+21:16:35 Player Nino Marino disconnected.
+21:16:35 BattlEye Server: Player #5 Nino Marino disconnected
+21:16:46 George Clean uses modified data file
+21:16:46 BattlEye Server: Player #5 George Clean (94.210.196.7:2304) connected
+21:16:46 Player George Clean connecting.
+21:16:49 BattlEye Server: Player #5 George Clean - BE GUID: 769907aeca4ee1e808ba7f4ee3b0c69f
+21:16:50 Player George Clean connected (id=76561198130285673).
+21:16:50 BattlEye Server: Verified GUID (769907aeca4ee1e808ba7f4ee3b0c69f) of player #5 George Clean
+21:17:02 Player Robert Kennedy disconnected.
+21:17:02 BattlEye Server: Player #4 Robert Kennedy disconnected
+21:17:43 Player Thomas Woods disconnected.
+21:17:43 BattlEye Server: Player 

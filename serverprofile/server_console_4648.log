@@ -1,0 +1,126 @@
+﻿ 0:00:48 BattlEye Server: Initialized (v1.217)
+ 0:00:48 Game Port: 2302, Steam Query Port: 2303
+ 0:00:48 Warning: Current Steam AppId:  doesn't match expected value: 107410
+ 0:00:48 Mission UrbanSky.kelleysisland read from bank.
+ 0:00:51 Host identity created.
+ 0:00:51 BattlEye Server: RCon admin #0 (127.0.0.1:54222) logged in
+ 0:00:51 Roles assigned.
+ 0:00:51 Reading mission ...
+ 0:01:46 BattlEye Server: RCon admin #1 (127.0.0.1:62102) logged in
+ 0:01:52 Mission read.
+ 0:01:53 Game started.
+ 0:01:56 Successfull attempt to execute serverCommand '#exec users' by server.
+ 0:03:05 Donnie Turbo uses modified data file
+ 0:03:05 BattlEye Server: Player #0 Donnie Turbo (192.81.45.131:2304) connected
+ 0:03:05 Player Donnie Turbo connecting.
+ 0:03:06 BattlEye Server: Connected to BE Master
+ 0:03:18 Player Donnie Turbo disconnected.
+ 0:03:18 BattlEye Server: Player #0 Donnie Turbo disconnected
+ 0:03:39 AL "BIG AL" GAMBINO uses modified data file
+ 0:03:39 BattlEye Server: Player #0 AL "BIG AL" GAMBINO (74.193.135.12:2304) connected
+ 0:03:39 Player AL "BIG AL" GAMBINO connecting.
+ 0:03:42 BattlEye Server: Player #0 AL "BIG AL" GAMBINO - BE GUID: 7df6da575da348d57bcde5b09ebf536a
+ 0:03:43 Player AL "BIG AL" GAMBINO connected (id=76561198361509989).
+ 0:03:43 BattlEye Server: Verified GUID (7df6da575da348d57bcde5b09ebf536a) of player #0 AL "BIG AL" GAMBINO
+ 0:06:11 Donnie Turbo uses modified data file
+ 0:06:11 BattlEye Server: Player #1 Donnie Turbo (192.81.45.131:2304) connected
+ 0:06:11 Player Donnie Turbo connecting.
+ 0:06:14 BattlEye Server: Player #1 Donnie Turbo - BE GUID: a0a46137167d70778acc68329618c7e6
+ 0:06:14 Player Donnie Turbo connected (id=76561198041233395).
+ 0:06:14 BattlEye Server: Verified GUID (a0a46137167d70778acc68329618c7e6) of player #1 Donnie Turbo
+ 0:14:16 BattlEye Server: RCon admin #0 (127.0.0.1:64896) logged in
+ 0:18:42 Sternn uses modified data file
+ 0:18:42 BattlEye Server: Player #2 Sternn (208.66.176.2:46387) connected
+ 0:18:42 Player Sternn connecting.
+ 0:18:45 BattlEye Server: Player #2 Sternn - BE GUID: 8e76cad1f690cd7f1970f170669bf25b
+ 0:18:45 Player Sternn connected (id=76561198087299936).
+ 0:18:45 BattlEye Server: Verified GUID (8e76cad1f690cd7f1970f170669bf25b) of player #2 Sternn
+ 0:21:17 BattlEye Server: (Group) Sternn: Freq?
+ 0:23:17 BattlEye Server: RCon admin #1 (127.0.0.1:57214) logged in
+ 0:25:32 BattlEye Server: RCon admin #0 (127.0.0.1:54861) logged in
+ 0:34:38 Jbo Marino[201] uses modified data file
+ 0:34:38 BattlEye Server: Player #3 Jbo Marino[201] (71.214.112.161:2304) connected
+ 0:34:38 Player Jbo Marino[201] connecting.
+ 0:34:42 BattlEye Server: Player #3 Jbo Marino[201] - BE GUID: f39290998763ee67898235ee2ea502e7
+ 0:34:42 Player Jbo Marino[201] connected (id=76561198206026112).
+ 0:34:42 BattlEye Server: Verified GUID (f39290998763ee67898235ee2ea502e7) of player #3 Jbo Marino[201]
+ 0:35:22 luke uses modified data file
+ 0:35:22 BattlEye Server: Player #4 luke (47.135.166.94:2304) connected
+ 0:35:22 Player luke connecting.
+ 0:35:25 BattlEye Server: Player #4 luke - BE GUID: 1b3b942c0ee67b426e685870cfe6b312
+ 0:35:25 Player luke connected (id=76561198264871362).
+ 0:35:25 BattlEye Server: Verified GUID (1b3b942c0ee67b426e685870cfe6b312) of player #4 luke
+ 0:35:49 BattlEye Server: (Unknown) Sternn: thats your cut
+ 0:35:52 BattlEye Server: (Unknown) Sternn: from the run
+ 0:36:04 BattlEye Server: (Unknown) AL "BIG AL" GAMBINO: im good preciate it
+ 0:36:09 BattlEye Server: (Unknown) Sternn: u sure
+ 0:36:16 BattlEye Server: (Unknown) Sternn: im a man of my word
+ 0:36:40 BattlEye Server: (Unknown) AL "BIG AL" GAMBINO: hell yea stop sendig that shit it cost money to wire money lol
+ 0:36:50 BattlEye Server: (Unknown) Sternn: aight my b
+ 0:36:54 BattlEye Server: (Unknown) Sternn: check yo ts
+ 0:37:03 BattlEye Server: (Unknown) AL "BIG AL" GAMBINO: aite
+ 0:49:12 Stanley Thompson [1K-75] uses modified data file
+ 0:49:12 BattlEye Server: Player #5 Stanley Thompson [1K-75] (76.6.151.180:2304) connected
+ 0:49:12 Player Stanley Thompson [1K-75] connecting.
+ 0:49:15 BattlEye Server: Player #5 Stanley Thompson [1K-75] - BE GUID: 1a817c92339e6b8e805de60b179df342
+ 0:49:16 Player Stanley Thompson [1K-75] connected (id=76561198180893505).
+ 0:49:16 BattlEye Server: Verified GUID (1a817c92339e6b8e805de60b179df342) of player #5 Stanley Thompson [1K-75]
+ 0:49:50 Player Stanley Thompson [1K-75] disconnected.
+ 0:49:50 BattlEye Server: Player #5 Stanley Thompson [1K-75] disconnected
+ 0:50:23 John Anderson uses modified data file
+ 0:50:23 BattlEye Server: Player #5 John Anderson (76.6.151.180:2304) connected
+ 0:50:23 Player John Anderson connecting.
+ 0:50:27 BattlEye Server: Player #5 John Anderson - BE GUID: 1a817c92339e6b8e805de60b179df342
+ 0:50:27 Player John Anderson connected (id=76561198180893505).
+ 0:50:27 BattlEye Server: Verified GUID (1a817c92339e6b8e805de60b179df342) of player #5 John Anderson
+ 0:59:21 BattlEye Server: (Unknown) Sternn: aye nino
+ 0:59:52 BattlEye Server: (Unknown) Sternn: oop i mean donnie
+ 1:00:14 BattlEye Server: (Unknown) Sternn: tryna buy a motorcycle
+ 1:00:37 BattlEye Server: (Group) Donnie Turbo: ,.//./'
+ 1:16:22 trump 2020 uses modified data file
+ 1:16:22 BattlEye Server: Player #6 trump 2020 (104.246.50.0:2304) connected
+ 1:16:22 Player trump 2020 connecting.
+ 1:16:25 BattlEye Server: Player #6 trump 2020 - BE GUID: 8d20acfb60781d0e688c014905e93921
+ 1:16:26 Player trump 2020 connected (id=76561198799237161).
+ 1:16:26 BattlEye Server: Verified GUID (8d20acfb60781d0e688c014905e93921) of player #6 trump 2020
+ 1:16:28 Player trump 2020 disconnected.
+ 1:16:28 BattlEye Server: Player #6 trump 2020 disconnected
+ 1:17:44 Player AL "BIG AL" GAMBINO disconnected.
+ 1:17:44 BattlEye Server: Player #0 AL "BIG AL" GAMBINO disconnected
+ 1:18:47 BattlEye Server: RCon admin #1 (127.0.0.1:55091) logged in
+ 1:28:38 Low_Poly_Man uses modified data file
+ 1:28:38 BattlEye Server: Player #6 Low_Poly_Man (74.128.80.15:2304) connected
+ 1:28:38 Player Low_Poly_Man connecting.
+ 1:28:42 BattlEye Server: Player #6 Low_Poly_Man - BE GUID: d250b62ef6125275e039c9badd884760
+ 1:28:57 Player Low_Poly_Man connected (id=76561198137223112).
+ 1:28:57 BattlEye Server: Verified GUID (d250b62ef6125275e039c9badd884760) of player #6 Low_Poly_Man
+ 1:36:15 wardr uses modified data file
+ 1:36:15 BattlEye Server: Player #7 wardr (76.224.152.228:2304) connected
+ 1:36:15 Player wardr connecting.
+ 1:36:18 BattlEye Server: Player #7 wardr - BE GUID: 5a4f8f8720c509c447fcb38f2da8bead
+ 1:36:18 Player wardr connected (id=76561198203434375).
+ 1:36:18 BattlEye Server: Verified GUID (5a4f8f8720c509c447fcb38f2da8bead) of player #7 wardr
+ 1:36:31 Player wardr disconnected.
+ 1:36:31 BattlEye Server: Player #7 wardr disconnected
+ 1:39:27 BattlEye Server: (Unknown) Low_Poly_Man: where can i see the new cars?
+ 1:52:04 Player luke is losing connection
+ 1:52:09 Player luke disconnected.
+ 1:52:10 BattlEye Server: Player #4 luke disconnected
+ 1:55:50 Player Sternn disconnected.
+ 1:55:50 BattlEye Server: Player #2 Sternn disconnected
+ 2:04:09 BattlEye Server: (Unknown) Low_Poly_Man: this challenger gone to the be only thing you going to drive when it added
+ 2:04:36 BattlEye Server: (Unknown) Low_Poly_Man: it will the only thing you see ME drive when it is added
+ 2:11:57 BattlEye Server: RCon admin #0 (127.0.0.1:58616) logged in
+ 2:26:22 luke uses modified data file
+ 2:26:22 BattlEye Server: Player #7 luke (47.135.166.94:2304) connected
+ 2:26:22 Player luke connecting.
+ 2:26:25 BattlEye Server: Player #7 luke - BE GUID: 1b3b942c0ee67b426e685870cfe6b312
+ 2:26:25 Player luke connected (id=76561198264871362).
+ 2:26:25 BattlEye Server: Verified GUID (1b3b942c0ee67b426e685870cfe6b312) of player #7 luke
+ 2:29:59 BattlEye Server: (Unknown) Low_Poly_Man: wtf was that
+ 2:33:29 Amado Carrillo fuentes uses modified data file
+ 2:33:29 BattlEye Server: Player #8 Amado Carrillo fuentes (131.106.234.177:2304) connected
+ 2:33:29 Player Amado Carrillo fuentes connecting.
+ 2:33:34 BattlEye Server: Player #8 Amado Carrillo fuentes - BE GUID: 1de046185bbd5f8815bc88cfd7c332c2
+ 2:33:35 Player Amado Carrillo fuentes connected (id=76561198354844800).
+ 2:33:35 BattlEye Server: Verified GU

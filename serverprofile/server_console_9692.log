@@ -1,0 +1,66 @@
+﻿22:36:26 BattlEye Server: Initialized (v1.217)
+22:36:26 Game Port: 2302, Steam Query Port: 2303
+22:36:26 Mission UrbanSky.kelleysisland read from bank.
+22:36:27 Host identity created.
+22:36:27 Roles assigned.
+22:36:27 Reading mission ...
+22:36:30 BattlEye Server: RCon admin #0 (127.0.0.1:56742) logged in
+22:37:20 BattlEye Server: RCon admin #1 (127.0.0.1:49531) logged in
+22:37:24 Mission read.
+22:37:24 Game started.
+22:37:28 Successfull attempt to execute serverCommand '#exec users' by server.
+22:37:30 Wyclef uses modified data file
+22:37:30 BattlEye Server: Player #0 Wyclef (184.54.255.68:2304) connected
+22:37:31 Player Wyclef connecting.
+22:37:31 BattlEye Server: Connected to BE Master
+22:37:33 BattlEye Server: Player #0 Wyclef - BE GUID: f0371387b7fca9ed93f6370adce2e67e
+22:37:33 Player Wyclef connected (id=76561198038112694).
+22:37:33 BattlEye Server: Verified GUID (f0371387b7fca9ed93f6370adce2e67e) of player #0 Wyclef
+22:38:05 Eriden Parker uses modified data file
+22:38:05 BattlEye Server: Player #1 Eriden Parker (35.132.243.235:2304) connected
+22:38:05 Player Eriden Parker connecting.
+22:38:08 BattlEye Server: Player #1 Eriden Parker - BE GUID: 8418b0eac1f3f16c4efae0332fd91637
+22:38:08 Player Eriden Parker connected (id=76561198054085448).
+22:38:08 BattlEye Server: Verified GUID (8418b0eac1f3f16c4efae0332fd91637) of player #1 Eriden Parker
+22:38:40 Rick Cheney uses modified data file
+22:38:40 BattlEye Server: Player #2 Rick Cheney (206.255.128.79:2304) connected
+22:38:40 Player Rick Cheney connecting.
+22:38:47 BattlEye Server: Player #2 Rick Cheney - BE GUID: df1f5160cd5d424cdfa5e623564a5824
+22:38:47 Player Rick Cheney connected (id=76561198860031547).
+22:38:47 BattlEye Server: Verified GUID (df1f5160cd5d424cdfa5e623564a5824) of player #2 Rick Cheney
+22:43:18 Kermit uses modified data file
+22:43:18 BattlEye Server: Player #3 Kermit (75.58.49.192:2304) connected
+22:43:18 Player Kermit connecting.
+22:43:21 BattlEye Server: Player #3 Kermit - BE GUID: bd4578e615422cb0ed98810eedfeb668
+22:43:21 Player Kermit connected (id=76561198043298972).
+22:43:21 BattlEye Server: Verified GUID (bd4578e615422cb0ed98810eedfeb668) of player #3 Kermit
+22:43:55 Player Wyclef disconnected.
+22:43:55 BattlEye Server: Player #0 Wyclef disconnected
+22:44:33 [1K-33] R. Tjay uses modified data file
+22:44:33 BattlEye Server: Player #4 [1K-33] R. Tjay (99.232.144.252:2304) connected
+22:44:33 Player [1K-33] R. Tjay connecting.
+22:44:36 BattlEye Server: Player #4 [1K-33] R. Tjay - BE GUID: 1775b6bbb9f6757ed1e4f0f7592af3e5
+22:44:36 Player [1K-33] R. Tjay connected (id=76561198883479728).
+22:44:36 BattlEye Server: Verified GUID (1775b6bbb9f6757ed1e4f0f7592af3e5) of player #4 [1K-33] R. Tjay
+22:46:50 Thomas Woods uses modified data file
+22:46:50 BattlEye Server: Player #5 Thomas Woods (213.233.155.138:2304) connected
+22:46:50 Player Thomas Woods connecting.
+22:46:53 BattlEye Server: Player #5 Thomas Woods - BE GUID: 5056701f98ec95c72a3a45ef7e890f7c
+22:46:53 Player Thomas Woods connected (id=76561198174871239).
+22:46:53 BattlEye Server: Verified GUID (5056701f98ec95c72a3a45ef7e890f7c) of player #5 Thomas Woods
+22:48:16 Player Thomas Woods disconnected.
+22:48:16 BattlEye Server: Player #5 Thomas Woods disconnected
+22:49:43 Thomas Woods uses modified data file
+22:49:43 BattlEye Server: Player #5 Thomas Woods (213.233.155.138:2304) connected
+22:49:43 Player Thomas Woods connecting.
+22:49:47 BattlEye Server: Player #5 Thomas Woods - BE GUID: 5056701f98ec95c72a3a45ef7e890f7c
+22:49:47 Player Thomas Woods connected (id=76561198174871239).
+22:49:47 BattlEye Server: Verified GUID (5056701f98ec95c72a3a45ef7e890f7c) of player #5 Thomas Woods
+22:51:38 Player [1K-33] R. Tjay disconnected.
+22:51:38 BattlEye Server: Player #4 [1K-33] R. Tjay disconnected
+22:52:13 Rogue Tjay uses modified data file
+22:52:13 BattlEye Server: Player #6 Rogue Tjay (99.232.144.252:2304) connected
+22:52:14 Player Rogue Tjay connecting.
+22:52:17 BattlEye Server: Player #6 Rogue Tjay - BE GUID: 1775b6bbb9f6757ed1e4f0f7592af3e5
+22:52:17 Player Rogue Tjay connected (id=76561198883479728).
+22

@@ -1,0 +1,6 @@
+#include "Restrain\remoteExec.cpp"
+#include "WhitelistMenu\remoteExec.cpp"
+#include "Craft\remoteExec.cpp"
+#include "Interpol\remoteExec.cpp"
+#include "Entreprise\remoteExec.cpp"
+#include "Phone\remoteExec.cpp"

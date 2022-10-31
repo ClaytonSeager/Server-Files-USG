@@ -1,0 +1,363 @@
+﻿21:50:05 BattlEye Server: Initialized (v1.217)
+21:50:05 Game Port: 2302, Steam Query Port: 2303
+21:50:05 Mission UrbanSky.kelleysisland read from bank.
+21:50:06 Host identity created.
+21:50:06 Roles assigned.
+21:50:06 Reading mission ...
+21:50:08 BattlEye Server: RCon admin #0 (127.0.0.1:57246) logged in
+21:50:58 BattlEye Server: RCon admin #1 (127.0.0.1:57257) logged in
+21:51:09 Mission read.
+21:51:09 Game started.
+21:51:13 Successfull attempt to execute serverCommand '#exec users' by server.
+21:52:44 mr.bean uses modified data file
+21:52:44 BattlEye Server: Player #0 mr.bean (99.232.144.252:2304) connected
+21:52:44 Player mr.bean connecting.
+21:52:44 BattlEye Server: Connected to BE Master
+21:52:47 BattlEye Server: Player #0 mr.bean - BE GUID: 1775b6bbb9f6757ed1e4f0f7592af3e5
+21:52:48 Player mr.bean connected (id=76561198883479728).
+21:52:48 BattlEye Server: Verified GUID (1775b6bbb9f6757ed1e4f0f7592af3e5) of player #0 mr.bean
+21:53:36 Wyclef uses modified data file
+21:53:36 BattlEye Server: Player #1 Wyclef (184.54.255.68:2304) connected
+21:53:37 Player Wyclef connecting.
+21:53:39 BattlEye Server: Player #1 Wyclef - BE GUID: f0371387b7fca9ed93f6370adce2e67e
+21:53:39 Player Wyclef connected (id=76561198038112694).
+21:53:39 BattlEye Server: Verified GUID (f0371387b7fca9ed93f6370adce2e67e) of player #1 Wyclef
+21:56:37 AL "BIG AL" GAMBINO uses modified data file
+21:56:37 BattlEye Server: Player #2 AL "BIG AL" GAMBINO (74.193.135.12:2304) connected
+21:56:37 Player AL "BIG AL" GAMBINO connecting.
+21:56:40 BattlEye Server: Player #2 AL "BIG AL" GAMBINO - BE GUID: 7df6da575da348d57bcde5b09ebf536a
+21:56:40 Player AL "BIG AL" GAMBINO connected (id=76561198361509989).
+21:56:40 BattlEye Server: Verified GUID (7df6da575da348d57bcde5b09ebf536a) of player #2 AL "BIG AL" GAMBINO
+21:57:37 Player AL "BIG AL" GAMBINO disconnected.
+21:57:37 BattlEye Server: Player #2 AL "BIG AL" GAMBINO disconnected
+21:58:41 AL "BIG AL" GAMBINO uses modified data file
+21:58:41 BattlEye Server: Player #2 AL "BIG AL" GAMBINO (74.193.135.12:2304) connected
+21:58:41 Player AL "BIG AL" GAMBINO connecting.
+21:58:44 BattlEye Server: Player #2 AL "BIG AL" GAMBINO - BE GUID: 7df6da575da348d57bcde5b09ebf536a
+21:58:44 Player AL "BIG AL" GAMBINO connected (id=76561198361509989).
+21:58:44 BattlEye Server: Verified GUID (7df6da575da348d57bcde5b09ebf536a) of player #2 AL "BIG AL" GAMBINO
+21:59:40 Player AL "BIG AL" GAMBINO disconnected.
+21:59:40 BattlEye Server: Player #2 AL "BIG AL" GAMBINO disconnected
+22:02:42 Player Wyclef disconnected.
+22:02:42 BattlEye Server: Player #1 Wyclef disconnected
+22:04:58 Player mr.bean disconnected.
+22:04:58 BattlEye Server: Player #0 mr.bean disconnected
+22:07:49 AL "BIG AL" GAMBINO uses modified data file
+22:07:49 BattlEye Server: Player #0 AL "BIG AL" GAMBINO (74.193.135.12:2304) connected
+22:07:49 Player AL "BIG AL" GAMBINO connecting.
+22:07:52 BattlEye Server: Player #0 AL "BIG AL" GAMBINO - BE GUID: 7df6da575da348d57bcde5b09ebf536a
+22:07:52 Player AL "BIG AL" GAMBINO connected (id=76561198361509989).
+22:07:52 BattlEye Server: Verified GUID (7df6da575da348d57bcde5b09ebf536a) of player #0 AL "BIG AL" GAMBINO
+22:08:28 BattlEye Server: RCon admin #0 (127.0.0.1:51748) logged in
+22:10:23 Player AL "BIG AL" GAMBINO disconnected.
+22:10:23 BattlEye Server: Player #0 AL "BIG AL" GAMBINO disconnected
+22:13:59 AL "BIG AL" GAMBINO uses modified data file
+22:13:59 BattlEye Server: Player #0 AL "BIG AL" GAMBINO (74.193.135.12:2304) connected
+22:13:59 Player AL "BIG AL" GAMBINO connecting.
+22:14:02 BattlEye Server: Player #0 AL "BIG AL" GAMBINO - BE GUID: 7df6da575da348d57bcde5b09ebf536a
+22:14:03 Player AL "BIG AL" GAMBINO connected (id=76561198361509989).
+22:14:03 BattlEye Server: Verified GUID (7df6da575da348d57bcde5b09ebf536a) of player #0 AL "BIG AL" GAMBINO
+22:14:36 Player AL "BIG AL" GAMBINO disconnected.
+22:14:36 BattlEye Server: Player #0 AL "BIG AL" GAMBINO disconnected
+22:15:52 AL "BIG AL" GAMBINO uses modified data file
+22:15:52 BattlEye Server: Player #0 AL "BIG AL" GAMBINO (74.193.135.12:2304) connected
+22:15:52 Player AL "BIG AL" GAMBINO connecting.
+22:15:55 BattlEye Server: Player #0 AL "BIG AL" GAMBINO - BE GUID: 7df6da575da348d57bcde5b09ebf536a
+22:15:55 Player AL "BIG AL" GAMBINO connected (id=76561198361509989).
+22:15:55 BattlEye Server: Verified GUID (7df6da575da348d57bcde5b09ebf536a) of player #0 AL "BIG AL" GAMBINO
+22:21:20 Jbo Marino[201] uses modified data file
+22:21:20 BattlEye Server: Player #1 Jbo Marino[201] (71.214.112.161:2304) connected
+22:21:20 Player Jbo Marino[201] connecting.
+22:21:23 BattlEye Server: Player #1 Jbo Marino[201] - BE GUID: f39290998763ee67898235ee2ea502e7
+22:21:23 Player Jbo Marino[201] connected (id=76561198206026112).
+22:21:23 BattlEye Server: Verified GUID (f39290998763ee67898235ee2ea502e7) of player #1 Jbo Marino[201]
+22:23:58 BattlEye Server: RCon admin #1 (127.0.0.1:55898) logged in
+22:25:21 Dan Dimmadont uses modified data file
+22:25:21 BattlEye Server: Player #2 Dan Dimmadont (206.255.128.79:2304) connected
+22:25:21 Player Dan Dimmadont connecting.
+22:25:24 BattlEye Server: Player #2 Dan Dimmadont - BE GUID: df1f5160cd5d424cdfa5e623564a5824
+22:25:24 Player Dan Dimmadont connected (id=76561198860031547).
+22:25:24 BattlEye Server: Verified GUID (df1f5160cd5d424cdfa5e623564a5824) of player #2 Dan Dimmadont
+22:51:09 Alexander.Rios uses modified data file
+22:51:10 BattlEye Server: Player #3 Alexander.Rios (70.53.30.125:2304) connected
+22:51:10 Player Alexander.Rios connecting.
+22:51:12 BattlEye Server: Player #3 Alexander.Rios - BE GUID: 26488dfd00ea2da71dbd4c11e142060f
+22:51:16 Player Alexander.Rios connected (id=76561198037915534).
+22:51:16 BattlEye Server: Verified GUID (26488dfd00ea2da71dbd4c11e142060f) of player #3 Alexander.Rios
+22:54:53 BattlEye Server: RCon admin #0 (127.0.0.1:53685) logged in
+22:57:23 Player Alexander.Rios disconnected.
+22:57:23 BattlEye Server: Player #3 Alexander.Rios disconnected
+22:57:25 Alexander.Rios uses modified data file
+22:57:25 BattlEye Server: Player #3 Alexander.Rios (70.53.30.125:2304) connected
+22:57:25 Player Alexander.Rios connecting.
+22:57:28 BattlEye Server: Player #3 Alexander.Rios - BE GUID: 26488dfd00ea2da71dbd4c11e142060f
+22:57:29 Player Alexander.Rios connected (id=76561198037915534).
+22:57:29 BattlEye Server: Verified GUID (26488dfd00ea2da71dbd4c11e142060f) of player #3 Alexander.Rios
+23:00:13 Eddie Spaghetti uses modified data file
+23:00:13 BattlEye Server: Player #4 Eddie Spaghetti (136.32.114.173:2304) connected
+23:00:13 Player Eddie Spaghetti connecting.
+23:00:17 BattlEye Server: Player #4 Eddie Spaghetti - BE GUID: 097ef239672adeff13b642a51bd888a9
+23:00:17 Player Eddie Spaghetti connected (id=76561198046997779).
+23:00:17 BattlEye Server: Verified GUID (097ef239672adeff13b642a51bd888a9) of player #4 Eddie Spaghetti
+23:01:44 Brandon Guzman uses modified data file
+23:01:44 BattlEye Server: Player #5 Brandon Guzman (73.200.199.202:2304) connected
+23:01:44 Player Brandon Guzman connecting.
+23:01:47 BattlEye Server: Player #5 Brandon Guzman - BE GUID: fa2207acf4deb306d0561e770c3d899c
+23:01:47 Player Brandon Guzman connected (id=76561199010889253).
+23:01:47 BattlEye Server: Verified GUID (fa2207acf4deb306d0561e770c3d899c) of player #5 Brandon Guzman
+23:01:57 Player Brandon Guzman disconnected.
+23:01:57 BattlEye Server: Player #5 Brandon Guzman disconnected
+23:04:41 Donnie Turbo uses modified data file
+23:04:41 BattlEye Server: Player #5 Donnie Turbo (192.81.45.131:2304) connected
+23:04:41 Player Donnie Turbo connecting.
+23:04:44 BattlEye Server: Player #5 Donnie Turbo - BE GUID: a0a46137167d70778acc68329618c7e6
+23:04:45 Player Donnie Turbo connected (id=76561198041233395).
+23:04:45 BattlEye Server: Verified GUID (a0a46137167d70778acc68329618c7e6) of player #5 Donnie Turbo
+23:05:40 Player Dan Dimmadont disconnected.
+23:05:40 BattlEye Server: Player #2 Dan Dimmadont disconnected
+23:08:11 Player Donnie Turbo is losing connection
+23:08:16 Player Donnie Turbo disconnected.
+23:08:16 BattlEye Server: Player #5 Donnie Turbo disconnected
+23:11:07 Donnie Turbo uses modified data file
+23:11:07 BattlEye Server: Player #5 Donnie Turbo (192.81.45.131:2304) connected
+23:11:07 Player Donnie Turbo connecting.
+23:11:11 BattlEye Server: Player #5 Donnie Turbo - BE GUID: a0a46137167d70778acc68329618c7e6
+23:11:11 Player Donnie Turbo connected (id=76561198041233395).
+23:11:11 BattlEye Server: Verified GUID (a0a46137167d70778acc68329618c7e6) of player #5 Donnie Turbo
+23:13:31 Wyclef uses modified data file
+23:13:31 BattlEye Server: Player #6 Wyclef (184.54.255.68:2304) connected
+23:13:31 Player Wyclef connecting.
+23:13:34 BattlEye Server: Player #6 Wyclef - BE GUID: f0371387b7fca9ed93f6370adce2e67e
+23:13:34 Player Wyclef connected (id=76561198038112694).
+23:13:34 BattlEye Server: Verified GUID (f0371387b7fca9ed93f6370adce2e67e) of player #6 Wyclef
+23:16:13 Player Donnie Turbo is losing connection
+23:16:21 mr.bean uses modified data file
+23:16:21 BattlEye Server: Player #7 mr.bean (99.232.144.252:2304) connected
+23:16:21 Player mr.bean connecting.
+23:16:24 BattlEye Server: Player #7 mr.bean - BE GUID: 1775b6bbb9f6757ed1e4f0f7592af3e5
+23:16:24 Player mr.bean connected (id=76561198883479728).
+23:16:24 BattlEye Server: Verified GUID (1775b6bbb9f6757ed1e4f0f7592af3e5) of player #7 mr.bean
+23:24:47 [1K-12] J Shepard uses modified data file
+23:24:47 BattlEye Server: Player #8 [1K-12] J Shepard (75.58.49.192:2304) connected
+23:24:47 Player [1K-12] J Shepard connecting.
+23:24:50 BattlEye Server: Player #8 [1K-12] J Shepard - BE GUID: bd4578e615422cb0ed98810eedfeb668
+23:24:50 Player [1K-12] J Shepard connected (id=76561198043298972).
+23:24:50 BattlEye Server: Verified GUID (bd4578e615422cb0ed98810eedfeb668) of player #8 [1K-12] J Shepard
+23:27:57 Player [1K-12] J Shepard disconnected.
+23:27:57 BattlEye Server: Player #8 [1K-12] J Shepard disconnected
+23:29:41 [1K-12] J Shepard uses modified data file
+23:29:41 BattlEye Server: Player #8 [1K-12] J Shepard (75.58.49.192:2304) connected
+23:29:41 Player [1K-12] J Shepard connecting.
+23:29:44 BattlEye Server: Player #8 [1K-12] J Shepard - BE GUID: bd4578e615422cb0ed98810eedfeb668
+23:29:44 Player [1K-12] J Shepard connected (id=76561198043298972).
+23:29:44 BattlEye Server: Verified GUID (bd4578e615422cb0ed98810eedfeb668) of player #8 [1K-12] J Shepard
+23:32:17 Rick Cheney uses modified data file
+23:32:17 BattlEye Server: Player #9 Rick Cheney (206.255.128.79:2304) connected
+23:32:17 Player Rick Cheney connecting.
+23:32:20 BattlEye Server: Player #9 Rick Cheney - BE GUID: df1f5160cd5d424cdfa5e623564a5824
+23:32:21 Player Rick Cheney connected (id=76561198860031547).
+23:32:21 BattlEye Server: Verified GUID (df1f5160cd5d424cdfa5e623564a5824) of player #9 Rick Cheney
+23:35:47 Player Wyclef is losing connection
+23:35:52 Player Wyclef disconnected.
+23:35:52 BattlEye Server: Player #6 Wyclef disconnected
+23:36:06 Player Donnie Turbo is losing connection
+23:38:03 Wyclef uses modified data file
+23:38:03 BattlEye Server: Player #10 Wyclef (184.54.255.68:2304) connected
+23:38:03 Player Wyclef connecting.
+23:38:06 BattlEye Server: Player #10 Wyclef - BE GUID: f0371387b7fca9ed93f6370adce2e67e
+23:38:06 Player Wyclef connected (id=76561198038112694).
+23:38:06 BattlEye Server: Verified GUID (f0371387b7fca9ed93f6370adce2e67e) of player #10 Wyclef
+23:38:54 John Anderson uses modified data file
+23:38:54 BattlEye Server: Player #11 John Anderson (76.6.145.223:2304) connected
+23:38:54 Player John Anderson connecting.
+23:38:58 BattlEye Server: Player #11 John Anderson - BE GUID: 1a817c92339e6b8e805de60b179df342
+23:38:58 Player John Anderson connected (id=76561198180893505).
+23:38:58 BattlEye Server: Verified GUID (1a817c92339e6b8e805de60b179df342) of player #11 John Anderson
+23:39:44 Player John Anderson disconnected.
+23:39:44 BattlEye Server: Player #11 John Anderson disconnected
+23:40:56 Zander Marino uses modified data file
+23:40:56 BattlEye Server: Player #11 Zander Marino (76.6.145.223:2304) connected
+23:40:56 Player Zander Marino connecting.
+23:41:00 BattlEye Server: Player #11 Zander Marino - BE GUID: 1a817c92339e6b8e805de60b179df342
+23:41:00 Player Zander Marino connected (id=76561198180893505).
+23:41:00 BattlEye Server: Verified GUID (1a817c92339e6b8e805de60b179df342) of player #11 Zander Marino
+23:43:36 Player Wyclef is losing connection
+23:43:41 Player Wyclef disconnected.
+23:43:41 BattlEye Server: Player #10 Wyclef disconnected
+23:45:02 Player mr.bean is losing connection
+23:45:07 Player mr.bean disconnected.
+23:45:07 BattlEye Server: Player #7 mr.bean disconnected
+23:45:24 Wyclef uses modified data file
+23:45:24 BattlEye Server: Player #12 Wyclef (184.54.255.68:2304) connected
+23:45:24 Player Wyclef connecting.
+23:45:27 BattlEye Server: Player #12 Wyclef - BE GUID: f0371387b7fca9ed93f6370adce2e67e
+23:45:27 Player Wyclef connected (id=76561198038112694).
+23:45:27 BattlEye Server: Verified GUID (f0371387b7fca9ed93f6370adce2e67e) of player #12 Wyclef
+23:46:38 luke uses modified data file
+23:46:38 BattlEye Server: Player #13 luke (47.135.166.94:2304) connected
+23:46:38 Player luke connecting.
+23:46:41 BattlEye Server: Player #13 luke - BE GUID: 1b3b942c0ee67b426e685870cfe6b312
+23:46:42 Player luke connected (id=76561198264871362).
+23:46:42 BattlEye Server: Verified GUID (1b3b942c0ee67b426e685870cfe6b312) of player #13 luke
+23:55:38 Player Zander Marino disconnected.
+23:55:38 BattlEye Server: Player #11 Zander Marino disconnected
+23:56:53 Stanley Thompson [1K-75] uses modified data file
+23:56:53 BattlEye Server: Player #14 Stanley Thompson [1K-75] (76.6.145.223:2304) connected
+23:56:53 Player Stanley Thompson [1K-75] connecting.
+23:56:54 BattlEye Server: RCon admin #1 (127.0.0.1:61359) logged in
+23:56:57 BattlEye Server: Player #14 Stanley Thompson [1K-75] - BE GUID: 1a817c92339e6b8e805de60b179df342
+23:56:57 Player Stanley Thompson [1K-75] connected (id=76561198180893505).
+23:56:57 BattlEye Server: Verified GUID (1a817c92339e6b8e805de60b179df342) of player #14 Stanley Thompson [1K-75]
+ 0:20:04 BattlEye Server: (Unknown) Eddie Spaghetti: cops just raiding houses at random rip
+ 0:20:50 BattlEye Server: (Unknown) luke: take vote day out
+ 0:34:59 Player Donnie Turbo is losing connection
+ 0:35:07 [TAC]Bronzey uses modified data file
+ 0:35:07 BattlEye Server: Player #15 [TAC]Bronzey (174.119.11.93:2304) connected
+ 0:35:07 Player [TAC]Bronzey connecting.
+ 0:35:09 BattlEye Server: Player #15 [TAC]Bronzey - BE GUID: 211ccb63b5a013a6296dee7c2cfe312a
+ 0:35:09 Player [TAC]Bronzey connected (id=76561198141100495).
+ 0:35:09 BattlEye Server: Verified GUID (211ccb63b5a013a6296dee7c2cfe312a) of player #15 [TAC]Bronzey
+ 0:35:44 Player [TAC]Bronzey disconnected.
+ 0:35:44 BattlEye Server: Player #15 [TAC]Bronzey disconnected
+ 0:37:35 Robert Kennedy uses modified data file
+ 0:37:35 BattlEye Server: Player #15 Robert Kennedy (76.120.21.218:2304) connected
+ 0:37:35 Player Robert Kennedy connecting.
+ 0:37:38 BattlEye Server: Player #15 Robert Kennedy - BE GUID: ee82c3729d5372257d58141db06c50ca
+ 0:37:38 Player Robert Kennedy connected (id=76561198083728776).
+ 0:37:38 BattlEye Server: Verified GUID (ee82c3729d5372257d58141db06c50ca) of player #15 Robert Kennedy
+ 0:41:29 BattlEye Server: RCon admin #0 (127.0.0.1:63664) logged in
+ 0:43:03 Player Eddie Spaghetti disconnected.
+ 0:43:03 BattlEye Server: Player #4 Eddie Spaghetti disconnected
+ 0:47:04 BattlEye Server: RCon admin #1 (127.0.0.1:65050) logged in
+ 0:54:12 Héctor "Lil Loco" Arturo uses modified data file
+ 0:54:13 BattlEye Server: Player #16 Héctor "Lil Loco" Arturo (174.115.199.248:2304) connected
+ 0:54:13 Player Héctor "Lil Loco" Arturo connecting.
+ 0:54:18 BattlEye Server: Player #16 Héctor "Lil Loco" Arturo - BE GUID: aba8543eb9f1fee2c92981731aa72309
+ 0:54:19 Player Héctor "Lil Loco" Arturo connected (id=76561197999316388).
+ 0:54:19 BattlEye Server: Verified GUID (aba8543eb9f1fee2c92981731aa72309) of player #16 Héctor "Lil Loco" Arturo
+ 0:58:32 Player Robert Kennedy disconnected.
+ 0:58:32 BattlEye Server: Player #15 Robert Kennedy disconnected
+ 0:58:47 Doug Dimmadont uses modified data file
+ 0:58:47 BattlEye Server: Player #17 Doug Dimmadont (76.120.21.218:2304) connected
+ 0:58:47 Player Doug Dimmadont connecting.
+ 0:58:49 BattlEye Server: Player #17 Doug Dimmadont - BE GUID: ee82c3729d5372257d58141db06c50ca
+ 0:58:50 Player Doug Dimmadont connected (id=76561198083728776).
+ 0:58:50 BattlEye Server: Verified GUID (ee82c3729d5372257d58141db06c50ca) of player #17 Doug Dimmadont
+ 1:00:30 Player Donnie Turbo is losing connection
+ 1:09:40 BattlEye Server: RCon admin #0 (127.0.0.1:64802) logged in
+ 1:18:56 Eddie Spaghetti uses modified data file
+ 1:18:56 BattlEye Server: Player #18 Eddie Spaghetti (136.32.114.173:2304) connected
+ 1:18:56 Player Eddie Spaghetti connecting.
+ 1:19:00 BattlEye Server: Player #18 Eddie Spaghetti - BE GUID: 097ef239672adeff13b642a51bd888a9
+ 1:19:00 Player Eddie Spaghetti connected (id=76561198046997779).
+ 1:19:00 BattlEye Server: Verified GUID (097ef239672adeff13b642a51bd888a9) of player #18 Eddie Spaghetti
+ 1:22:52 Boyevik Butch-Mac Volkev uses modified data file
+ 1:22:52 BattlEye Server: Player #19 Boyevik Butch-Mac Volkev (75.129.113.251:2304) connected
+ 1:22:52 Player Boyevik Butch-Mac Volkev connecting.
+ 1:22:54 BattlEye Server: Player #19 Boyevik Butch-Mac Volkev - BE GUID: 2171a69b0a8e7bb55eac768fb58f4833
+ 1:22:55 Player Boyevik Butch-Mac Volkev connected (id=76561198089960350).
+ 1:22:55 BattlEye Server: Verified GUID (2171a69b0a8e7bb55eac768fb58f4833) of player #19 Boyevik Butch-Mac Volkev
+ 1:28:00 BattlEye Server: (Direct) Boyevik Butch-Mac Volkev: Hang on sorry
+ 1:28:04 BattlEye Server: (Direct) Boyevik Butch-Mac Volkev: Just got a phone call
+ 1:30:59 Player Wyclef disconnected.
+ 1:30:59 BattlEye Server: Player #12 Wyclef disconnected
+ 1:34:13 RCT A. Echavarria uses modified data file
+ 1:34:13 BattlEye Server: Player #20 RCT A. Echavarria (181.60.147.92:2304) connected
+ 1:34:13 Player RCT A. Echavarria connecting.
+ 1:34:16 BattlEye Server: Player #20 RCT A. Echavarria - BE GUID: 7108aa413aef45f3056f31339eab8fda
+ 1:34:16 Player RCT A. Echavarria connected (id=76561198069751332).
+ 1:34:16 BattlEye Server: Verified GUID (7108aa413aef45f3056f31339eab8fda) of player #20 RCT A. Echavarria
+ 1:34:35 Player RCT A. Echavarria disconnected.
+ 1:34:35 BattlEye Server: Player #20 RCT A. Echavarria disconnected
+ 1:34:59 BattlEye Server: (Direct) Boyevik Butch-Mac Volkev: Wyclef did u get him taken care of
+ 1:35:06 BattlEye Server: (Direct) Boyevik Butch-Mac Volkev: Im on a phone call
+ 1:37:31 BattlEye Server: (Direct) Boyevik Butch-Mac Volkev: WHERE TF IS WYCLEF
+ 1:37:39 BattlEye Server: (Direct) Boyevik Butch-Mac Volkev: He was supposed to be helping Eddie
+ 1:38:14 BattlEye Server: (Direct) Boyevik Butch-Mac Volkev: r u guys getting my direct messages
+ 2:06:43 Player Donnie Turbo is losing connection
+ 2:12:04 BattlEye Server: (Unknown) Boyevik Butch-Mac Volkev: Bruh
+ 2:12:09 BattlEye Server: (Unknown) Héctor "Lil Loco" Arturo: dont yell in sidechat BRUH
+ 2:12:16 BattlEye Server: (Unknown) Héctor "Lil Loco" Arturo: stop
+ 2:12:17 BattlEye Server: (Unknown) Héctor "Lil Loco" Arturo: lmao
+ 2:12:20 BattlEye Server: (Unknown) luke: get the fuck out of sidechat
+ 2:12:29 BattlEye Server: (Unknown) Héctor "Lil Loco" Arturo: do it again
+ 2:12:50 BattlEye Server: (Unknown) Boyevik Butch-Mac Volkev: lol
+ 2:13:15 BattlEye Server: (Unknown) AL "BIG AL" GAMBINO: LOLOLOLOLOLOLOLOLOL
+ 2:14:11 BattlEye Server: (Unknown) Boyevik Butch-Mac Volkev: Eddie god damnit lol
+ 2:14:55 BattlEye Server: (Unknown) AL "BIG AL" GAMBINO: bra get yall stupiad ass out of side 
+ 2:15:09 BattlEye Server: (Unknown) Eddie Spaghetti: stupiad
+ 2:15:18 BattlEye Server: (Unknown) Boyevik Butch-Mac Volkev: Eddie sotp ruining my immersion
+ 2:15:22 BattlEye Server: (Unknown) Boyevik Butch-Mac Volkev: stop
+ 2:17:42 BattlEye Server: (Direct) AL "BIG AL" GAMBINO: drops on ground
+ 2:42:20 Player AL "BIG AL" GAMBINO disconnected.
+ 2:42:21 BattlEye Server: Player #0 AL "BIG AL" GAMBINO disconnected
+ 2:43:47 Player Stanley Thompson [1K-75] disconnected.
+ 2:43:47 BattlEye Server: Player #14 Stanley Thompson [1K-75] disconnected
+ 2:45:00 Zander Marino uses modified data file
+ 2:45:00 BattlEye Server: Player #20 Zander Marino (76.6.145.223:2304) connected
+ 2:45:00 Player Zander Marino connecting.
+ 2:45:04 BattlEye Server: Player #20 Zander Marino - BE GUID: 1a817c92339e6b8e805de60b179df342
+ 2:45:04 Player Zander Marino connected (id=76561198180893505).
+ 2:45:04 BattlEye Server: Verified GUID (1a817c92339e6b8e805de60b179df342) of player #20 Zander Marino
+ 2:47:33 Player Zander Marino disconnected.
+ 2:47:33 BattlEye Server: Player #20 Zander Marino disconnected
+ 2:49:26 Zander Marino uses modified data file
+ 2:49:26 BattlEye Server: Player #20 Zander Marino (174.246.225.221:11295) connected
+ 2:49:26 Player Zander Marino connecting.
+ 2:49:29 BattlEye Server: Player #20 Zander Marino - BE GUID: 1a817c92339e6b8e805de60b179df342
+ 2:49:30 Player Zander Marino connected (id=76561198180893505).
+ 2:49:30 BattlEye Server: Verified GUID (1a817c92339e6b8e805de60b179df342) of player #20 Zander Marino
+ 2:50:11 Player Donnie Turbo disconnected.
+ 2:50:11 BattlEye Server: Player #5 Donnie Turbo disconnected
+ 3:01:19 BattlEye Server: RCon admin #1 (127.0.0.1:50164) logged in
+ 3:07:55 Eriden Parker uses modified data file
+ 3:07:56 BattlEye Server: Player #21 Eriden Parker (35.132.243.235:2304) connected
+ 3:07:56 Player Eriden Parker connecting.
+ 3:08:07 Ulrik Laxdal uses modified data file
+ 3:08:07 BattlEye Server: Player #22 Ulrik Laxdal (174.112.107.161:2304) connected
+ 3:08:07 Player Ulrik Laxdal connecting.
+ 3:08:09 Player Eriden Parker disconnected.
+ 3:08:09 BattlEye Server: Player #21 Eriden Parker disconnected
+ 3:08:10 BattlEye Server: Player #22 Ulrik Laxdal - BE GUID: 22b80be0b9998431350dc5e25204f47b
+ 3:08:11 Player Ulrik Laxdal connected (id=76561198112856151).
+ 3:08:11 BattlEye Server: Verified GUID (22b80be0b9998431350dc5e25204f47b) of player #22 Ulrik Laxdal
+ 3:08:15 Player Ulrik Laxdal disconnected.
+ 3:08:15 BattlEye Server: Player #22 Ulrik Laxdal disconnected
+ 3:08:17 Ulrik Laxdal uses modified data file
+ 3:08:17 BattlEye Server: Player #21 Ulrik Laxdal (174.112.107.161:2304) connected
+ 3:08:17 Player Ulrik Laxdal connecting.
+ 3:08:19 BattlEye Server: Player #21 Ulrik Laxdal - BE GUID: 22b80be0b9998431350dc5e25204f47b
+ 3:08:20 Player Ulrik Laxdal connected (id=76561198112856151).
+ 3:08:20 BattlEye Server: Verified GUID (22b80be0b9998431350dc5e25204f47b) of player #21 Ulrik Laxdal
+ 3:08:24 Player Ulrik Laxdal disconnected.
+ 3:08:24 BattlEye Server: Player #21 Ulrik Laxdal disconnected
+ 3:08:39 Eriden Parker uses modified data file
+ 3:08:39 BattlEye Server: Player #21 Eriden Parker (35.132.243.235:2304) connected
+ 3:08:39 Player Eriden Parker connecting.
+ 3:08:43 BattlEye Server: Player #21 Eriden Parker - BE GUID: 8418b0eac1f3f16c4efae0332fd91637
+ 3:08:43 Player Eriden Parker connected (id=76561198054085448).
+ 3:08:43 BattlEye Server: Verified GUID (8418b0eac1f3f16c4efae0332fd91637) of player #21 Eriden Parker
+ 3:12:29 Player Alexander.Rios disconnected.
+ 3:12:29 BattlEye Server: Player #3 Alexander.Rios disconnected
+ 3:12:57 Player Eriden Parker disconnected.
+ 3:12:57 BattlEye Server: Player #21 Eriden Parker disconnected
+ 3:18:15 Wyclef uses modified data file
+ 3:18:15 BattlEye Server: Player #21 Wyclef (184.54.255.68:2304) connected
+ 3:18:15 Player Wyclef connecting.
+ 3:18:18 BattlEye Server: Player #21 Wyclef - BE GUID: f0371387b7fca9ed93f6370adce2e67e
+ 3:18:18 Player Wyclef connected (id=76561198038112694).
+ 3:18:18 BattlEye Server: Verified GUID (f0371387b7fca9ed93f6370adce2e67e) of player #21 Wyclef
+ 3:25:12 BattlEye Server: (Unknown) Eddie Spaghetti: Doug don't talk in side please
+ 3:33:50 BattlEye Server: (Unknown) Eddie Spaghetti: misclick
+ 3:35:29 Player [1K-12] J Shepard disconnected.
+ 3:35:29 BattlEye Server: Player #8 [1K-12] J Shepard disconnected
+ 3:39:02 Player Boyevik Butch-Mac Volkev disconnected.
+ 3:39:02 BattlEye Server: Player #19 Boyevik Butch-Mac Volkev disconnected
+ 3:42:22 Player Héctor "Lil Loco" Arturo disconnected.
+ 3:42:22 BattlEye Server: Player #16 Héctor "Lil Loco" Arturo disconnected
+ 3:52:21 Close uses modified data file
+ 3:52:21 BattlEye Server: Player #22 Close (104.173.19.189:2304) connected
+ 3:52:21 Player Close connecting.
+ 3:52:24 BattlEye Server: Player #22 Close - BE GUID: d269755d25c6c635c791483d5e7f2a4d
+ 3:52:24 Player Close connected (id=76561198119179763).
+ 3:52:24 BattlEye Serve

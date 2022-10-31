@@ -1,0 +1,184 @@
+﻿15:10:41 BattlEye Server: Initialized (v1.217)
+15:10:41 Game Port: 2302, Steam Query Port: 2303
+15:10:41 Warning: Current Steam AppId:  doesn't match expected value: 107410
+15:10:41 Mission UrbanSky.kelleysisland read from bank.
+15:10:44 Host identity created.
+15:10:44 BattlEye Server: RCon admin #0 (127.0.0.1:52315) logged in
+15:10:45 Roles assigned.
+15:10:45 Reading mission ...
+15:11:41 BattlEye Server: RCon admin #1 (127.0.0.1:62416) logged in
+15:11:49 Mission read.
+15:11:49 Low_Poly_Man uses modified data file
+15:11:49 luke uses modified data file
+15:11:49 Wyclef uses modified data file
+15:11:49 Ivan Pershketov uses modified data file
+15:11:49 Game started.
+15:11:49 BattlEye Server: Player #0 Low_Poly_Man (74.128.80.15:2304) connected
+15:11:49 Player Low_Poly_Man connecting.
+15:11:49 BattlEye Server: Player #1 luke (47.135.166.94:2304) connected
+15:11:49 Player luke connecting.
+15:11:49 BattlEye Server: Player #2 Wyclef (184.54.255.68:2304) connected
+15:11:49 Player Wyclef connecting.
+15:11:49 BattlEye Server: Player #3 Ivan Pershketov (162.213.242.232:2304) connected
+15:11:49 Player Ivan Pershketov connecting.
+15:11:50 BattlEye Server: Connected to BE Master
+15:11:52 BattlEye Server: Player #2 Wyclef - BE GUID: f0371387b7fca9ed93f6370adce2e67e
+15:11:52 BattlEye Server: Player #3 Ivan Pershketov - BE GUID: baeaf37751c8cb5ba1e1a73c33957203
+15:11:53 BattlEye Server: Player #1 luke - BE GUID: 1b3b942c0ee67b426e685870cfe6b312
+15:11:53 BattlEye Server: Player #0 Low_Poly_Man - BE GUID: d250b62ef6125275e039c9badd884760
+15:11:53 Player Ivan Pershketov connected (id=76561198105940600).
+15:11:53 BattlEye Server: Verified GUID (baeaf37751c8cb5ba1e1a73c33957203) of player #3 Ivan Pershketov
+15:11:53 Player luke connected (id=76561198264871362).
+15:11:53 BattlEye Server: Verified GUID (1b3b942c0ee67b426e685870cfe6b312) of player #1 luke
+15:11:54 Axel Jones uses modified data file
+15:11:54 Successfull attempt to execute serverCommand '#exec users' by server.
+15:11:54 BattlEye Server: Player #4 Axel Jones (149.152.23.140:33828) connected
+15:11:54 Player Axel Jones connecting.
+15:11:55 Player Wyclef connected (id=76561198038112694).
+15:11:55 BattlEye Server: Verified GUID (f0371387b7fca9ed93f6370adce2e67e) of player #2 Wyclef
+15:11:55 Player Low_Poly_Man connected (id=76561198137223112).
+15:11:55 BattlEye Server: Verified GUID (d250b62ef6125275e039c9badd884760) of player #0 Low_Poly_Man
+15:11:56 BattlEye Server: Player #4 Axel Jones - BE GUID: 7491baabe0f0bd29f7f51d28794bda13
+15:11:57 Player Axel Jones connected (id=76561198091943121).
+15:11:57 BattlEye Server: Verified GUID (7491baabe0f0bd29f7f51d28794bda13) of player #4 Axel Jones
+15:13:08 William Romano uses modified data file
+15:13:08 BattlEye Server: Player #5 William Romano (74.105.195.99:2304) connected
+15:13:08 Player William Romano connecting.
+15:13:10 BattlEye Server: Player #5 William Romano - BE GUID: f88d1247d9069e8cefb7d19c8cbc9372
+15:13:27 Player William Romano connected (id=76561198149474498).
+15:13:27 BattlEye Server: Verified GUID (f88d1247d9069e8cefb7d19c8cbc9372) of player #5 William Romano
+15:14:10 Donnie Turbo uses modified data file
+15:14:10 BattlEye Server: Player #6 Donnie Turbo (192.81.45.131:2304) connected
+15:14:10 Player Donnie Turbo connecting.
+15:14:13 BattlEye Server: Player #6 Donnie Turbo - BE GUID: a0a46137167d70778acc68329618c7e6
+15:14:13 Player Donnie Turbo connected (id=76561198041233395).
+15:14:13 BattlEye Server: Verified GUID (a0a46137167d70778acc68329618c7e6) of player #6 Donnie Turbo
+15:14:39 BattlEye Server: (Unknown) Axel Jones: *tweets* just coughed on a medic, maybe he'll get corona virus
+15:16:52 Sergei Chedakai uses modified data file
+15:16:52 BattlEye Server: Player #7 Sergei Chedakai (75.58.49.192:2304) connected
+15:16:52 Player Sergei Chedakai connecting.
+15:16:55 BattlEye Server: Player #7 Sergei Chedakai - BE GUID: bd4578e615422cb0ed98810eedfeb668
+15:16:55 Player Sergei Chedakai connected (id=76561198043298972).
+15:16:55 BattlEye Server: Verified GUID (bd4578e615422cb0ed98810eedfeb668) of player #7 Sergei Chedakai
+15:17:02 Player Sergei Chedakai disconnected.
+15:17:03 BattlEye Server: Player #7 Sergei Chedakai disconnected
+15:17:21 BattlEye Server: RCon admin #0 (127.0.0.1:58356) logged in
+15:18:19 K-12 J. Shepard uses modified data file
+15:18:19 BattlEye Server: Player #7 K-12 J. Shepard (75.58.49.192:2304) connected
+15:18:19 Player K-12 J. Shepard connecting.
+15:18:22 BattlEye Server: Player #7 K-12 J. Shepard - BE GUID: bd4578e615422cb0ed98810eedfeb668
+15:18:22 Player K-12 J. Shepard connected (id=76561198043298972).
+15:18:22 BattlEye Server: Verified GUID (bd4578e615422cb0ed98810eedfeb668) of player #7 K-12 J. Shepard
+15:21:58 BattlEye Server: (Unknown) Axel Jones: *tweet* at union pub, anyone want to have a drinking buddy?
+15:22:29 BattlEye Server: (Unknown) William Romano: *tweet* I say we hit up the nightclub tonight
+15:22:46 BattlEye Server: (Unknown) Axel Jones: *tweet* sounds good, but day drinking is almost as fun
+15:32:52 BattlEye Server: (Unknown) Axel Jones: *Tweet* anyone want to day drink with me
+15:33:58 BattlEye Server: (Unknown) William Romano: Let me get a staff member?
+15:35:16 BattlEye Server: (Unknown) William Romano: Hello? I need a staff member.
+15:37:23 Giovanni Di Angelo uses modified data file
+15:37:23 BattlEye Server: Player #8 Giovanni Di Angelo (35.142.206.2:2304) connected
+15:37:23 Player Giovanni Di Angelo connecting.
+15:41:08 BattlEye Server: (Unknown) Axel Jones: *tweet* union pub was booming, but alas my day drinking buddies actually have jobs *crying emoji*
+15:41:31 Player Giovanni Di Angelo disconnected.
+15:41:31 BattlEye Server: Player #8 Giovanni Di Angelo disconnected
+15:41:43 Giovanni Di Angelo uses modified data file
+15:41:43 BattlEye Server: Player #8 Giovanni Di Angelo (35.142.206.2:2304) connected
+15:41:43 Player Giovanni Di Angelo connecting.
+15:43:32 Player Giovanni Di Angelo disconnected.
+15:43:32 BattlEye Server: Player #8 Giovanni Di Angelo disconnected
+15:44:15 Player luke is losing connection
+15:44:20 Player luke disconnected.
+15:44:20 BattlEye Server: Player #1 luke disconnected
+15:47:18 Player Ivan Pershketov disconnected.
+15:47:18 BattlEye Server: Player #3 Ivan Pershketov disconnected
+15:47:20 Ivan Pershketov uses modified data file
+15:47:20 BattlEye Server: Player #8 Ivan Pershketov (162.213.242.232:2304) connected
+15:47:20 Player Ivan Pershketov connecting.
+15:47:23 BattlEye Server: Player #8 Ivan Pershketov - BE GUID: baeaf37751c8cb5ba1e1a73c33957203
+15:47:24 Player Ivan Pershketov connected (id=76561198105940600).
+15:47:24 BattlEye Server: Verified GUID (baeaf37751c8cb5ba1e1a73c33957203) of player #8 Ivan Pershketov
+15:47:40 BattlEye Server: (Direct) Axel Jones: repairing dw
+15:48:20 S.Kingston uses modified data file
+15:48:20 BattlEye Server: Player #9 S.Kingston (82.40.14.252:2304) connected
+15:48:21 Player S.Kingston connecting.
+15:48:24 BattlEye Server: Player #9 S.Kingston - BE GUID: 25be6e9ae307bb439755ea968f9d36d8
+15:48:24 Player S.Kingston connected (id=76561198046640450).
+15:48:24 BattlEye Server: Verified GUID (25be6e9ae307bb439755ea968f9d36d8) of player #9 S.Kingston
+15:49:59 luke uses modified data file
+15:49:59 BattlEye Server: Player #10 luke (47.135.166.94:2304) connected
+15:49:59 Player luke connecting.
+15:50:02 BattlEye Server: Player #10 luke - BE GUID: 1b3b942c0ee67b426e685870cfe6b312
+15:50:02 Player luke connected (id=76561198264871362).
+15:50:02 BattlEye Server: Verified GUID (1b3b942c0ee67b426e685870cfe6b312) of player #10 luke
+15:50:23 BattlEye Server: (Unknown) Ivan Pershketov: *tweet* who wants to come do some crazy shit with daredevil dave?
+15:50:54 BattlEye Server: (Unknown) Axel Jones: *tweet* if i get drinks im down
+15:51:08 BattlEye Server: (Unknown) Ivan Pershketov: *tweet* included in the airfare
+15:56:19 Giovanni Di Angelo uses modified data file
+15:56:19 BattlEye Server: Player #11 Giovanni Di Angelo (35.142.206.2:2304) connected
+15:56:19 Player Giovanni Di Angelo connecting.
+16:04:30 Player Giovanni Di Angelo disconnected.
+16:04:30 BattlEye Server: Player #11 Giovanni Di Angelo disconnected
+16:05:22 Giovanni Di Angelo uses modified data file
+16:05:22 BattlEye Server: Player #11 Giovanni Di Angelo (35.142.206.2:2304) connected
+16:05:22 Player Giovanni Di Angelo connecting.
+16:05:35 Player Giovanni Di Angelo disconnected.
+16:05:35 BattlEye Server: Player #11 Giovanni Di Angelo disconnected
+16:12:01 BattlEye Server: RCon admin #1 (127.0.0.1:56991) logged in
+16:14:40 Ethan Romano uses modified data file
+16:14:40 BattlEye Server: Player #11 Ethan Romano (35.142.206.2:2304) connected
+16:14:40 Player Ethan Romano connecting.
+16:15:37 Player Ethan Romano disconnected.
+16:15:37 BattlEye Server: Player #11 Ethan Romano disconnected
+16:15:46 BattlEye Server: (Unknown) Ivan Pershketov: *tweet* taking ALL available passenders on daredevil dave's flight. On the gas station north of Union right next to the main highway. See you then boy
+16:16:43 BattlEye Server: (Unknown) Ivan Pershketov: *parachutes not included
+16:17:10 BattlEye Server: (Unknown) Ivan Pershketov: *tweet* 2 minutes until departure boys. any takers?
+16:17:19 Ethan Romano uses modified data file
+16:17:19 BattlEye Server: Player #11 Ethan Romano (35.142.206.2:2304) connected
+16:17:19 Player Ethan Romano connecting.
+16:18:09 Player Ethan Romano disconnected.
+16:18:09 BattlEye Server: Player #11 Ethan Romano disconnected
+16:26:51 Player Axel Jones disconnected.
+16:26:51 BattlEye Server: Player #4 Axel Jones disconnected
+16:28:19 Ethan Romano uses modified data file
+16:28:19 BattlEye Server: Player #11 Ethan Romano (35.142.206.2:2304) connected
+16:28:19 Player Ethan Romano connecting.
+16:31:55 BattlEye Server: (Unknown) William Romano: *Tweet* Street Race?
+16:32:20 Player Ethan Romano disconnected.
+16:32:20 BattlEye Server: Player #11 Ethan Romano disconnected
+16:34:34 Player Low_Poly_Man disconnected.
+16:34:34 BattlEye Server: Player #0 Low_Poly_Man disconnected
+16:34:53 William uses modified data file
+16:34:53 BattlEye Server: Player #11 William (77.100.114.154:2304) connected
+16:34:53 Player William connecting.
+16:34:56 BattlEye Server: Player #11 William - BE GUID: 5990be1c6b876087e3f6f9d7e1de66c1
+16:34:57 Player William connected (id=76561198213286991).
+16:34:57 BattlEye Server: Verified GUID (5990be1c6b876087e3f6f9d7e1de66c1) of player #11 William
+16:35:53 BattlEye Server: (Unknown) Ivan Pershketov: *tweet* Who wants to come pick my crippled ass up from jail?
+16:36:32 BattlEye Server: (Unknown) Ivan Pershketov: *tweet* i'll be paying 50k for the drive.
+16:36:42 BattlEye Server: (Unknown) William Romano: *tweet* bet
+16:42:57 BattlEye Server: (Unknown) William Romano: *Tweet* Yo get to the night club boys
+16:44:41 Ryder uses modified data file
+16:44:41 BattlEye Server: Player #12 Ryder (74.120.7.131:2304) connected
+16:44:41 Player Ryder connecting.
+16:44:44 BattlEye Server: Player #12 Ryder - BE GUID: 20d3ab9c8b74c3319ab43622dd2c5f19
+16:44:44 Player Ryder connected (id=76561198272331422).
+16:44:44 BattlEye Server: Verified GUID (20d3ab9c8b74c3319ab43622dd2c5f19) of player #12 Ryder
+16:45:00 BattlEye Server: RCon admin #1: (Global) SERVER RESTART IN 15 MINUTES!
+16:45:04 Player Ryder disconnected.
+16:45:04 BattlEye Server: Player #12 Ryder disconnected
+16:46:38 Ethan Romano uses modified data file
+16:46:38 BattlEye Server: Player #12 Ethan Romano (35.142.206.2:2304) connected
+16:46:38 Player Ethan Romano connecting.
+16:49:51 BattlEye Server: RCon admin #0 (127.0.0.1:65210) logged in
+16:50:00 BattlEye Server: RCon admin #0: (Global) SERVER RESTART IN 10 MINUTES!
+16:53:17 Player Ethan Romano disconnected.
+16:53:17 BattlEye Server: Player #12 Ethan Romano disconnected
+16:54:27 Player Ivan Pershketov disconnected.
+16:54:27 BattlEye Server: Player #8 Ivan Pershketov disconnected
+16:55:00 BattlEye Server: RCon admin #0: (Global) SERVER RESTART IN 5 MINUTES LOCKING SERVER!
+16:56:00 BattlEye Server: RCon admin #0: (Global) SERVER RESTART IN 4 MINUTES!
+16:57:00 BattlEye Server: RCon admin #0: (Global) SERVER RESTART IN 3 MINUTES!
+16:58:00 BattlEye Server: RCon admin #0: (Global) SERVER RESTART IN 2 MINUTES!
+16:59:00 BattlEye Server: RCon admin #0: (Global) SERVER RESTART IN 1 MINUTE!
+16:59:47 Player William disconnected.
+1

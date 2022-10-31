@@ -1,0 +1,66 @@
+﻿12:00:48 BattlEye Server: Initialized (v1.217)
+12:00:48 Game Port: 2302, Steam Query Port: 2303
+12:00:48 Warning: Current Steam AppId:  doesn't match expected value: 107410
+12:00:48 Mission UrbanSky.kelleysisland read from bank.
+12:00:51 Host identity created.
+12:00:51 BattlEye Server: RCon admin #0 (127.0.0.1:59274) logged in
+12:00:51 Roles assigned.
+12:00:51 Reading mission ...
+12:01:47 BattlEye Server: RCon admin #1 (127.0.0.1:54216) logged in
+12:01:53 Mission read.
+12:01:53 Game started.
+12:01:57 Successfull attempt to execute serverCommand '#exec users' by server.
+12:44:57 BattlEye Server: RCon admin #0 (127.0.0.1:64343) logged in
+13:35:18 BattlEye Server: RCon admin #1 (127.0.0.1:50781) logged in
+14:01:28 BattlEye Server: RCon admin #0 (127.0.0.1:52606) logged in
+14:12:18 BattlEye Server: RCon admin #1 (127.0.0.1:62717) logged in
+14:31:43 BattlEye Server: RCon admin #0 (127.0.0.1:63978) logged in
+15:30:34 BattlEye Server: RCon admin #1 (127.0.0.1:49964) logged in
+16:03:34 BattlEye Server: RCon admin #0 (127.0.0.1:50915) logged in
+16:26:29 BattlEye Server: RCon admin #1 (127.0.0.1:51693) logged in
+18:38:47 William uses modified data file
+18:38:47 BattlEye Server: Player #0 William (77.100.114.154:2304) connected
+18:38:47 Player William connecting.
+18:38:48 BattlEye Server: Connected to BE Master
+18:38:50 BattlEye Server: Player #0 William - BE GUID: 5990be1c6b876087e3f6f9d7e1de66c1
+18:38:51 Player William connected (id=76561198213286991).
+18:38:51 BattlEye Server: Verified GUID (5990be1c6b876087e3f6f9d7e1de66c1) of player #0 William
+18:46:02 Player William disconnected.
+18:46:02 BattlEye Server: Player #0 William disconnected
+18:49:16 BattlEye Server: RCon admin #0 (127.0.0.1:56566) logged in
+20:49:28 Low_Poly_Man uses modified data file
+20:49:28 BattlEye Server: Player #0 Low_Poly_Man (74.128.80.15:2304) connected
+20:49:28 Player Low_Poly_Man connecting.
+20:49:33 BattlEye Server: Player #0 Low_Poly_Man - BE GUID: d250b62ef6125275e039c9badd884760
+20:49:36 Player Low_Poly_Man connected (id=76561198137223112).
+20:49:36 BattlEye Server: Verified GUID (d250b62ef6125275e039c9badd884760) of player #0 Low_Poly_Man
+21:16:37 Thomas Woods uses modified data file
+21:16:37 BattlEye Server: Player #1 Thomas Woods (213.233.155.166:2304) connected
+21:16:38 Player Thomas Woods connecting.
+21:16:41 BattlEye Server: Player #1 Thomas Woods - BE GUID: 5056701f98ec95c72a3a45ef7e890f7c
+21:16:41 Player Thomas Woods connected (id=76561198174871239).
+21:16:41 BattlEye Server: Verified GUID (5056701f98ec95c72a3a45ef7e890f7c) of player #1 Thomas Woods
+21:21:52 BattlEye Server: RCon admin #1 (127.0.0.1:59408) logged in
+21:25:47 BattlEye Server: RCon admin #0 (127.0.0.1:49425) logged in
+21:51:59 Player Thomas Woods disconnected.
+21:51:59 BattlEye Server: Player #1 Thomas Woods disconnected
+21:57:04 Rogue Tjay uses modified data file
+21:57:04 BattlEye Server: Player #1 Rogue Tjay (99.232.144.252:2304) connected
+21:57:04 Player Rogue Tjay connecting.
+21:57:07 BattlEye Server: Player #1 Rogue Tjay - BE GUID: 1775b6bbb9f6757ed1e4f0f7592af3e5
+21:57:08 Player Rogue Tjay connected (id=76561198883479728).
+21:57:08 BattlEye Server: Verified GUID (1775b6bbb9f6757ed1e4f0f7592af3e5) of player #1 Rogue Tjay
+21:59:09 Player Low_Poly_Man disconnected.
+21:59:09 BattlEye Server: Player #0 Low_Poly_Man disconnected
+22:44:18 BattlEye Server: RCon admin #1 (127.0.0.1:61243) logged in
+22:54:30 Donnie Turbo uses modified data file
+22:54:30 BattlEye Server: Player #2 Donnie Turbo (192.81.45.131:2304) connected
+22:54:30 Player Donnie Turbo connecting.
+22:54:33 BattlEye Server: Player #2 Donnie Turbo - BE GUID: a0a46137167d70778acc68329618c7e6
+22:54:34 Player Donnie Turbo connected (id=76561198041233395).
+22:54:34 BattlEye Server: Verified GUID (a0a46137167d70778acc68329618c7e6) of player #2 Donnie Turbo
+22:59:12 BattlEye Server: (Direct) Rogue Tjay: d
+23:25:59 Low_Poly_Man uses modified data file
+23:25:59 BattlEye Server: Player #3 Low_Poly_Man (74.128.80.15:2304) connected
+23:26:00 Player Low_Poly_Man connecting.
+23:26:04 BattlEye Server: Player #3 Low_Poly_Man - 

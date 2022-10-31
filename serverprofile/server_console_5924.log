@@ -1,0 +1,65 @@
+ 5:45:46 BattlEye Server: Initialized (v1.217)
+ 5:45:46 Game Port: 2302, Steam Query Port: 2303
+ 5:45:46 Warning: Current Steam AppId:  doesn't match expected value: 107410
+ 5:45:46 Mission UrbanSky.kelleysisland read from bank.
+ 5:45:49 Host identity created.
+ 5:45:49 BattlEye Server: RCon admin #0 (127.0.0.1:60583) logged in
+ 5:45:49 Roles assigned.
+ 5:45:49 Reading mission ...
+ 5:46:45 BattlEye Server: RCon admin #1 (127.0.0.1:62257) logged in
+ 5:46:51 Mission read.
+ 5:46:51 Game started.
+ 5:46:54 Successfull attempt to execute serverCommand '#exec users' by server.
+ 5:49:39 HoyoBani uses modified data file
+ 5:49:39 BattlEye Server: Player #0 HoyoBani (162.213.242.232:2304) connected
+ 5:49:39 Player HoyoBani connecting.
+ 5:49:40 BattlEye Server: Connected to BE Master
+ 5:49:42 BattlEye Server: Player #0 HoyoBani - BE GUID: baeaf37751c8cb5ba1e1a73c33957203
+ 5:49:42 Player HoyoBani connected (id=76561198105940600).
+ 5:49:42 BattlEye Server: Verified GUID (baeaf37751c8cb5ba1e1a73c33957203) of player #0 HoyoBani
+ 5:59:10 BattlEye Server: RCon admin #0 (127.0.0.1:55461) logged in
+ 5:59:18 Sherman uses modified data file
+ 5:59:18 BattlEye Server: Player #1 Sherman (184.54.255.68:2304) connected
+ 5:59:18 Player Sherman connecting.
+ 5:59:21 BattlEye Server: Player #1 Sherman - BE GUID: f0371387b7fca9ed93f6370adce2e67e
+ 5:59:24 Player Sherman connected (id=76561198038112694).
+ 5:59:24 BattlEye Server: Verified GUID (f0371387b7fca9ed93f6370adce2e67e) of player #1 Sherman
+ 6:01:22 Nino Marino uses modified data file
+ 6:01:22 BattlEye Server: Player #2 Nino Marino (71.214.112.161:2304) connected
+ 6:01:22 Player Nino Marino connecting.
+ 6:01:25 BattlEye Server: Player #2 Nino Marino - BE GUID: f39290998763ee67898235ee2ea502e7
+ 6:01:25 Player Nino Marino connected (id=76561198206026112).
+ 6:01:25 BattlEye Server: Verified GUID (f39290998763ee67898235ee2ea502e7) of player #2 Nino Marino
+ 6:01:35 Player Nino Marino disconnected.
+ 6:01:35 BattlEye Server: Player #2 Nino Marino disconnected
+ 6:05:08 Nino Marino uses modified data file
+ 6:05:08 BattlEye Server: Player #2 Nino Marino (71.214.112.161:2304) connected
+ 6:05:08 Player Nino Marino connecting.
+ 6:05:12 BattlEye Server: Player #2 Nino Marino - BE GUID: f39290998763ee67898235ee2ea502e7
+ 6:05:12 Player Nino Marino connected (id=76561198206026112).
+ 6:05:12 BattlEye Server: Verified GUID (f39290998763ee67898235ee2ea502e7) of player #2 Nino Marino
+ 6:10:50 Stanley Thompson [1K-75] uses modified data file
+ 6:10:50 BattlEye Server: Player #3 Stanley Thompson [1K-75] (174.193.6.188:15397) connected
+ 6:10:50 Player Stanley Thompson [1K-75] connecting.
+ 6:10:54 BattlEye Server: Player #3 Stanley Thompson [1K-75] - BE GUID: 1a817c92339e6b8e805de60b179df342
+ 6:10:54 Player Stanley Thompson [1K-75] connected (id=76561198180893505).
+ 6:10:54 BattlEye Server: Verified GUID (1a817c92339e6b8e805de60b179df342) of player #3 Stanley Thompson [1K-75]
+ 6:13:15 BattlEye Server: RCon admin #1 (127.0.0.1:53572) logged in
+ 6:35:20 Player Sherman disconnected.
+ 6:35:20 BattlEye Server: Player #1 Sherman disconnected
+ 6:47:36 Player HoyoBani is losing connection
+ 6:47:41 Player HoyoBani disconnected.
+ 6:47:41 BattlEye Server: Player #0 HoyoBani disconnected
+ 6:51:38 Player Nino Marino disconnected.
+ 6:51:38 BattlEye Server: Player #2 Nino Marino disconnected
+ 6:53:25 Player Stanley Thompson [1K-75] disconnected.
+ 6:53:25 BattlEye Server: Player #3 Stanley Thompson [1K-75] disconnected
+ 8:03:01 BattlEye Server: RCon admin #0 (127.0.0.1:61685) logged in
+ 8:36:01 BattlEye Server: RCon admin #1 (127.0.0.1:61123) logged in
+ 8:58:46 BattlEye Server: RCon admin #0 (127.0.0.1:62373) logged in
+10:16:12 BattlEye Server: RCon admin #1 (127.0.0.1:61280) logged in
+10:20:07 BattlEye Server: RCon admin #0 (127.0.0.1:57132) logged in
+10:59:57 BattlEye Server: RCon admin #1 (127.0.0.1:53301) logged in
+11:45:00 BattlEye Server: RCon admin #1: (Global) SERVER RESTART IN 15 MINUTES!
+11:50:00 BattlEye Server: RCon admin #1: (Global) SERVER RESTART IN 10 MINUTES!
+11:55:00 BattlEye Server: RCon admin #1: (Global) SERVER RESTAR

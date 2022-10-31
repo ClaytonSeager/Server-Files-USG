@@ -12,5 +12,5 @@
     serverprofile
     TS Icons for the TeamSpeak configuration
 
-<!-- If you have any questions please email myself beflow -->
+If you have any questions please email myself beflow
 # claytonseager@seagertesting.com

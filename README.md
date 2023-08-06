@@ -1,7 +1,7 @@
 # Server Files USG
 # These are all of the backend and database server files for USG Arma 3
 
-# Included in this repository is:
+# Included in this repository are:
     backup.sql
     infiSTAR_A3
     configs
